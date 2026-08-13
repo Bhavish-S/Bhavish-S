@@ -28,7 +28,7 @@
 &nbsp;
 ![GitHub Followers](https://img.shields.io/github/followers/Bhavish-S?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117&logo=github&logoColor=white)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/Bhavish-S?label=Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-6-00d4ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)
 
 <br/>
 
@@ -213,27 +213,6 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 ## 📊 GitHub Analytics
 
-<!-- PROFILE SUMMARY CARDS ROW 1 -->
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavish-s&theme=tokyonight" height="160" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavish-s&theme=tokyonight" height="160" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavish-s&theme=tokyonight" height="160" alt="Stats Card" />
-
-</div>
-
-<br/>
-
-<!-- PROFILE SUMMARY CARDS ROW 2 -->
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhavish-s&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavish-s&theme=tokyonight" height="160" alt="Profile Details" />
-
-</div>
-
-<br/>
-
 <!-- TOP LANGUAGES -->
 <div align="center">
 
@@ -272,6 +251,8 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 ## 🐍 Contribution Grid Snake
 
+> ⚠️ **This image is blank until you complete the 1-time, 2-minute setup right below.** It's not broken — it just doesn't exist yet. Do the setup once and it appears automatically and updates itself forever.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
@@ -280,8 +261,8 @@ By day — a **CSE student** absorbing everything about systems and software. By
   </picture>
 </div>
 
-<details>
-<summary>⚙️ <b>One-Time Snake Setup — Click to Expand</b></summary>
+<details open>
+<summary>⚙️ <b>One-Time Snake Setup (do this now — takes 2 minutes)</b></summary>
 <br/>
 
 Create `.github/workflows/snake.yml` inside your `Bhavish-S` profile repository:
@@ -530,10 +511,16 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 <!--                         DEV QUOTE                                     -->
 <!-- ===================================================================== -->
 
-## 💬 Dev Quote of the Day
+## 💬 Hacker Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="93%" />
+
+> 🔐 *"Amateurs hack systems, professionals hack people — but ethical hackers protect both."*
+>
+> 🛡️ *"The only truly secure system is one that is powered off, cast in a block of concrete... so don't aim for that. Aim for resilient."* — inspired by Gene Spafford
+>
+> ⚔️ *"You don't need to be unstoppable, you just need to be unpredictable."*
+
 </div>
 
 <br/>
@@ -617,4 +604,3 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
   <br/>
   <sub>🌐 Hack the Planet — Legally! | ⭐ Drop a star if this profile inspired you!</sub>
 </div>
-
