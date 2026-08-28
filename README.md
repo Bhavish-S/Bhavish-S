@@ -1,9 +1,14 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    BHAVISH S — GITHUB PROFILE README                ║ -->
+<!-- ║              Cyberpunk / Neon Hacker Aesthetic · v3.0               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <!-- ===================================================================== -->
-<!--                        ANIMATED HEADER BANNER                         -->
+<!--                     ANIMATED HEADER BANNER                            -->
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,70:0f3460,100:16213e&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=00d4ff&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=a8dadc" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a192f,40:0f3460,65:00b4d8,100:00d4ff&height=280&section=header&text=Bhavish%20S&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=32&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=58&descSize=20&descColor=58a6ff&stroke=00d4ff&strokeWidth=1" alt="Header Banner" />
 </div>
 
 <!-- ===================================================================== -->
@@ -12,52 +17,60 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=820&height=45&lines=I+Break+Into+Systems+(Legally)+%F0%9F%94%90;Ethical+Hacker+%7C+Penetration+Tester+%7C+SOC+Analyst;SIEM+Engineer+%7C+Threat+Detection+Specialist;Python+Security+Scripting+%26+Automation+Expert;Google+Cybersecurity+Certified+%F0%9F%8F%86;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+%F0%9F%9A%80;Full-Stack+Dev+Who+Thinks+Like+a+Hacker" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <!-- ===================================================================== -->
-<!--                        TOP STATS BADGE ROW                            -->
+<!--                      TOP STATS BADGE ROW                              -->
 <!-- ===================================================================== -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhavish-s&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/Bhavish-S?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117&logo=github&logoColor=white)
-&nbsp;
-![Repos](https://img.shields.io/badge/Repos-6-00d4ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavish%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/bhavish-s-/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-bhavishgowda2006-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:bhavishgowda2006@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Live%20Project-NoDue%20Portal-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://noc-portal-delta.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=bhavish-s&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&labelColor=0d1117)
+&nbsp;&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/Bhavish-S?label=FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=00d4ff)
+&nbsp;&nbsp;
+![Repos](https://img.shields.io/badge/REPOS-6-00d4ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00d4ff)
 
 </div>
 
 <br/>
 
----
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Bhavish%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/bhavish-s-/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-bhavishgowda2006-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:bhavishgowda2006@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/LIVE_PROJECT-NoDue%20Portal-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://noc-portal-delta.vercel.app/)
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                            ABOUT ME                                   -->
 <!-- ===================================================================== -->
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="55%">
 
-```
-  ╔══════════════════════════════════════════════╗
-  ║           SYSTEM RECON — TARGET INFO         ║
-  ╚══════════════════════════════════════════════╝
+```js
+  ┌──────────────────────────────────────────────────┐
+  │          SYSTEM RECON — TARGET INFO               │
+  └──────────────────────────────────────────────────┘
 
   bhavish@kali:~$ whoami
 
@@ -70,14 +83,14 @@
 
   bhavish@kali:~$ cat /etc/skills
 
-  [*] Penetration Testing & Ethical Hacking
-  [*] SOC Operations & Incident Response
-  [*] SIEM Engineering (Splunk / Elastic)
-  [*] Python Security Scripting & Automation
-  [*] Full-Stack Web & SaaS Development
-  [*] Network Security & Traffic Analysis
-  [*] OWASP Top 10 & Web App PenTest
-  [*] Threat Detection & Intelligence
+  [✦] Penetration Testing & Ethical Hacking
+  [✦] SOC Operations & Incident Response
+  [✦] SIEM Engineering (Splunk / Elastic)
+  [✦] Python Security Scripting & Automation
+  [✦] Full-Stack Web & SaaS Development
+  [✦] Network Security & Traffic Analysis
+  [✦] OWASP Top 10 & Web App PenTest
+  [✦] Threat Detection & Intelligence
 
   bhavish@kali:~$ cat status.log
 
@@ -85,37 +98,65 @@
   [~] HackTheBox & TryHackMe — ACTIVE
   [~] SIEM Dashboard — IN BUILD
   [~] Custom PenTest Toolkit — IN BUILD
-  [*] Status: OPEN TO COLLABORATE 🟢
+  [✦] Status: OPEN TO COLLABORATE 🟢
 ```
 
 </td>
-<td valign="top" width="42%" align="center">
+<td valign="top" width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhavish-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&border_color=30363d&rank_icon=github" alt="GitHub Stats" width="100%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d1&icon_color=00d4ff&border_color=1a1b27&ring_color=00d4ff&rank_icon=github&card_width=350" alt="GitHub Stats" width="100%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=bhavish-s&theme=tokyonight&background=0D1117&border=30363D&stroke=30363D&ring=00D4FF&fire=FF6347&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=6E7681&hide_border=false" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com?user=bhavish-s&theme=dark&background=0D1117&border=1a1b27&stroke=1a1b27&ring=00D4FF&fire=FF6347&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=a8b2d1&sideLabels=a8b2d1&dates=6E7681&hide_border=false" alt="GitHub Streak" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d1&border_color=1a1b27&hide_border=false&card_width=350" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+
 I'm a passionate **Cybersecurity Enthusiast** and **Full-Stack Developer** who believes the best defenders think like attackers. I specialize in **Ethical Hacking, Penetration Testing, SOC Operations**, and **SIEM Engineering**, building real-world security tooling **entirely from scratch** in Python, Bash, and modern web stacks.
 
 By day — a **CSE student** absorbing everything about systems and software. By night — a **hacker** (legally!) hunting CVEs on HackTheBox, building SIEM dashboards, writing custom PenTest scripts, and contributing to open-source security projects. My philosophy: **understand how to break systems, so you can build unbreakable ones.**
 
-> *"The quieter you become, the more you can hear."* — Kali Linux
+</div>
 
 <br/>
 
----
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║   "The quieter you become, the more you can hear."  — Kali Linux    ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                       WHAT I'M UP TO                                  -->
 <!-- ===================================================================== -->
 
-## 🎯 What I'm Currently Up To
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;What I'm Currently Up To
+
+<div align="center">
 
 | | |
 |:---|:---|
@@ -129,26 +170,32 @@ By day — a **CSE student** absorbing everything about systems and software. By
 | 📫 **Email** | [bhavishgowda2006@gmail.com](mailto:bhavishgowda2006@gmail.com) |
 | 🎯 **Dream Cert** | OSCP — Offensive Security Certified Professional |
 
+</div>
+
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                      CYBERSECURITY ARSENAL                            -->
 <!-- ===================================================================== -->
 
-## 🔐 Cybersecurity Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Cybersecurity Arsenal
 
 <div align="center">
 
 | Category | Tools & Technologies |
 |:---:|:---|
 | 🕵️ **Penetration Testing** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-00D26A?style=flat-square&logoColor=black) ![Hydra](https://img.shields.io/badge/Hydra-FF2D20?style=flat-square&logoColor=white) ![John](https://img.shields.io/badge/John_the_Ripper-343434?style=flat-square&logoColor=white) |
-| 🔍 **Network & Traffic Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Tcpdump](https://img.shields.io/badge/Tcpdump-005C84?style=flat-square&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-003D6B?style=flat-square&logoColor=white) |
-| 🖥️ **SIEM & SOC Operations** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white) |
+| 🔍 **Network & Traffic** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Tcpdump](https://img.shields.io/badge/Tcpdump-005C84?style=flat-square&logoColor=white) ![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-003D6B?style=flat-square&logoColor=white) |
+| 🖥️ **SIEM & SOC Ops** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white) |
 | 🐧 **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1DE9B6?style=flat-square&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| 🎯 **Frameworks & Standards** | ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white) ![PTES](https://img.shields.io/badge/PTES-6600CC?style=flat-square&logoColor=white) ![CVE](https://img.shields.io/badge/CVE_Research-CC0000?style=flat-square&logoColor=white) |
-| ⚙️ **Scripting & Automation** | ![Python](https://img.shields.io/badge/Python_SecScripts-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash_Automation-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| 🎯 **Frameworks** | ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white) ![PTES](https://img.shields.io/badge/PTES-6600CC?style=flat-square&logoColor=white) ![CVE](https://img.shields.io/badge/CVE_Research-CC0000?style=flat-square&logoColor=white) |
+| ⚙️ **Scripting** | ![Python](https://img.shields.io/badge/Python_SecScripts-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash_Automation-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | 🎯 **CTF & Practice** | ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white) |
 
 </div>
@@ -158,78 +205,103 @@ By day — a **CSE student** absorbing everything about systems and software. By
 <div align="center">
 
 ```
- ╔═══════════════════════════════════════════════════════════════╗
- ║   "Every system has a vulnerability. Find it before the      ║
- ║    bad guys do — and patch it before they even get a chance." ║
- ║                                            — Bhavish S        ║
- ╚═══════════════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║   "Every system has a vulnerability. Find it before the          ║
+ ║    bad guys do — and patch it before they even get a chance."     ║
+ ║                                              — Bhavish S         ║
+ ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                          TECH STACK                                   -->
 <!-- ===================================================================== -->
 
-## 💻 Full Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Full Tech Stack
 
 <div align="center">
 
-**🔤 Programming Languages**
 <br/>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+**`🔤 PROGRAMMING LANGUAGES`**
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=dark&perline=12" alt="Languages" />
 
 <br/><br/>
 
-**🎨 Frontend, UI & Mobile**
+**`🎨 FRONTEND · UI · MOBILE`**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=dark&perline=11" alt="Frontend & Mobile" />
 
 <br/><br/>
 
-**⚙️ Backend, APIs & Databases**
+**`⚙️ BACKEND · APIs · DATABASES`**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=dark&perline=9" alt="Backend & Databases" />
 
 <br/><br/>
 
-**☁️ Cloud, DevOps & Tooling**
+**`☁️ CLOUD · DEVOPS · TOOLING`**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=dark&perline=12" alt="Cloud & DevOps" />
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                       GITHUB ANALYTICS                                -->
 <!-- ===================================================================== -->
 
-## 📊 GitHub Analytics
-
-<!-- TOP LANGUAGES -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false" width="55%" alt="Top Languages" />
-
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <br/>
 
 <!-- ACTIVITY GRAPH — FULL WIDTH -->
 <div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavish-s&custom_title=Bhavish%27s+GitHub+Contribution+Activity&bg_color=0d1117&color=00d4ff&line=00b4d8&point=ffffff&area_color=0d2137&area=true&hide_border=true&radius=4" alt="Contribution Activity Graph" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavish-s&custom_title=Bhavish's%20Contribution%20Activity&bg_color=0d1117&color=00d4ff&line=00b4d8&point=ffffff&area_color=0a192f&area=true&hide_border=true&radius=6" alt="Contribution Activity Graph" />
 </div>
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                        GITHUB TROPHIES                                -->
@@ -238,12 +310,16 @@ By day — a **CSE student** absorbing everything about systems and software. By
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1&row=2" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                      CONTRIBUTION SNAKE                               -->
@@ -251,7 +327,9 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 ## 🐍 Contribution Grid Snake
 
-> ⚠️ **This image is blank until you complete the 1-time, 2-minute setup right below.** It's not broken — it just doesn't exist yet. Do the setup once and it appears automatically and updates itself forever.
+> ⚠️ **This image is blank until you complete the 1-time, 2-minute setup below.** It's not broken — it just doesn't exist yet. Do the setup once and it appears automatically and updates itself forever.
+
+<br/>
 
 <div align="center">
   <picture>
@@ -261,8 +339,10 @@ By day — a **CSE student** absorbing everything about systems and software. By
   </picture>
 </div>
 
-<details open>
-<summary>⚙️ <b>One-Time Snake Setup (do this now — takes 2 minutes)</b></summary>
+<br/>
+
+<details>
+<summary>⚙️ <b>One-Time Snake Setup (takes 2 minutes)</b></summary>
 <br/>
 
 Create `.github/workflows/snake.yml` inside your `Bhavish-S` profile repository:
@@ -307,24 +387,28 @@ jobs:
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                       FEATURED PROJECTS                               -->
 <!-- ===================================================================== -->
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
 <div align="center">
 
 | 🏗️ Project | 📋 Description | 🛠️ Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **🔒 NoDue Portal** | Smart student NOC & clearance management with automated approvals and admin panel | `TypeScript` `React` `Node.js` `Firebase` | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel)](https://noc-portal-delta.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github)](https://github.com/Bhavish-S/noc) |
-| **💰 Budget Allocator** | Intelligent financial planning tool with smart budget distribution and analytics | `TypeScript` `React` | [![Repo](https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github)](https://github.com/Bhavish-S/budget-allocator) |
-| **🌐 Route Resilience** | Fault-tolerant network routing & resilience simulation and analysis system | `HTML` `JS` `CSS` | [![Repo](https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github)](https://github.com/Bhavish-S/Route_Resilience) |
-| **🎉 Novic Events** | Full-featured event management, scheduling & ticketing platform | `Web Stack` | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel)](https://frontend-six-black-32.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github)](https://github.com/Bhavish-S/Novic-Events) |
-| **🖥️ SIEM Dashboard** *(In Dev)* | Custom Security Information & Event Management dashboard built from scratch | `Python` `Elastic` `Splunk` `Kibana` | 🔄 Building |
-| **⚔️ PenTest Toolkit** *(In Dev)* | Modular, extensible penetration testing tools & automation scripts from scratch | `Python` `Bash` | 🔄 Building |
+| **🔒 NoDue Portal** | Smart student NOC & clearance management with automated approvals and admin panel | `TypeScript` `React` `Node.js` `Firebase` | [![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=vercel&logoColor=white)](https://noc-portal-delta.vercel.app/) [![Repo](https://img.shields.io/badge/CODE-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavish-S/noc) |
+| **💰 Budget Allocator** | Intelligent financial planning tool with smart budget distribution and analytics | `TypeScript` `React` | [![Repo](https://img.shields.io/badge/CODE-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavish-S/budget-allocator) |
+| **🌐 Route Resilience** | Fault-tolerant network routing & resilience simulation and analysis system | `HTML` `JS` `CSS` | [![Repo](https://img.shields.io/badge/CODE-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavish-S/Route_Resilience) |
+| **🎉 Novic Events** | Full-featured event management, scheduling & ticketing platform | `Web Stack` | [![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=vercel&logoColor=white)](https://frontend-six-black-32.vercel.app/) [![Repo](https://img.shields.io/badge/CODE-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhavish-S/Novic-Events) |
+| **🖥️ SIEM Dashboard** | Custom Security Information & Event Management dashboard built from scratch | `Python` `Elastic` `Splunk` `Kibana` | ![Building](https://img.shields.io/badge/IN_DEV-FF6347?style=flat-square) |
+| **⚔️ PenTest Toolkit** | Modular, extensible penetration testing tools & automation scripts from scratch | `Python` `Bash` | ![Building](https://img.shields.io/badge/IN_DEV-FF6347?style=flat-square) |
 
 </div>
 
@@ -334,26 +418,32 @@ jobs:
 <div align="center">
 
 <a href="https://github.com/Bhavish-S/noc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=noc&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d" alt="NoDue Portal" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d1&icon_color=00d4ff&border_color=1a1b27&hide_border=false" alt="NoDue Portal" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/Bhavish-S/budget-allocator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d" alt="Budget Allocator" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d1&icon_color=00d4ff&border_color=1a1b27&hide_border=false" alt="Budget Allocator" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Bhavish-S/Route_Resilience">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d" alt="Route Resilience" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d1&icon_color=00d4ff&border_color=1a1b27&hide_border=false" alt="Route Resilience" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/Bhavish-S/Novic-Events">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d" alt="Novic Events" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d1&icon_color=00d4ff&border_color=1a1b27&hide_border=false" alt="Novic Events" />
 </a>
 
 </div>
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                    CYBERSECURITY LEARNING ROADMAP                     -->
@@ -407,7 +497,11 @@ jobs:
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                         CERTIFICATIONS                                -->
@@ -433,7 +527,11 @@ jobs:
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                   HACKING & CODING PLATFORMS                          -->
@@ -443,39 +541,49 @@ jobs:
 
 <div align="center">
 
-**🔓 Ethical Hacking & CTF**
-
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+**`🔓 ETHICAL HACKING & CTF`**
 
 <br/>
 
-**💻 Competitive Programming**
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+&nbsp;&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhavishs/)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bhavishgowda2006)
-&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bhavishgo174v)
+<br/><br/>
+
+**`💻 COMPETITIVE PROGRAMMING`**
 
 <br/>
 
-**🔎 Security Resources I Trust**
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhavishs/)
+&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bhavishgowda2006)
+&nbsp;&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bhavishgo174v)
+
+<br/><br/>
+
+**`🔎 SECURITY RESOURCES I TRUST`**
+
+<br/>
 
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-&nbsp;
+&nbsp;&nbsp;
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)](https://attack.mitre.org/)
-&nbsp;
-[![NVD CVE](https://img.shields.io/badge/NVD_CVE_Database-CC0000?style=for-the-badge&logoColor=white)](https://nvd.nist.gov/vuln/search)
-&nbsp;
-[![ExploitDB](https://img.shields.io/badge/Exploit--DB-003366?style=for-the-badge&logoColor=white)](https://www.exploit-db.com/)
+&nbsp;&nbsp;
+[![NVD CVE](https://img.shields.io/badge/NVD_CVE-CC0000?style=for-the-badge&logoColor=white)](https://nvd.nist.gov/vuln/search)
+&nbsp;&nbsp;
+[![ExploitDB](https://img.shields.io/badge/EXPLOIT--DB-003366?style=for-the-badge&logoColor=white)](https://www.exploit-db.com/)
 
 </div>
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                           FUN FACTS                                   -->
@@ -505,7 +613,11 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 
 <br/>
 
----
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                         DEV QUOTE                                     -->
@@ -515,17 +627,23 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 
 <div align="center">
 
-> 🔐 *"Amateurs hack systems, professionals hack people — but ethical hackers protect both."*
->
-> 🛡️ *"The only truly secure system is one that is powered off, cast in a block of concrete... so don't aim for that. Aim for resilient."* — inspired by Gene Spafford
->
-> ⚔️ *"You don't need to be unstoppable, you just need to be unpredictable."*
+<br/>
 
-</div>
+> 🔐 *"Amateurs hack systems, professionals hack people — but ethical hackers protect both."*
+
+> 🛡️ *"The only truly secure system is one that is powered off, cast in a block of concrete... so don't aim for that. Aim for resilient."* — inspired by Gene Spafford
+
+> ⚔️ *"You don't need to be unstoppable, you just need to be unpredictable."*
 
 <br/>
 
----
+</div>
+
+<!-- ===================================================================== -->
+<!--                       ANIMATED DIVIDER                                -->
+<!-- ===================================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===================================================================== -->
 <!--                        CONNECT WITH ME                                -->
@@ -535,67 +653,65 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 
 <div align="center">
 
+<br/>
+
 <a href="https://www.linkedin.com/in/bhavish-s-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/bhavish_s_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://discord.gg/QvrjjptH2a">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:bhavishgowda2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Bhavish-S">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/bhavishs/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/bhavishgowda2006">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/bhavishgo174v">
-  <img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://hackthebox.com">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
+  <img src="https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://tryhackme.com">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </a>
 
 <br/><br/>
 
-<i>🔒 Open to collaborations in Cybersecurity, Open-Source, and SaaS Projects!</i>
+*🔒 Open to collaborations in Cybersecurity, Open-Source, and SaaS Projects!*
 <br/>
-<i>⚔️ Always up for a CTF challenge — find me on HackTheBox & TryHackMe!</i>
+*⚔️ Always up for a CTF challenge — find me on HackTheBox & TryHackMe!*
 
 </div>
 
 <br/>
-
----
 
 <!-- ===================================================================== -->
 <!--                           ANIMATED FOOTER                             -->
 <!-- ===================================================================== -->
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer" alt="Footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a192f,40:0f3460,65:00b4d8,100:00d4ff&height=150&section=footer&animation=twinkling" width="100%" alt="Footer" />
 
 <div align="center">
   <b>⚡ "Security is not a product, but a process." — Bruce Schneier ⚡</b>
