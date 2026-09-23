@@ -442,14 +442,36 @@ By night — a **hacker** *(legally!)* hunting CVEs on HackTheBox, building SIEM
 
 <div align="center">
 
-<!-- 3D CONTRIBUTION CALENDAR -->
-### 🏙️ 3D Contribution Skyline
+<!-- ENGINEERING PIPELINE ARCHITECTURE -->
+### ⚙️ Engineering & DevSecOps Pipeline
 
-> ⚡ *Setup the 3D Contribution Calendar workflow below to activate this visualization*
+> *My standard approach to secure software development and deployment.*
 
-<a href="https://skyline.github.com/bhavish-s/2025">
-  <img src="https://img.shields.io/badge/🏙️_View_3D_Skyline-GitHub_Skyline-00d4ff?style=for-the-badge&labelColor=0d1117" alt="GitHub Skyline" />
-</a>
+```mermaid
+graph TD
+    %% Styling
+    classDef commit fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    classDef scan fill:#0d1117,stroke:#ff6347,stroke-width:2px,color:#c9d1d9
+    classDef build fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#c9d1d9
+    classDef pass fill:#00C853,stroke:#0d1117,color:#0d1117,font-weight:bold
+    classDef fail fill:#FF1744,stroke:#0d1117,color:#0d1117,font-weight:bold
+
+    A[💻 Code Push / PR]:::commit --> B(⚙️ GitHub Actions / CI):::build
+    
+    B --> C{🔍 SAST & Linting}:::scan
+    C -->|Vulnerabilities Found| D[❌ Reject Build]:::fail
+    C -->|Clean| E[📦 Build Container]:::build
+    
+    E --> F{🛡️ DAST & Image Scan}:::scan
+    F -->|Critical CVEs| D
+    F -->|Pass| G[✅ Deploy to Staging]:::pass
+    
+    G --> H((🚀 Production)):::commit
+    
+    %% Click events for interactivity
+    click A "https://github.com/Bhavish-S"
+    click B "https://github.com/features/actions"
+```
 
 <br/><br/>
 
