@@ -68,6 +68,16 @@
 <br/>
 
 <!-- ===================================================================== -->
+<!--                  📡 LIVE NETWORK RADAR ANIMATION                    -->
+<!-- ===================================================================== -->
+
+<div align="center">
+  <img src="./network-radar.svg" alt="Live Threat Monitoring Radar" width="100%" />
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
 <!--                   🎖️ REAL-TIME STATUS DASHBOARD                     -->
 <!-- ===================================================================== -->
 
@@ -479,6 +489,18 @@ graph TD
 <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavish-s&custom_title=🔍%20Operation%20Log%20—%20Contribution%20Heatmap&bg_color=0d1117&color=00d4ff&line=00b4d8&point=ffffff&area_color=0d2137&area=true&hide_border=true&radius=4" alt="Contribution Activity Graph" />
 
 <br/><br/>
+
+<!-- WAKATIME DYNAMIC LIVE CODING STATS -->
+### ⏱️ Live Coding Telemetry
+
+> ⚠️ *Requires the WakaTime GitHub Action to auto-populate*
+
+<div align="center">
+  <!--START_SECTION:wakatime-->
+  <!--END_SECTION:wakatime-->
+</div>
+
+<br/>
 
 <!-- PROFILE SUMMARY CARDS -->
 ### 📈 Intelligence Summary Cards
@@ -1117,7 +1139,134 @@ if __name__ == "__main__":
 <!--                    📫 CONNECT — SECURE CHANNEL                       -->
 <!-- ===================================================================== -->
 
-## 📫 Connect — Open Secure Channel
+## 📫 Connect — Establish Secure Channel
+
+<div align="center">
+
+```
+╭───────────────[ root@kali:~ ]───────────────╮
+│                                             │
+│  $ ssh bhavish@secure-server.net            │
+│  Connection established.                    │
+│  Awaiting handshake...                      │
+│                                             │
+╰─────────────────────────────────────────────╯
+```
+
+</div>
+
+### 📡 Active Transmission Links
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🔗 Professional
+
+<a href="https://www.linkedin.com/in/bhavish-s-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/>
+
+<a href="mailto:bhavishgowda2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Bhavish-S">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+#### 🎮 Social & Live Ops
+
+<a href="https://www.instagram.com/bhavish_s_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br/>
+
+<a href="https://discord.gg/QvrjjptH2a">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<br/>
+
+<a href="https://twitter.com">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+#### ⚔️ Hacking Platforms
+
+<a href="https://hackthebox.com">
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
+</a>
+
+<br/>
+
+<a href="https://tryhackme.com">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/bhavishs/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://www.hackerrank.com/profile/bhavishgowda2006">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/bhavishgo174v">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+</a>
+&nbsp;
+<a href="https://nvd.nist.gov/vuln/search">
+  <img src="https://img.shields.io/badge/NVD_CVE-CC0000?style=for-the-badge&logoColor=white" alt="NVD CVE" />
+</a>
+&nbsp;
+<a href="https://www.exploit-db.com/">
+  <img src="https://img.shields.io/badge/Exploit--DB-003366?style=for-the-badge&logoColor=white" alt="ExploitDB" />
+</a>
+
+</div>
+
+<br/>
+
+### 🔐 End-to-End Encryption
+
+<details>
+<summary><b>[ Click to Reveal PGP Public Key Block ]</b></summary>
+<br/>
+
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: "This is a structural placeholder. Insert real key for comms."
+
+mQINBGI4aXIBEAC... 
+[ KEY EXPUNGED FOR GITHUB DISPLAY ]
+...
+-----END PGP PUBLIC KEY BLOCK-----
+```
+*If you need to send classified vulnerability reports, encrypt them first.*
+
+</details>
 
 <div align="center">
 
@@ -1313,22 +1462,24 @@ if __name__ == "__main__":
 </div>
 
 <!-- ===================================================================== -->
-<!--                      🥚 EASTER EGG — DECODE THIS                    -->
+<!--                   🚩 CTF CHALLENGE: HIDDEN FLAG                     -->
 <!-- ===================================================================== -->
 
 <!--
-  ██████████████████████████████████████████████████████████████████████
-  ██                                                                  ██
-  ██   🥚 You found the Easter Egg!                                   ██
-  ██                                                                  ██
-  ██   Decode this:                                                   ██
-  ██   QmhhdmlzaCBTIC0gVGhlIExlZ2FsIEhhY2tlcg==                      ██
-  ██                                                                  ██
-  ██   Hint: It's Base64 encoded.                                     ██
-  ██   Answer: "Bhavish S - The Legal Hacker"                         ██
-  ██                                                                  ██
-  ██   If you decoded this, you think like a hacker. 🔐               ██
-  ██   DM me on LinkedIn for a virtual high-five! 🖐️                  ██
-  ██                                                                  ██
-  ██████████████████████████████████████████████████████████████████████
+  ██████████████████████████████████████████████████████████████████████████
+  ██                                                                      ██
+  ██  Oh, you're inspecting the source? I respect that.                   ██
+  ██  You think like a hacker. So, here's a mini CTF for you.             ██
+  ██                                                                      ██
+  ██  [STAGE 1]: 01000010 01101000 01100001 01110110 01101001 01110011     ██
+  ██             01101000 00100000 01010011                               ██
+  ██                                                                      ██
+  ██  [STAGE 2]: 54 68 65 20 4c 65 67 61 6c 20 48 61 63 6b 65 72          ██
+  ██                                                                      ██
+  ██  [STAGE 3]: ZmxhZ3tZb3VfQXJlX0FfVHJ1ZV9DeWJlcl9PcGVyYXRvcn0=         ██
+  ██                                                                      ██
+  ██  If you decoded all three and found the flag, DM me on LinkedIn      ██
+  ██  with the flag text for a virtual high-five. 🖐️                       ██
+  ██                                                                      ██
+  ██████████████████████████████████████████████████████████████████████████
 -->
