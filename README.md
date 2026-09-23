@@ -1,12 +1,17 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  B H A V I S H  S  ·  G I T H U B  P R O F I L E  R E A D M E  ║ -->
+<!-- ║  Theme: Matrix Terminal  ·  Mode: Dark + Light Auto-Switch        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <!-- ===================================================================== -->
 <!--              ANIMATED HEADER BANNER — DARK / LIGHT                    -->
 <!-- ===================================================================== -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:004d00&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=66ff99" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f5e9,30:c8e6c9,70:a5d6a7,100:81c784&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=1b5e20&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=2e7d32" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:004d00&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=66ff99" alt="Bhavish S — Ethical Hacker, Pen Tester, SOC Analyst, and CSE Student header banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:004d00&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=66ff99">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f5e9,30:c8e6c9,70:a5d6a7,100:81c784&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=1b5e20&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=2e7d32">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:004d00&height=260&section=header&text=Bhavish%20S&fontSize=88&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=🛡️%20Ethical%20Hacker%20·%20Pen%20Tester%20·%20SOC%20Analyst%20·%20CSE%20Student&descAlignY=60&descSize=22&descColor=66ff99" alt="Bhavish S — Ethical Hacker, Pen Tester, SOC Analyst, and CSE Student header banner">
   </picture>
 </div>
 
@@ -15,13 +20,11 @@
 <!-- ===================================================================== -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=1b5e20&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker" alt="Typing animation cycling through Bhavish's roles: Ethical Hacker, Penetration Tester, SOC Analyst, SIEM Engineer, and more" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=1b5e20&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=760&lines=I+Break+Into+Systems+(Legally)+🔐;Ethical+Hacker+%7C+Penetration+Tester;SOC+Analyst+%7C+SIEM+Engineer;Python+Security+Scripting+Expert;Google+Cybersecurity+Certified+🏆;HackTheBox+%26+TryHackMe+Enthusiast;Building+CyberSec+Tools+From+Scratch+🚀;Full-Stack+Dev+Who+Thinks+Like+a+Hacker" alt="Typing animation cycling through Bhavish's roles: Ethical Hacker, Penetration Tester, SOC Analyst, SIEM Engineer, and more">
+  </picture>
 </div>
 
 <br/>
@@ -49,20 +52,23 @@
 </div>
 
 <!-- ===================================================================== -->
-<!--               ANIMATED STATUS BAR — NEW ELEMENT                       -->
+<!--               ANIMATED STATUS BAR — TERMINAL FEEL                     -->
 <!-- ===================================================================== -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=00FF41&center=true&vCenter=true&random=false&width=520&lines=⚡+root@bhavish:~%23+./status.sh+→+ALL+SYSTEMS+OPERATIONAL+🟢;⚡+Accepting+collaborations+%7C+CTF+challenges+%7C+Security+research" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=2e7d32&center=true&vCenter=true&random=false&width=520&lines=⚡+root@bhavish:~%23+./status.sh+→+ALL+SYSTEMS+OPERATIONAL+🟢;⚡+Accepting+collaborations+%7C+CTF+challenges+%7C+Security+research" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=00FF41&center=true&vCenter=true&random=false&width=520&lines=⚡+root@bhavish:~%23+./status.sh+→+ALL+SYSTEMS+OPERATIONAL+🟢;⚡+Accepting+collaborations+%7C+CTF+challenges+%7C+Security+research" alt="Animated terminal status bar showing system operational status" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+./status.sh+→+ALL+SYSTEMS+OPERATIONAL+🟢;%24+uptime:+ACTIVE+%7C+threat_level:+VIGILANT+%7C+mode:+OFFENSIVE">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=2e7d32&center=true&vCenter=true&random=false&width=600&lines=%24+./status.sh+→+ALL+SYSTEMS+OPERATIONAL+🟢;%24+uptime:+ACTIVE+%7C+threat_level:+VIGILANT+%7C+mode:+OFFENSIVE">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+./status.sh+→+ALL+SYSTEMS+OPERATIONAL+🟢;%24+uptime:+ACTIVE+%7C+threat_level:+VIGILANT+%7C+mode:+OFFENSIVE" alt="Animated terminal status bar showing system operational status">
   </picture>
 </div>
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                            ABOUT ME                                   -->
@@ -73,6 +79,8 @@
 <table>
 <tr>
 <td valign="top" width="58%">
+
+> 🔴 🟡 🟢 &nbsp; **bhavish@kali: ~/recon**
 
 ```
   ╔══════════════════════════════════════════════╗
@@ -112,17 +120,17 @@
 <td valign="top" width="42%" align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a&rank_icon=github" alt="Bhavish's GitHub stats showing total commits, PRs, issues, and contributions" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a&rank_icon=github&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50&rank_icon=github&hide_border=false">
+  <img src="https://github-stats-extended.vercel.app/api?username=bhavish-s&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a&rank_icon=github&hide_border=false" alt="Bhavish's GitHub stats showing total commits, PRs, issues, and contributions" width="100%">
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bhavish-s&background=000000&border=1a1a1a&stroke=1a1a1a&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=aaaaaa&sideLabels=aaaaaa&dates=555555&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bhavish-s&background=f0fff0&border=4caf50&stroke=4caf50&ring=006400&fire=2e7d32&currStreakNum=006400&currStreakLabel=006400&sideNums=1a1a1a&sideLabels=1a1a1a&dates=555555&hide_border=false" />
-  <img src="https://streak-stats.demolab.com?user=bhavish-s&background=000000&border=1a1a1a&stroke=1a1a1a&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=aaaaaa&sideLabels=aaaaaa&dates=555555&hide_border=false" alt="Bhavish's GitHub streak stats showing current and longest contribution streaks" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bhavish-s&background=000000&border=1a1a1a&stroke=1a1a1a&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=aaaaaa&sideLabels=aaaaaa&dates=555555&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bhavish-s&background=f0fff0&border=4caf50&stroke=4caf50&ring=006400&fire=2e7d32&currStreakNum=006400&currStreakLabel=006400&sideNums=1a1a1a&sideLabels=1a1a1a&dates=555555&hide_border=false">
+  <img src="https://streak-stats.demolab.com?user=bhavish-s&background=000000&border=1a1a1a&stroke=1a1a1a&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=aaaaaa&sideLabels=aaaaaa&dates=555555&hide_border=false" alt="Bhavish's GitHub streak stats showing current and longest contribution streaks" width="100%">
 </picture>
 
 </td>
@@ -137,7 +145,10 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                       WHAT I'M UP TO                                  -->
@@ -159,7 +170,10 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                      CYBERSECURITY ARSENAL                            -->
@@ -171,10 +185,10 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 | Category | Tools & Technologies |
 |:---:|:---|
-| 🕵️ **Penetration Testing** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0d0d0d) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white&labelColor=0d0d0d) ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Gobuster](https://img.shields.io/badge/Gobuster-00D26A?style=flat-square&logoColor=black&labelColor=0d0d0d) ![Hydra](https://img.shields.io/badge/Hydra-FF2D20?style=flat-square&logoColor=white&labelColor=0d0d0d) ![John](https://img.shields.io/badge/John_the_Ripper-343434?style=flat-square&logoColor=white&labelColor=0d0d0d) |
-| 🔍 **Network & Traffic Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d0d0d) ![Tcpdump](https://img.shields.io/badge/Tcpdump-005C84?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-003D6B?style=flat-square&logoColor=white&labelColor=0d0d0d) |
+| 🕵️ **Penetration Testing** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0d0d0d) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white&labelColor=0d0d0d) ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Gobuster](https://img.shields.io/badge/Gobuster-00D26A?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Hydra](https://img.shields.io/badge/Hydra-FF2D20?style=flat-square&logoColor=white&labelColor=0d0d0d) ![John](https://img.shields.io/badge/John_the_Ripper-555555?style=flat-square&logoColor=white&labelColor=0d0d0d) |
+| 🔍 **Network & Traffic Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d0d0d) ![Tcpdump](https://img.shields.io/badge/Tcpdump-005C84?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Netcat](https://img.shields.io/badge/Netcat-555555?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-003D6B?style=flat-square&logoColor=white&labelColor=0d0d0d) |
 | 🖥️ **SIEM & SOC Operations** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white&labelColor=0d0d0d) ![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elasticsearch&logoColor=white&labelColor=0d0d0d) ![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white&labelColor=0d0d0d) |
-| 🐧 **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=0d0d0d) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0d0d0d) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1DE9B6?style=flat-square&logoColor=black&labelColor=0d0d0d) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=0d0d0d) |
+| 🐧 **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=0d0d0d) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0d0d0d) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1DE9B6?style=flat-square&logoColor=white&labelColor=0d0d0d) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=0d0d0d) |
 | 🎯 **Frameworks & Standards** | ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logoColor=white&labelColor=0d0d0d) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white&labelColor=0d0d0d) ![PTES](https://img.shields.io/badge/PTES-6600CC?style=flat-square&logoColor=white&labelColor=0d0d0d) ![CVE](https://img.shields.io/badge/CVE_Research-CC0000?style=flat-square&logoColor=white&labelColor=0d0d0d) |
 | ⚙️ **Scripting & Automation** | ![Python](https://img.shields.io/badge/Python_SecScripts-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d) ![Bash](https://img.shields.io/badge/Bash_Automation-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0d0d0d) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&labelColor=0d0d0d) |
 | 🎯 **CTF & Practice** | ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0d0d0d) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0d0d) |
@@ -197,7 +211,10 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                          TECH STACK                                   -->
@@ -205,8 +222,8 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 ## 💻 `root@bhavish:~#` cat /etc/tech_stack
 
-<details open>
-<summary>🔤 <b>Programming Languages · 🎨 Frontend, UI & Mobile · ⚙️ Backend, APIs & Databases · ☁️ Cloud, DevOps & Tooling</b></summary>
+<details>
+<summary>⚡ <b>Click to deploy tech stack — 🔤 Languages · 🎨 Frontend · ⚙️ Backend · ☁️ Cloud & DevOps</b></summary>
 <br/>
 
 <div align="center">
@@ -214,9 +231,9 @@ By day — a **CSE student** absorbing everything about systems and software. By
 **🔤 Programming Languages**
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=light&perline=12" />
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=dark&perline=12" alt="Programming languages: Python, JavaScript, TypeScript, C, C++, Java, Go, PHP, Bash, Rust, Kotlin, Swift" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=light&perline=12">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,go,php,bash,rust,kotlin,swift&theme=dark&perline=12" alt="Programming languages: Python, JavaScript, TypeScript, C, C++, Java, Go, PHP, Bash, Rust, Kotlin, Swift">
 </picture>
 
 <br/><br/>
@@ -224,9 +241,9 @@ By day — a **CSE student** absorbing everything about systems and software. By
 **🎨 Frontend, UI & Mobile**
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=dark&perline=11" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=light&perline=11" />
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=dark&perline=11" alt="Frontend stack: React, Angular, Vue, Svelte, Next.js, HTML, CSS, Tailwind, Bootstrap, Flutter, Android Studio" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=dark&perline=11">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=light&perline=11">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,nextjs,html,css,tailwind,bootstrap,flutter,androidstudio&theme=dark&perline=11" alt="Frontend stack: React, Angular, Vue, Svelte, Next.js, HTML, CSS, Tailwind, Bootstrap, Flutter, Android Studio">
 </picture>
 
 <br/><br/>
@@ -234,9 +251,9 @@ By day — a **CSE student** absorbing everything about systems and software. By
 **⚙️ Backend, APIs & Databases**
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=dark&perline=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=light&perline=9" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=dark&perline=9" alt="Backend stack: Node.js, Express, Django, MongoDB, MySQL, PostgreSQL, Redis, Firebase, GraphQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=dark&perline=9">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=light&perline=9">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,redis,firebase,graphql&theme=dark&perline=9" alt="Backend stack: Node.js, Express, Django, MongoDB, MySQL, PostgreSQL, Redis, Firebase, GraphQL">
 </picture>
 
 <br/><br/>
@@ -244,9 +261,9 @@ By day — a **CSE student** absorbing everything about systems and software. By
 **☁️ Cloud, DevOps & Tooling**
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=light&perline=12" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=dark&perline=12" alt="DevOps and cloud tools: AWS, Azure, GCP, Docker, Kubernetes, Git, GitHub, Linux, Figma, Postman, Electron, Unity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=light&perline=12">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux,figma,postman,electron,unity&theme=dark&perline=12" alt="DevOps and cloud tools: AWS, Azure, GCP, Docker, Kubernetes, Git, GitHub, Linux, Figma, Postman, Electron, Unity">
 </picture>
 
 </div>
@@ -255,7 +272,10 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                       GITHUB ANALYTICS                                -->
@@ -267,27 +287,50 @@ By day — a **CSE student** absorbing everything about systems and software. By
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&bg_color=000000&title_color=00FF41&text_color=aaaaaa&border_color=1a1a1a&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&border_color=4caf50&hide_border=false" />
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&bg_color=000000&title_color=00FF41&text_color=aaaaaa&border_color=1a1a1a&hide_border=false" alt="Top programming languages by usage across Bhavish's repositories" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&bg_color=000000&title_color=00FF41&text_color=aaaaaa&border_color=1a1a1a&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&border_color=4caf50&hide_border=false">
+  <img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavish-s&layout=compact&langs_count=12&bg_color=000000&title_color=00FF41&text_color=aaaaaa&border_color=1a1a1a&hide_border=false" alt="Top programming languages by usage across Bhavish's repositories">
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH — FULL WIDTH -->
+<!-- PROFILE SUMMARY CARDS -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhavish-s&custom_title=Bhavish%27s+GitHub+Contribution+Activity&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area_color=002200&area=true&hide_border=true&radius=4&title_color=00FF41" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhavish-s&custom_title=Bhavish%27s+GitHub+Contribution+Activity&bg_color=f0fff0&color=006400&line=2e7d32&point=1a1a1a&area_color=c8e6c9&area=true&hide_border=true&radius=4&title_color=006400" />
-    <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavish-s&custom_title=Bhavish%27s+GitHub+Contribution+Activity&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area_color=002200&area=true&hide_border=true&radius=4&title_color=00FF41" alt="Bhavish's GitHub contribution activity graph showing commit frequency over time" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavish-s&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavish-s&theme=default">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavish-s&theme=github_dark" alt="Bhavish's GitHub profile contribution details card showing commit distribution over time">
+</picture>
+
 </div>
 
 <br/>
 
----
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhavish-s&theme=github_dark&utcOffset=5.5">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhavish-s&theme=default&utcOffset=5.5">
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhavish-s&theme=github_dark&utcOffset=5.5" alt="Bhavish's most productive coding hours heatmap (IST timezone)">
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavish-s&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavish-s&theme=default">
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavish-s&theme=github_dark" alt="Bhavish's repositories broken down by programming language">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                        GITHUB TROPHIES                                -->
@@ -296,16 +339,34 @@ By day — a **CSE student** absorbing everything about systems and software. By
 ## 🏆 `root@bhavish:~#` cat /var/log/trophies
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=matrix&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=buddhism&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2" />
-    <img src="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=matrix&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2" alt="Bhavish's GitHub achievement trophies including commits, repositories, stars, followers, and pull requests" />
-  </picture>
+
+<!-- Trophies via GitHub Actions — see setup below if image is blank -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=matrix&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=flat&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavish-s&theme=matrix&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=-1&row=2" alt="Bhavish's GitHub achievement trophies including commits, repositories, stars, followers, and pull requests">
+</picture>
+
 </div>
+
+<details>
+<summary>⚠️ <b>Trophies not loading? Self-host for reliability (1-minute Vercel deploy)</b></summary>
+<br/>
+
+The public trophy instance can hit Vercel rate limits. To self-host:
+
+1. **Fork** [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+2. **Deploy** your fork to [Vercel](https://vercel.com/new) (free tier works)
+3. **Replace** `github-profile-trophy.vercel.app` in this README with your deploy URL
+
+</details>
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                      CONTRIBUTION SNAKE                               -->
@@ -315,9 +376,9 @@ By day — a **CSE student** absorbing everything about systems and software. By
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation consuming Bhavish's GitHub contribution grid" src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation consuming Bhavish's GitHub contribution grid" src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -367,7 +428,10 @@ jobs:
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                       FEATURED PROJECTS                               -->
@@ -379,10 +443,10 @@ jobs:
 
 | 🏗️ Project | 📋 Description | 🛠️ Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **🔒 NoDue Portal** | Smart student NOC & clearance management with automated approvals and admin panel | `TypeScript` `React` `Node.js` `Firebase` | [![Live](https://img.shields.io/badge/Live-00FF41?style=flat-square&logo=vercel&labelColor=0d0d0d)](https://noc-portal-delta.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-333333?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Bhavish-S/noc) |
-| **💰 Budget Allocator** | Intelligent financial planning tool with smart budget distribution and analytics | `TypeScript` `React` | [![Repo](https://img.shields.io/badge/Repo-333333?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Bhavish-S/budget-allocator) |
-| **🌐 Route Resilience** | Fault-tolerant network routing & resilience simulation and analysis system | `HTML` `JS` `CSS` | [![Repo](https://img.shields.io/badge/Repo-333333?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Bhavish-S/Route_Resilience) |
-| **🎉 Novic Events** | Full-featured event management, scheduling & ticketing platform | `Web Stack` | [![Live](https://img.shields.io/badge/Live-00FF41?style=flat-square&logo=vercel&labelColor=0d0d0d)](https://frontend-six-black-32.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-333333?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Bhavish-S/Novic-Events) |
+| **🔒 NoDue Portal** | Smart student NOC & clearance management with automated approvals and admin panel | `TypeScript` `React` `Node.js` `Firebase` | [![Live](https://img.shields.io/badge/Live-00FF41?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://noc-portal-delta.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-555555?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Bhavish-S/noc) |
+| **💰 Budget Allocator** | Intelligent financial planning tool with smart budget distribution and analytics | `TypeScript` `React` | [![Repo](https://img.shields.io/badge/Repo-555555?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Bhavish-S/budget-allocator) |
+| **🌐 Route Resilience** | Fault-tolerant network routing & resilience simulation and analysis system | `HTML` `JS` `CSS` | [![Repo](https://img.shields.io/badge/Repo-555555?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Bhavish-S/Route_Resilience) |
+| **🎉 Novic Events** | Full-featured event management, scheduling & ticketing platform | `Web Stack` | [![Live](https://img.shields.io/badge/Live-00FF41?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://frontend-six-black-32.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-555555?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Bhavish-S/Novic-Events) |
 | **🖥️ SIEM Dashboard** *(In Dev)* | Custom Security Information & Event Management dashboard built from scratch | `Python` `Elastic` `Splunk` `Kibana` | 🔄 Building |
 | **⚔️ PenTest Toolkit** *(In Dev)* | Modular, extensible penetration testing tools & automation scripts from scratch | `Python` `Bash` | 🔄 Building |
 
@@ -395,16 +459,17 @@ jobs:
 
 <a href="https://github.com/Bhavish-S/noc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="NoDue Portal repository card — Smart student NOC and clearance management system" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=noc&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="NoDue Portal repository card — Smart student NOC and clearance management system">
   </picture>
 </a>
+&nbsp;
 <a href="https://github.com/Bhavish-S/budget-allocator">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="Budget Allocator repository card — Intelligent financial planning tool with analytics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=budget-allocator&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="Budget Allocator repository card — Intelligent financial planning tool with analytics">
   </picture>
 </a>
 
@@ -412,16 +477,17 @@ jobs:
 
 <a href="https://github.com/Bhavish-S/Route_Resilience">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="Route Resilience repository card — Fault-tolerant network routing simulation system" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=Route_Resilience&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="Route Resilience repository card — Fault-tolerant network routing simulation system">
   </picture>
 </a>
+&nbsp;
 <a href="https://github.com/Bhavish-S/Novic-Events">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="Novic Events repository card — Full-featured event management and ticketing platform" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=f0fff0&title_color=006400&text_color=1a1a1a&icon_color=2e7d32&border_color=4caf50">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bhavish-s&repo=Novic-Events&bg_color=000000&title_color=00FF41&text_color=aaaaaa&icon_color=00FF41&border_color=1a1a1a" alt="Novic Events repository card — Full-featured event management and ticketing platform">
   </picture>
 </a>
 
@@ -429,7 +495,10 @@ jobs:
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                    CYBERSECURITY LEARNING ROADMAP                     -->
@@ -483,7 +552,10 @@ jobs:
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                         CERTIFICATIONS                                -->
@@ -509,7 +581,10 @@ jobs:
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                   HACKING & CODING PLATFORMS                          -->
@@ -557,7 +632,10 @@ jobs:
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                           FUN FACTS                                   -->
@@ -587,10 +665,13 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
-<!--                         DEV QUOTE                                     -->
+<!--                         HACKER PHILOSOPHY                             -->
 <!-- ===================================================================== -->
 
 ## 💬 `root@bhavish:~#` cat philosophy.txt
@@ -603,11 +684,23 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 >
 > ⚔️ *"You don't need to be unstoppable, you just need to be unpredictable."*
 
+<br/>
+
+<!-- RANDOM QUOTE WIDGET — changes on every page load -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random developer quote — refreshes on every profile visit" width="80%">
+</picture>
+
 </div>
 
 <br/>
 
----
+<!-- ==================== MATRIX DIVIDER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=1" width="100%" alt="">
+</div>
 
 <!-- ===================================================================== -->
 <!--                        CONNECT WITH ME                                -->
@@ -618,45 +711,45 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavish-s-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="Bhavish's LinkedIn profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="Bhavish's LinkedIn profile">
 </a>
 &nbsp;
 <a href="https://www.instagram.com/bhavish_s_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="Bhavish's Instagram profile" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="Bhavish's Instagram profile">
 </a>
 &nbsp;
 <a href="https://discord.gg/QvrjjptH2a">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" alt="Bhavish's Discord server invite" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" alt="Bhavish's Discord server invite">
 </a>
 &nbsp;
 <a href="mailto:bhavishgowda2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email Bhavish via Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email Bhavish via Gmail">
 </a>
 &nbsp;
 <a href="https://github.com/Bhavish-S">
-  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Bhavish's GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Bhavish's GitHub profile">
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/bhavishs/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d" alt="Bhavish's LeetCode profile" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d" alt="Bhavish's LeetCode profile">
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/profile/bhavishgowda2006">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d" alt="Bhavish's HackerRank profile" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d" alt="Bhavish's HackerRank profile">
 </a>
 &nbsp;
 <a href="https://www.geeksforgeeks.org/profile/bhavishgo174v">
-  <img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d" alt="Bhavish's GeeksForGeeks profile" />
+  <img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d" alt="Bhavish's GeeksForGeeks profile">
 </a>
 &nbsp;
 <a href="https://hackthebox.com">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d" alt="Bhavish on HackTheBox" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d0d0d" alt="Bhavish on HackTheBox">
 </a>
 &nbsp;
 <a href="https://tryhackme.com">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d0d0d" alt="Bhavish on TryHackMe" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d0d0d" alt="Bhavish on TryHackMe">
 </a>
 
 <br/><br/>
@@ -669,17 +762,15 @@ print(f"Bugs found (legally): {'Counting... 🔍'}")
 
 <br/>
 
----
-
 <!-- ===================================================================== -->
 <!--                           ANIMATED FOOTER                             -->
 <!-- ===================================================================== -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002200,100:004400&height=140&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f5e9,50:a5d6a7,100:66bb6a&height=140&section=footer" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002200,100:004400&height=140&section=footer" alt="Matrix green waving footer banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002200,100:004400&height=140&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f5e9,50:a5d6a7,100:66bb6a&height=140&section=footer">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002200,100:004400&height=140&section=footer" alt="Matrix green waving footer banner">
   </picture>
 </div>
 
