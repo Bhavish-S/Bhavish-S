@@ -1,3 +1,45 @@
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  ENHANCED PROFILE ENTRY LAYER — ADDITIVE ONLY                           -->
+<!--  The complete original README follows below without changing its text.  -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:070b16,28:0d1b31,58:142b4b,82:25204d,100:111827&height=260&section=header&text=BHAVISH%20S&fontSize=82&fontColor=EAF7FF&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%2F%20ENGINEERING%20%2F%20AUTOMATION&descAlignY=62&descSize=18&descColor=72DDF5&stroke=42DDF5&strokeWidth=1" alt="Bhavish S animated cyber profile banner" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=820&height=56&lines=SECURITY+MINDED.+BUILDER+BY+DESIGN.;ETHICAL+HACKING+%7C+SOC+%7C+SIEM+%7C+PYTHON;BREAK+IT+TO+UNDERSTAND+IT.+THEN+SECURE+IT." alt="Animated profile tagline" />
+  <br/>
+  <img src="./network-radar.gif" width="100%" alt="Animated network threat radar" />
+  <br/><br/>
+  <a href="https://github.com/Bhavish-S"><img src="https://img.shields.io/badge/GitHub-Bhavish--S-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhavishgowda2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bhavish-s.github.io/Bhavish-S/game/"><img src="https://img.shields.io/badge/PLAY-SNAKE%20%26%20LADDER-7C5CFC?style=for-the-badge&logo= ಆಟ&logoColor=white" alt="Play Snake and Ladder" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Bhavish-S?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Bhavish-S?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7c3aed&label=REPOSITORY+STARS" alt="GitHub stars" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>🛡️ SECURITY</b><br/><sub>Ethical Hacking · Pen Testing · SOC</sub></td>
+      <td align="center" width="33%"><b>⚙️ ENGINEERING</b><br/><sub>Python · Automation · Full Stack</sub></td>
+      <td align="center" width="33%"><b>📡 INTELLIGENCE</b><br/><sub>SIEM · Threat Detection · Analytics</sub></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg"><b>🐍 VIEW THE CONTRIBUTION SNAKE</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://bhavish-s.github.io/Bhavish-S/game/"><b>🎲 PLAY SNAKE &amp; LADDER</b></a>
+</div>
+
+---
+
+<!-- ORIGINAL PROFILE README — PRESERVED VERBATIM BELOW THIS LINE -->
+
 <!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
 
 <!-- ║  🔐  B H A V I S H   S  —  The Ultimate GitHub Profile README            ║ -->
