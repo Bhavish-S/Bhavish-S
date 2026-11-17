@@ -1,0 +1,10 @@
+{
+  "workflow_yaml": "PASS",
+  "original_content_suffix": "PASS",
+  "original_backup_hash": "PASS",
+  "local_refs": 171,
+  "missing_local_refs": [],
+  "svg_files": 174,
+  "svg_parse_errors": [],
+  "project_card_render": "PASS"
+}

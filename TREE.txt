@@ -1,0 +1,196 @@
+Bhavish-S-redesigned/
+├── .github/
+│   └── workflows/
+│       ├── profile-cards.yml
+│       └── snake.yml
+├── assets/
+│   ├── badges/
+│   │   ├── android-studio.dark.svg
+│   │   ├── android-studio.light.svg
+│   │   ├── angular.dark.svg
+│   │   ├── angular.light.svg
+│   │   ├── ansible.dark.svg
+│   │   ├── ansible.light.svg
+│   │   ├── aws.dark.svg
+│   │   ├── aws.light.svg
+│   │   ├── azure.dark.svg
+│   │   ├── azure.light.svg
+│   │   ├── bash.dark.svg
+│   │   ├── bash.light.svg
+│   │   ├── blender.dark.svg
+│   │   ├── blender.light.svg
+│   │   ├── bootstrap.dark.svg
+│   │   ├── bootstrap.light.svg
+│   │   ├── burp-suite.dark.svg
+│   │   ├── burp-suite.light.svg
+│   │   ├── c.dark.svg
+│   │   ├── c.light.svg
+│   │   ├── cpp.dark.svg
+│   │   ├── cpp.light.svg
+│   │   ├── css.dark.svg
+│   │   ├── css.light.svg
+│   │   ├── ctf.dark.svg
+│   │   ├── ctf.light.svg
+│   │   ├── devsecops.dark.svg
+│   │   ├── devsecops.light.svg
+│   │   ├── django.dark.svg
+│   │   ├── django.light.svg
+│   │   ├── docker.dark.svg
+│   │   ├── docker.light.svg
+│   │   ├── elk.dark.svg
+│   │   ├── elk.light.svg
+│   │   ├── express.dark.svg
+│   │   ├── express.light.svg
+│   │   ├── fastapi.dark.svg
+│   │   ├── fastapi.light.svg
+│   │   ├── figma.dark.svg
+│   │   ├── figma.light.svg
+│   │   ├── firebase.dark.svg
+│   │   ├── firebase.light.svg
+│   │   ├── flask.dark.svg
+│   │   ├── flask.light.svg
+│   │   ├── flutter.dark.svg
+│   │   ├── flutter.light.svg
+│   │   ├── gcp.dark.svg
+│   │   ├── gcp.light.svg
+│   │   ├── git.dark.svg
+│   │   ├── git.light.svg
+│   │   ├── github-actions.dark.svg
+│   │   ├── github-actions.light.svg
+│   │   ├── github.dark.svg
+│   │   ├── github.light.svg
+│   │   ├── go.dark.svg
+│   │   ├── go.light.svg
+│   │   ├── gobuster.dark.svg
+│   │   ├── gobuster.light.svg
+│   │   ├── graphql.dark.svg
+│   │   ├── graphql.light.svg
+│   │   ├── html.dark.svg
+│   │   ├── html.light.svg
+│   │   ├── hydra.dark.svg
+│   │   ├── hydra.light.svg
+│   │   ├── java.dark.svg
+│   │   ├── java.light.svg
+│   │   ├── javascript.dark.svg
+│   │   ├── javascript.light.svg
+│   │   ├── john-the-ripper.dark.svg
+│   │   ├── john-the-ripper.light.svg
+│   │   ├── kibana.dark.svg
+│   │   ├── kibana.light.svg
+│   │   ├── kotlin.dark.svg
+│   │   ├── kotlin.light.svg
+│   │   ├── kubernetes.dark.svg
+│   │   ├── kubernetes.light.svg
+│   │   ├── linux.dark.svg
+│   │   ├── linux.light.svg
+│   │   ├── metasploit.dark.svg
+│   │   ├── metasploit.light.svg
+│   │   ├── mitre-att-ck.dark.svg
+│   │   ├── mitre-att-ck.light.svg
+│   │   ├── mongodb.dark.svg
+│   │   ├── mongodb.light.svg
+│   │   ├── mysql.dark.svg
+│   │   ├── mysql.light.svg
+│   │   ├── neovim.dark.svg
+│   │   ├── neovim.light.svg
+│   │   ├── netlify.dark.svg
+│   │   ├── netlify.light.svg
+│   │   ├── next-js.dark.svg
+│   │   ├── next-js.light.svg
+│   │   ├── nmap.dark.svg
+│   │   ├── nmap.light.svg
+│   │   ├── node-js.dark.svg
+│   │   ├── node-js.light.svg
+│   │   ├── notion.dark.svg
+│   │   ├── notion.light.svg
+│   │   ├── obsidian.dark.svg
+│   │   ├── obsidian.light.svg
+│   │   ├── php.dark.svg
+│   │   ├── php.light.svg
+│   │   ├── postgresql.dark.svg
+│   │   ├── postgresql.light.svg
+│   │   ├── postman.dark.svg
+│   │   ├── postman.light.svg
+│   │   ├── powershell.dark.svg
+│   │   ├── powershell.light.svg
+│   │   ├── python.dark.svg
+│   │   ├── python.light.svg
+│   │   ├── react.dark.svg
+│   │   ├── react.light.svg
+│   │   ├── redis.dark.svg
+│   │   ├── redis.light.svg
+│   │   ├── rust.dark.svg
+│   │   ├── rust.light.svg
+│   │   ├── siem.dark.svg
+│   │   ├── siem.light.svg
+│   │   ├── splunk.dark.svg
+│   │   ├── splunk.light.svg
+│   │   ├── sqlmap.dark.svg
+│   │   ├── sqlmap.light.svg
+│   │   ├── supabase.dark.svg
+│   │   ├── supabase.light.svg
+│   │   ├── svelte.dark.svg
+│   │   ├── svelte.light.svg
+│   │   ├── swift.dark.svg
+│   │   ├── swift.light.svg
+│   │   ├── tailwind.dark.svg
+│   │   ├── tailwind.light.svg
+│   │   ├── terraform.dark.svg
+│   │   ├── terraform.light.svg
+│   │   ├── threat-intel.dark.svg
+│   │   ├── threat-intel.light.svg
+│   │   ├── typescript.dark.svg
+│   │   ├── typescript.light.svg
+│   │   ├── vercel.dark.svg
+│   │   ├── vercel.light.svg
+│   │   ├── vs-code.dark.svg
+│   │   ├── vs-code.light.svg
+│   │   ├── vue.dark.svg
+│   │   └── vue.light.svg
+│   ├── contributions/
+│   │   ├── snake-dark.svg
+│   │   └── snake-light.svg
+│   ├── projects/
+│   │   ├── budget-allocator.svg
+│   │   ├── nodue-portal.svg
+│   │   ├── novic-events.svg
+│   │   ├── pentest-toolkit.svg
+│   │   ├── route-resilience.svg
+│   │   └── siem-dashboard.svg
+│   ├── social/
+│   │   ├── discord.svg
+│   │   ├── email.svg
+│   │   ├── github.svg
+│   │   ├── instagram.svg
+│   │   ├── linkedin.svg
+│   │   ├── snake-ladder.svg
+│   │   └── x-twitter.svg
+│   ├── stats/
+│   │   ├── contributions.dark.svg
+│   │   ├── contributions.light.svg
+│   │   ├── languages.dark.svg
+│   │   ├── languages.light.svg
+│   │   ├── overview.dark.svg
+│   │   └── overview.light.svg
+│   ├── ambient-accent.svg
+│   ├── footer-neon-green.dark.svg
+│   ├── footer-neon-green.light.svg
+│   ├── footer-neon-green.svg
+│   ├── network-radar.gif
+│   ├── network-radar.svg
+│   ├── profile-footer.svg
+│   └── profile-header.svg
+├── profile-3d-contrib/
+│   ├── profile-green-animate.svg
+│   └── profile-night-rainbow.svg
+├── tools/
+│   └── generate_badges.py
+├── AUDIT.json
+├── AUDIT.md
+├── github-metrics.svg
+├── network-radar.gif
+├── network-radar.svg
+├── README.md
+├── README.original.md
+├── SETUP.md
+└── VALIDATION.json
