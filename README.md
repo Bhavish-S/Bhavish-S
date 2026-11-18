@@ -13,11 +13,12 @@
   <!-- QUICK NAVIGATION HUD -->
   <p align="center">
     <code><a href="#about">DOSSIER</a></code> &nbsp;•&nbsp;
-    <code><a href="#operations">OPERATIONS</a></code> &nbsp;•&nbsp;
+    <code><a href="#pipeline">DEVSECOPS</a></code> &nbsp;•&nbsp;
     <code><a href="#projects">PROJECTS</a></code> &nbsp;•&nbsp;
     <code><a href="#arsenal">ARSENAL</a></code> &nbsp;•&nbsp;
     <code><a href="#intelligence">INTELLIGENCE</a></code> &nbsp;•&nbsp;
     <code><a href="#roadmap">ROADMAP</a></code> &nbsp;•&nbsp;
+    <code><a href="#game">TACTICAL LAB</a></code> &nbsp;•&nbsp;
     <code><a href="#connect">CONNECT</a></code>
   </p>
 
@@ -57,7 +58,10 @@
   <p><b><i>"Understand how to break systems, so you can build unbreakable ones."</i></b></p>
 </div>
 
-I am an **Ethical Hacker**, **SOC Analyst**, and **Security Engineer** who approaches defense through the lens of an adversary. I specialize in Penetration Testing, SIEM Architecture, Threat Hunting, and DevSecOps Automation — crafting real-world security tooling and full-stack platforms from the ground up in Python, Bash, and modern web frameworks.
+I am an **Ethical Hacker**, **SOC Analyst**, and **Security Engineer** who approaches defense through the lens of an adversary. I specialize in **Penetration Testing**, **SIEM Architecture**, **Threat Hunting**, and **DevSecOps Automation** — crafting real-world security tooling and full-stack platforms from the ground up in Python, Bash, and modern web frameworks.
+
+By day — a Computer Science Engineering student dissecting kernel internals, network protocols, and distributed architecture.  
+By night — an operator tracking vulnerabilities on HackTheBox and TryHackMe, developing custom SIEM dashboards, writing exploit PoCs, and engineering resilient systems.
 
 <table>
 <tr>
@@ -73,9 +77,9 @@ I am an **Ethical Hacker**, **SOC Analyst**, and **Security Engineer** who appro
 ║  ┌─ IDENTITY ─────────────────────────────────┐  ║
 ║  │  codename    :  Bhavish S                  │  ║
 ║  │  alias       :  "The Legal Hacker"         │  ║
-║  │  base_os     :  Kali Linux / Debian        │  ║
+║  │  base_os     :  Kali Linux / Debian / macOS│  ║
 ║  │  location    :  India 🇮🇳                   │  ║
-║  │  degree      :  B.Tech CSE                 │  ║
+║  │  degree      :  B.Tech Computer Science    │  ║
 ║  │  clearance   :  Security Level 5           │  ║
 ║  └────────────────────────────────────────────┘  ║
 ║                                                  ║
@@ -84,25 +88,28 @@ I am an **Ethical Hacker**, **SOC Analyst**, and **Security Engineer** who appro
 ║  ┌─ OFFENSIVE ────────────────────────────────┐  ║
 ║  │  [✓] Penetration Testing & Red Teaming     │  ║
 ║  │  [✓] Web App Security & OWASP Top 10       │  ║
-║  │  [✓] Network Recon & Exploitation          │  ║
-║  │  [✓] Privilege Escalation & Brute Force    │  ║
+║  │  [✓] Network Recon, Scanning & Exploits    │  ║
+║  │  [✓] Privilege Escalation (Linux/Windows)  │  ║
+║  │  [✓] Brute Force & Password Auditing       │  ║
 ║  └────────────────────────────────────────────┘  ║
 ║  ┌─ DEFENSIVE ────────────────────────────────┐  ║
-║  │  [✓] SOC Operations & Incident Response    │  ║
+║  │  [✓] SOC Tier 1/2 Incident Response        │  ║
 ║  │  [✓] SIEM Engineering (Splunk / Elastic)   │  ║
 ║  │  [✓] Threat Hunting & MITRE ATT&CK         │  ║
-║  │  [✓] Traffic Analysis & Packet Inspection  │  ║
+║  │  [✓] Packet Analysis (Wireshark / Tcpdump) │  ║
+║  │  [✓] Log Correlation & Detection Rules     │  ║
 ║  └────────────────────────────────────────────┘  ║
 ║  ┌─ DEVELOPMENT ──────────────────────────────┐  ║
-║  │  [✓] Python Security Scripting & Exploits  │  ║
+║  │  [✓] Python Security Scripting & Tooling   │  ║
 ║  │  [✓] Full-Stack SaaS & Web Applications    │  ║
 ║  │  [✓] DevSecOps & CI/CD Pipeline Hardening  │  ║
+║  │  [✓] Graph Algorithms & Network Simulation │  ║
 ║  └────────────────────────────────────────────┘  ║
 ║                                                  ║
 ║  bhavish@kali:~$ systemctl status bhavish        ║
 ║                                                  ║
 ║  [✔] Google CyberSec Cert   — COMPLETED         ║
-║  [~] HackTheBox & TryHackMe — ACTIVE             ║
+║  [~] HackTheBox & TryHackMe — ACTIVE GRIND       ║
 ║  [~] SIEM Dashboard         — IN BUILD           ║
 ║  [~] PenTest Toolkit        — IN BUILD           ║
 ║  [*] Collaboration Status   — 🟢 OPEN            ║
@@ -119,31 +126,52 @@ I am an **Ethical Hacker**, **SOC Analyst**, and **Security Engineer** who appro
 
 <img src="https://streak-stats.demolab.com?user=bhavish-s&theme=tokyonight&background=05090F&border=1C594A&stroke=1C594A&ring=00F5A0&fire=00D9FF&currStreakNum=00F5A0&currStreakLabel=00F5A0&sideNums=C7E8DF&sideLabels=C7E8DF&dates=65DCB3&hide_border=false" alt="GitHub Streak" width="100%" />
 
+<br/><br/>
+
+<div align="left">
+
+**🎯 Core Tactical Focus Areas:**
+- 🛡️ **Offensive Mindset**: Emulating APT tactics to locate zero-days, misconfigurations, and broken access controls before malicious actors do.
+- ⚙️ **Shift-Left Security**: Baking automated SAST, DAST, dependency audits, and secret scanning directly into developer PR workflows.
+- 📡 **Telemetry & Forensics**: Extracting actionable signals from noisy firewall, sysmon, and application logs using SIEM query languages.
+
+</div>
+
 </td>
 </tr>
 </table>
 
 ---
 
-<a id="operations"></a>
+<a id="pipeline"></a>
 
-## 🎯 ACTIVE OPERATIONS — Mission Status
+## ⚙️ SECURE SDLC & DEVSECOPS PIPELINE
 
-```bash
-bhavish@kali:~/ops$ cat active_missions.log
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+My standard operational philosophy integrates continuous security checks across each stage of software delivery:
+
+```mermaid
+graph LR
+    A["💻 Code Push / PR"] --> B["⚙️ CI Pipeline"]
+    B --> C{"🔍 SAST & Secrets"}
+    C -->|CVEs / Secrets Found| D["❌ Block & Alert"]
+    C -->|Clean| E["📦 Build Container"]
+    E --> F{"🛡️ Image Scan & DAST"}
+    F -->|Vulnerabilities| D
+    F -->|Passed| G["🚀 Staging & Production"]
+    
+    style A fill:#05090f,stroke:#00d9ff,stroke-width:2px,color:#c7e8df
+    style B fill:#05090f,stroke:#1c594a,stroke-width:2px,color:#c7e8df
+    style C fill:#091b19,stroke:#00f5a0,stroke-width:2px,color:#f0fff9
+    style D fill:#1a0505,stroke:#ff5555,stroke-width:2px,color:#ff9999
+    style E fill:#05090f,stroke:#1c594a,stroke-width:2px,color:#c7e8df
+    style F fill:#091b19,stroke:#00f5a0,stroke-width:2px,color:#f0fff9
+    style G fill:#05090f,stroke:#00f5a0,stroke-width:2px,color:#00f5a0
 ```
 
-| Status | Operation | Scope & Intelligence |
-|:------:|:----------|:---------------------|
-| 🔴 **LIVE** | **NoDue Portal** | Smart Student NOC & Clearance Management System with automated workflow approvals |
-| 🟡 **DEV** | **SIEM & PenTest Suite** | Custom SIEM Dashboard (Splunk/Elastic) & Modular Python PenTesting Toolkit |
-| 🔵 **LEARN** | **Advanced CyberOps** | Web PenTesting · SOC Tier 1/2 · SIEM Architecture · Active Directory Attacks |
-| 🟢 **OPEN** | **Collaborations** | Open-source cybersecurity projects, CTF challenges & security tooling |
-| 🏆 **DONE** | **Certification** | Google Cybersecurity Professional Certificate ✅ |
-| 🌐 **RECON** | **Offensive Horizons** | Red Teaming · Buffer Overflows · Cloud Infrastructure Security (AWS / GCP) |
-| 💬 **COMM** | **Technical Discourse** | Burp Suite · Nmap · Python Automation · Network Resilience · Full-Stack Security |
-| 🎯 **TARGET** | **Ultimate Milestone** | OSCP (Offensive Security Certified Professional) |
+1. **Shift-Left Static Analysis**: Automated linting, type-checking, and AST-based vulnerability discovery via Semgrep and Bandit.
+2. **Secret Detection**: Pre-commit & CI git history scanning with TruffleHog to guarantee no private tokens leak to remotes.
+3. **Container Hardening**: Minimal base images, non-root user execution, and container vulnerability scans with Trivy.
+4. **Dynamic Testing**: Staging environment health verification and automated web surface scanning with OWASP ZAP.
 
 ---
 
@@ -186,6 +214,43 @@ bhavish@kali:~/ops$ cat active_missions.log
   </tr>
 </table>
 
+<details open>
+<summary><b>🔍 Detailed Project Architecture & Technical Breakdown</b></summary>
+<br/>
+
+| Project | Tech Stack | Security & Architectural Highlights | Status | Link |
+|:--------|:-----------|:------------------------------------|:------:|:----:|
+| **🔒 NoDue Portal** | React · TypeScript · Node.js · Firebase | **Role-Based Access Control (RBAC)** across 5 campus authorities (Student, HOD, Library, Lab, Finance). Automated cryptographic clearance verification, atomic approval states, and tamper-resistant audit trails. | `DEPLOYED` | [Repository ↗](https://github.com/Bhavish-S/noc) |
+| **💰 Budget Allocator** | React · TypeScript · Tailwind CSS | Client-side financial engine with dynamic 50/30/20 budget distribution algorithms, real-time variance calculations, zero-knowledge local storage architecture, and data visualization. | `DEPLOYED` | [Repository ↗](https://github.com/Bhavish-S/budget-allocator) |
+| **🌐 Route Resilience** | HTML5 · JavaScript · CSS3 · Canvas | Interactive simulation analyzing network mesh resilience. Implements **Dijkstra & Bellman-Ford graph algorithms** to dynamically recalculate optimal packet paths under simulated node failure and denial-of-service stress. | `DEPLOYED` | [Repository ↗](https://github.com/Bhavish-S/Route_Resilience) |
+| **🎉 Novic Events** | JavaScript · Web Components · Node.js | Full-featured event ticketing and scheduling platform. Features race-condition prevention in seat reservations, secure ticket issuance, and anti-tamper QR verification. | `DEPLOYED` | [Repository ↗](https://github.com/Bhavish-S/Novic-Events) |
+| **🖥️ SIEM Dashboard** | Python · Elasticsearch · Splunk · Kibana | Custom Security Information & Event Management engine built from scratch. Ingests raw auth and firewall syslog, correlates indicators of compromise (IOCs), and flags anomalous brute-force patterns. | `IN DEV` | *Building* |
+| **⚔️ PenTest Toolkit** | Python 3 · Bash · Sockets | Modular offensive automation suite featuring multi-threaded port scanning, HTTP security header audits, automated subdomain discovery, and hash cracking wrappers. | `IN DEV` | *Building* |
+
+</details>
+
+---
+
+<a id="operations"></a>
+
+## 🎯 ACTIVE OPERATIONS — Mission Status
+
+```bash
+bhavish@kali:~/ops$ cat active_missions.log
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+| Status | Mission | Scope & Intelligence | Target Date |
+|:------:|:--------|:---------------------|:-----------:|
+| 🔴 **LIVE** | **NoDue Portal Production** | Scaling student clearance automated workflows and hardening security rules | Continuous |
+| 🟡 **DEV** | **SIEM & PenTest Suite** | Ingesting real attack logs into custom Elasticsearch cluster & Python toolkit | Q1 2027 |
+| 🔵 **LEARN** | **Advanced CyberOps** | Web PenTesting · SOC Tier 1/2 · SIEM Architecture · Active Directory Attacks | Daily |
+| 🟢 **OPEN** | **Collaborations** | Open-source cybersecurity tools, Red Team scripts, CTF challenges | Ongoing |
+| 🏆 **DONE** | **Google Cybersecurity Cert** | Completed professional certification in network security, SIEM & Python | ✅ Verified |
+| 🌐 **RECON** | **Offensive Horizons** | Exploring C2 frameworks, buffer overflows, and AWS/GCP cloud security posture | Q2 2027 |
+| 💬 **COMM** | **Technical Discourse** | Reach out to discuss Burp Suite, Nmap, Python automation, and SaaS engineering | Open |
+| 🎯 **TARGET** | **Ultimate Milestone** | **OSCP** (Offensive Security Certified Professional) | 2027 Goal |
+
 ---
 
 <a id="arsenal"></a>
@@ -225,6 +290,12 @@ bhavish@kali:~/ops$ cat active_missions.log
 <p><i>Building secure backends, robust APIs, and automated pipelines:</i></p>
 <img src="https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,aws,gcp,git,githubactions,react,nodejs,express,fastapi,django,mongodb,postgres,redis,firebase,tailwind&theme=dark&perline=9" alt="Frameworks & DevOps" />
 
+<br/><br/>
+
+### 🧰 Operator Tooling & IDE Environments
+<p><i>Everyday environments and productivity stack:</i></p>
+<img src="https://skillicons.dev/icons?i=vscode,neovim,postman,figma,notion,obsidian&theme=dark&perline=6" alt="Developer Tools" />
+
 </div>
 
 ---
@@ -256,6 +327,7 @@ bhavish@kali:~/ops$ cat active_missions.log
 <br/>
 
 <!-- ANIMATED CONTRIBUTION GRID SNAKE -->
+<p align="center"><b>🐍 Contribution Grid Snake</b></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
@@ -322,24 +394,65 @@ bhavish@kali:~/ops$ cat active_missions.log
 
 </details>
 
-<details>
+<details open>
 <summary><b>MITRE ATT&CK Framework Coverage</b></summary>
 <br/>
 
 | Tactic | Coverage | Techniques & Knowledge Base |
 |:-------|:--------:|:----------------------------|
-| **Reconnaissance** | `████████░░` 80% | Passive DNS, Shodan, Whois, Active Nmap enumeration |
-| **Initial Access** | `███████░░░` 70% | Web vulnerabilities, Phishing vectors, Exploit PoCs |
-| **Execution** | `██████░░░░` 60% | Python/Bash scripting, Command injection, PowerShell |
-| **Persistence** | `█████░░░░░` 50% | Cron jobs, Web shells, Service creation |
-| **Privilege Escalation** | `██████░░░░` 60% | SUID binaries, Sudo misconfigs, Kernel CVE research |
-| **Defense Evasion** | `████░░░░░░` 40% | Log tampering analysis, Payload obfuscation |
-| **Credential Access** | `███████░░░` 70% | Hashcat, John the Ripper, Memory dumping concepts |
-| **Discovery** | `████████░░` 80% | Network scanning, Local system enumeration |
-| **Lateral Movement** | `█████░░░░░` 50% | SSH pivoting, Port forwarding, SOCKS proxies |
-| **Command & Control** | `███░░░░░░░` 30% | Reverse shells, Encrypted staging channels |
+| **Reconnaissance** | `████████░░` 80% | Passive DNS, Shodan, Whois, Active Nmap enumeration, Sublist3r |
+| **Initial Access** | `███████░░░` 70% | Web vulnerabilities (SQLi, XSS, SSRF, IDOR), Phishing, Exploit PoCs |
+| **Execution** | `██████░░░░` 60% | Python/Bash scripting, Command injection, PowerShell evasion |
+| **Persistence** | `█████░░░░░` 50% | Cron jobs, Web shells, Service creation, Account manipulation |
+| **Privilege Escalation** | `██████░░░░` 60% | SUID binaries, Sudo misconfigurations, Kernel CVE research |
+| **Defense Evasion** | `████░░░░░░` 40% | Log tampering analysis, Payload obfuscation, Base64 bypasses |
+| **Credential Access** | `███████░░░` 70% | Hashcat, John the Ripper, Shadow/SAM file extraction |
+| **Discovery** | `████████░░` 80% | Network scanning, Local host enumeration, Open port audits |
+| **Lateral Movement** | `█████░░░░░` 50% | SSH pivoting, Port forwarding, SOCKS5 proxies |
+| **Command & Control** | `███░░░░░░░` 30% | Reverse shells, Encrypted staging channels, Netcat listeners |
 
 </details>
+
+<details>
+<summary><b>📚 Operator's Intel Library (Recommended Reading)</b></summary>
+<br/>
+
+| Book | Author | Subject | Status |
+|:-----|:-------|:--------|:------:|
+| *The Web Application Hacker's Handbook* | Dafydd Stuttard & Marcus Pinto | Web Security & PenTesting | 📗 Active |
+| *Hacking: The Art of Exploitation* | Jon Erickson | C, Assembly & Exploits | 📗 Active |
+| *Practical Malware Analysis* | Michael Sikorski & Andrew Honig | Reverse Engineering | 📋 Queued |
+| *Red Team Field Manual (RTFM)* | Ben Clark | Command Syntax & Offensive Tactics | 📗 Reference |
+| *Blue Team Handbook: Incident Response* | Don Murdoch | SOC Procedures & Containment | 📗 Reference |
+
+</details>
+
+---
+
+<a id="game"></a>
+
+## 🎲 TACTICAL LAB — Interactive Snake & Ladder Game
+
+I engineered an interactive **Snake & Ladder Web Game** featuring dice mechanics, smooth CSS grid animations, and responsive state handling.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>🎮 Live Browser Game Deployed on GitHub Pages</h3>
+      <p>Test your luck on the cyber grid — built with HTML5, Modern ES Modules, and Custom Canvas CSS!</p>
+      <br/>
+      <a href="https://bhavish-s.github.io/Bhavish-S/game/">
+        <img src="https://img.shields.io/badge/PLAY_ONLINE-SNAKE_%26_LADDER-00F5A0?style=for-the-badge&logo=gamepad&logoColor=05090f" alt="Play Snake and Ladder Game Online" height="42" />
+      </a>
+      <br/><br/>
+      <code>https://bhavish-s.github.io/Bhavish-S/game/</code>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -376,6 +489,7 @@ if __name__ == "__main__":
     op = Bhavish()
     print(f"[*] Operator: {op.codename}")
     print(f"[*] Philosophy: {op.mantra}")
+    print(f"[*] Status: {op.status()['mindset']}")
 ```
 
 </details>
