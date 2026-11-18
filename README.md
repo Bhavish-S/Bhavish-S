@@ -1,49 +1,51 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist & Automation Engineer" />
+  <!-- 01 // HERO BANNER -->
+  <img src="./assets/profile-header.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist & Automation Engineer" />
 
-<img src="./assets/ambient-accent.svg" width="100%" alt="" />
+  <img src="./assets/ambient-accent.svg" width="100%" alt="" />
 
-<p><strong>Ethical Hacking & Pen Testing</strong> &nbsp;·&nbsp; <strong>Workflow Automation</strong> &nbsp;·&nbsp; <strong>DevSecOps & Cloud Defense</strong></p>
+  <p><strong>Ethical Hacking & Pen Testing</strong> &nbsp;·&nbsp; <strong>Workflow Automation</strong> &nbsp;·&nbsp; <strong>DevSecOps & Cloud Defense</strong></p>
 
-<p>
-  <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
-  <a href="https://www.linkedin.com/in/bhavish-s-/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
-  <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
-  <a href="mailto:bhavishgowda2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
-</p>
+  <!-- 02 // SOCIAL CHANNELS -->
+  <p>
+    <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
+    <a href="https://www.linkedin.com/in/bhavish-s-/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
+    <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
+    <a href="mailto:bhavishgowda2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
+    <a href="https://discord.gg/QvrjjptH2a"><img src="./assets/social-discord.svg" height="44" alt="Discord" /></a>
+  </p>
 
-<a href="https://github.com/Bhavish-S">
-  <img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=39d353&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
+  <a href="https://github.com/Bhavish-S">
+    <img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=39d353&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 03 // QUICK METRICS OVERVIEW -->
+  <img src="./assets/dashboard/stats-bar.svg" width="100%" alt="Quick Metrics Overview: 50+ Repositories, 10+ Projects, 15K+ Lines of Code" />
+
+  <br/><br/>
+
+  <!-- 04 // ABOUT ME & INTERACTIVE TERMINAL DOSSIER (NO PHOTO) -->
+  <img src="./assets/dashboard/about-terminal.svg" width="100%" alt="About Me & Interactive Terminal Dossier" />
+
+  <br/><br/>
+
+  <!-- 05 // CERTIFICATIONS & CREDENTIALS -->
+  <img src="./assets/dashboard/certifications.svg" width="100%" alt="Certifications & Credentials" />
+
+  <br/><br/>
+
+  <!-- 06 // SKILLS & PROFICIENCY PROGRESS -->
+  <img src="./assets/dashboard/skills-stack.svg" width="100%" alt="Skills Proficiency & Technical Focus" />
+
+  <br/><br/>
+
+  <!-- 07 // TOP SPECIALIZATION INTERESTS -->
+  <img src="./assets/dashboard/interests-bar.svg" width="100%" alt="Top Interests: Threat Detection, Automation, DevSecOps, IaC, Open Source, AI Security" />
 
 </div>
-
----
-
-<h1 align="center">Bhavish S | Cybersecurity Specialist & Automation Engineer</h1>
-
-<p align="center">Cybersecurity Specialist building secure systems, automated security tooling, cloud defense pipelines, and practical DevSecOps workflows.</p>
-
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-  <img src="https://github.com/Bhavish-S.png" width="220" alt="Bhavish S" />
-</p>
-
-<p align="center">
-  <strong>-----------------------------------------</strong><br/>
-  Building resilient security architectures and dependable automated workflows.
-</p>
-
-I enjoy breaking complex systems to uncover vulnerabilities and building automated defensive mechanisms that make systems unbreakable. Specializing in ethical hacking, penetration testing, SIEM telemetry, and CI/CD DevSecOps automation.
-
-<p align="center">
-  <code>CYBERSECURITY & DEFENSE</code> &nbsp;
-  <code>WORKFLOW AUTOMATION</code> &nbsp;
-  <code>DEVSECOPS + CLOUD</code> &nbsp;
-  <code>THREAT INTELLIGENCE & SIEM</code>
-</p>
 
 ---
 
@@ -180,6 +182,14 @@ I also experiment with offensive security scripts, penetration testing suites, w
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 GitHub Achievements & Recognition
+
+<div align="center">
+  <img src="./assets/dashboard/achievements.svg" width="100%" alt="GitHub Achievements: YOLO, Pair Extraordinaire, Pull Shark, Quickdraw, Galaxy Brain" />
+</div>
 
 ---
 

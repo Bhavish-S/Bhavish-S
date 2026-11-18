@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="136" viewBox="0 0 920 136" role="img" aria-labelledby="title">
+<title id="title">GitHub Achievements &amp; Badges</title>
+<defs>
+  <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#10232D"/>
+    <stop offset="100%" stop-color="#0B1A22"/>
+  </linearGradient>
+  <linearGradient id="emerald-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00E5A8"/>
+    <stop offset="100%" stop-color="#38BDF8"/>
+  </linearGradient>
+  <pattern id="mesh-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#13303D" stroke-opacity="0.35"/>
+  </pattern>
+</defs>
+<rect width="920" height="136" rx="14" fill="#10232D"/>
+<rect width="920" height="136" rx="14" fill="url(#mesh-grid)"/>
+<rect x="1" y="1" width="918" height="134" rx="13" stroke="#13303D" stroke-width="1.2" fill="none"/>
+
+  <text x="24" y="28" fill="#00E5A8" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">🏆 GITHUB ACHIEVEMENTS &amp; RECOGNITION</text>
+  <text x="896" y="28" fill="#38BDF8" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="600" text-anchor="end">@Bhavish-S // VERIFIED BADGES</text>
+  <path d="M 24 36 L 896 36" stroke="#13303D"/>
+  
+  <!-- 01: YOLO -->
+  <g transform="translate(24, 46)">
+    <circle cx="84.0" cy="22" r="20" fill="#0D1E27" stroke="#00E5A8" stroke-width="2"/>
+    <text x="84.0" y="28" font-size="16" text-anchor="middle">🚀</text>
+    <text x="84.0" y="56" fill="#00E5A8" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">YOLO</text>
+    <text x="84.0" y="70" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="9.5" text-anchor="middle">Merged PR directly</text>
+  </g>
+
+  <!-- 02: PAIR EXTRAORDINAIRE -->
+  <g transform="translate(202, 46)">
+    <circle cx="84.0" cy="22" r="20" fill="#0D1E27" stroke="#38BDF8" stroke-width="2"/>
+    <text x="84.0" y="28" font-size="16" text-anchor="middle">👥</text>
+    <text x="84.0" y="56" fill="#38BDF8" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Pair Extraordinaire</text>
+    <text x="84.0" y="70" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="9.5" text-anchor="middle">Co-authored commits</text>
+  </g>
+
+  <!-- 03: PULL SHARK -->
+  <g transform="translate(380, 46)">
+    <circle cx="84.0" cy="22" r="20" fill="#0D1E27" stroke="#A855F7" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <text x="84.0" y="28" font-size="16" text-anchor="middle">🦈</text>
+    <text x="84.0" y="56" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Pull Shark</text>
+    <text x="84.0" y="70" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="9.5" text-anchor="middle">Merged PR milestone</text>
+  </g>
+
+  <!-- 04: QUICKDRAW -->
+  <g transform="translate(558, 46)">
+    <circle cx="84.0" cy="22" r="20" fill="#0D1E27" stroke="#F59E0B" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <text x="84.0" y="28" font-size="16" text-anchor="middle">⚡</text>
+    <text x="84.0" y="56" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Quickdraw</text>
+    <text x="84.0" y="70" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="9.5" text-anchor="middle">Rapid issue resolution</text>
+  </g>
+
+  <!-- 05: GALAXY BRAIN -->
+  <g transform="translate(736, 46)">
+    <circle cx="84.0" cy="22" r="20" fill="#0D1E27" stroke="#00E5A8" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <text x="84.0" y="28" font-size="16" text-anchor="middle">🧠</text>
+    <text x="84.0" y="56" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Galaxy Brain</text>
+    <text x="84.0" y="70" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="9.5" text-anchor="middle">Answered discussions</text>
+  </g>
+</svg>
