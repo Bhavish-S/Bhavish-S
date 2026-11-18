@@ -7,9 +7,15 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/snake.yml
 
 permissions:
   contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
 
 jobs:
   generate:

@@ -8,13 +8,29 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - name: Check optional metrics configuration
+        id: configuration
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -n "$METRICS_TOKEN" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "Optional deep metrics skipped: METRICS_TOKEN has not been configured." >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Generate metrics
+        if: steps.configuration.outputs.enabled == 'true'
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}

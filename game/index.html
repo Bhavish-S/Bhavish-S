@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<meta name="description" content="A quick game of Snake & Ladder from Bhavish S's digital lab.">
+<title>Snake & Ladder · Bhavish S</title>
+<link rel="stylesheet" href="style.css">
+<script type="module" src="game.mjs"></script>
+</head>
+<body>
+<main>
+<header><a href="https://github.com/Bhavish-S">↖ Bhavish S</a><span>THE DIGITAL LAB / 01</span></header>
+<div class="intro"><p class="eyebrow">A LITTLE BREAK BETWEEN BUILDS</p><h1>Snake <span>&</span> Ladder.</h1><p>Climb a little. Slide a little. Make it to 100.</p></div>
+<div class="layout">
+<section class="board-panel" aria-label="Game board">
+  <div id="board" class="board" role="list" aria-label="Board squares"></div>
+  <div class="legend"><span><i class="ladder-key"></i> ↗ Ladder</span><span><i class="snake-key"></i> ↘ Snake</span><span>Finish on exactly 100.</span></div>
+</section>
+<aside>
+<div class="panel">
+  <label for="mode">PLAY MODE</label>
+  <select id="mode"><option value="computer">You vs computer</option><option value="friend">Two players · same device</option></select>
+  <p class="mode-note">Changing mode starts a new game.</p>
+  <div id="players" class="players"></div>
+  <div class="dice" id="dice" aria-label="Dice not rolled">—</div>
+  <p id="status" role="status" aria-live="polite">Your move. Roll to begin.</p>
+  <button id="roll" class="primary" type="button">Roll the dice ↗</button>
+  <button id="reset" class="secondary" type="button">New game</button>
+</div>
+<details class="panel rules"><summary>How to play</summary><p>Take turns rolling a six-sided die. Land on ↗ to climb to the shown square, or ↘ to slide down. You need an exact roll to reach 100; an overshoot leaves you in place. Every roll passes the turn, including a six.</p></details>
+<div class="history"><h2>Move log</h2><ol id="history"><li>The board is ready.</li></ol></div>
+</aside>
+</div>
+<footer>Built for a little fun. <a href="https://github.com/Bhavish-S/Bhavish-S">Back to the profile ↗</a></footer>
+<noscript>This game needs JavaScript enabled. You can still visit the profile using the link above.</noscript>
+</main>
+</body>
+</html>
