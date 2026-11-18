@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Tactical Lab: Interactive cybersecurity training arena and game with offensive puzzles and defensive countermeasures.">
+  <defs>
+   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111e17"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+   <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5A8" stop-opacity=".9"/><stop offset="1" stop-color="#00E5A8" stop-opacity=".08"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="218" rx="18" fill="url(#bg)" stroke="#2ea043" stroke-opacity=".55"/>
+  <path d="M18 2H180" stroke="#00E5A8" stroke-width="3" stroke-linecap="round"/>
+  <rect x="28" y="27" width="58" height="58" rx="15" fill="#163a22" stroke="#00E5A8" stroke-opacity=".55"/>
+  <text x="57" y="67" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#00E5A8">🎮</text>
+  <text x="106" y="45" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" font-weight="700" fill="#00E5A8">PROJECT 05</text>
+  <text x="106" y="76" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#f0f6fc">Tactical Lab</text>
+  <text x="32" y="125" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#c9d1d9">Interactive cybersecurity training arena and game</text>
+  <text x="32" y="147" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#c9d1d9">with offensive puzzles and defensive countermeasures.</text>
+  <rect x="32" y="171" width="105.0" height="26" rx="13" fill="#173321" stroke="#39d353" stroke-opacity=".28"/><text x="84.5" y="188" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing=".5" fill="#a8f0b5">TYPESCRIPT</text><rect x="149.0" y="171" width="88.0" height="26" rx="13" fill="#173321" stroke="#39d353" stroke-opacity=".28"/><text x="193.0" y="188" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing=".5" fill="#a8f0b5">THREE.JS</text><rect x="249.0" y="171" width="88.0" height="26" rx="13" fill="#173321" stroke="#39d353" stroke-opacity=".28"/><text x="293.0" y="188" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing=".5" fill="#a8f0b5">CYBERSEC</text>
+  <path d="M508 32l18 0 0 18M526 32l-23 23" stroke="#00E5A8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="526" y="202" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#7ee787">LAUNCH LAB ↗</text>
+</svg>

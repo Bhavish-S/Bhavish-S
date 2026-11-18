@@ -8,9 +8,9 @@
 
 <p>
   <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
-  <a href="https://www.linkedin.com/in/bhavish-s-3a669728b/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
   <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
-  <a href="mailto:bhavishsuresh2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
+  <a href="mailto:bhavishgowda2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
 </p>
 
 <a href="https://github.com/Bhavish-S">
@@ -28,7 +28,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <img src="./assets/profile.png" width="220" style="border-radius:50%;" alt="Bhavish S" />
+  <img src="https://github.com/Bhavish-S.png" width="220" alt="Bhavish S" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
   Building resilient security architectures and dependable automated workflows.
 </p>
 
-I enjoy breaking complex systems to uncover vulnerabilities and building automated defensive mechanisms that make systems unbreakable. Specializing in ethical hacking, network penetration testing, SIEM telemetry, and CI/CD DevSecOps automation.
+I enjoy breaking complex systems to uncover vulnerabilities and building automated defensive mechanisms that make systems unbreakable. Specializing in ethical hacking, penetration testing, SIEM telemetry, and CI/CD DevSecOps automation.
 
 <p align="center">
   <code>CYBERSECURITY & DEFENSE</code> &nbsp;
@@ -61,20 +61,20 @@ I enjoy breaking complex systems to uncover vulnerabilities and building automat
     <img src="./assets/badges/metasploit.light.svg" alt="Metasploit" height="30" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/nmap.dark.svg" />
-    <img src="./assets/badges/nmap.light.svg" alt="Nmap" height="30" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/wireshark.dark.svg" />
+    <img src="./assets/badges/wireshark.light.svg" alt="Wireshark" height="30" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/sqlmap.dark.svg" />
-    <img src="./assets/badges/sqlmap.light.svg" alt="SQLmap" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/siem.dark.svg" />
-    <img src="./assets/badges/siem.light.svg" alt="SIEM" height="30" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/kalilinux.dark.svg" />
+    <img src="./assets/badges/kalilinux.light.svg" alt="Kali Linux" height="30" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/splunk.dark.svg" />
     <img src="./assets/badges/splunk.light.svg" alt="Splunk" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linux.dark.svg" />
+    <img src="./assets/badges/linux.light.svg" alt="Linux" height="30" />
   </picture>
 </p>
 <p align="center">
@@ -105,10 +105,6 @@ I enjoy breaking complex systems to uncover vulnerabilities and building automat
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linux.dark.svg" />
-    <img src="./assets/badges/linux.light.svg" alt="Linux" height="30" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/docker.dark.svg" />
     <img src="./assets/badges/docker.light.svg" alt="Docker" height="30" />
   </picture>
@@ -125,14 +121,18 @@ I enjoy breaking complex systems to uncover vulnerabilities and building automat
     <img src="./assets/badges/github-actions.light.svg" alt="GitHub Actions" height="30" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/aws.dark.svg" />
-    <img src="./assets/badges/aws.light.svg" alt="AWS" height="30" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/firebase.dark.svg" />
+    <img src="./assets/badges/firebase.light.svg" alt="Firebase" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/react.dark.svg" />
+    <img src="./assets/badges/react.light.svg" alt="React" height="30" />
   </picture>
 </p>
 
 </div>
 
-<sub>Technology badges are generated and stored directly in this repository. They render natively with instant dark and light mode support without depending on external badge servers.</sub>
+<sub>Technology badges are crafted with authentic brand vector glyphs and stored directly in this repository. They render natively with instant dark and light mode support.</sub>
 
 ---
 
@@ -142,7 +142,7 @@ I enjoy breaking complex systems to uncover vulnerabilities and building automat
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Bhavish-S/noc"><img src="./assets/project-nodue-portal.svg" width="100%" alt="NoDue Portal — Student Clearance Clearance System" /></a>
+<a href="https://github.com/Bhavish-S/noc"><img src="./assets/project-nodue-portal.svg" width="100%" alt="NoDue Portal — Student NOC Clearance System" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -166,7 +166,7 @@ I enjoy breaking complex systems to uncover vulnerabilities and building automat
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Bhavish-S"><img src="./assets/project-siem-dashboard.svg" width="100%" alt="SIEM Dashboard — Security Information & Event Management" /></a>
+<a href="https://bhavish-s.github.io/Bhavish-S/game/"><img src="./assets/project-tactical-lab.svg" width="100%" alt="Tactical Lab — Gamified Cybersecurity Training Matrix" /></a>
 
 </td>
 <td width="50%" valign="middle">
@@ -224,9 +224,10 @@ I also experiment with offensive security scripts, penetration testing suites, w
 
 <p>
   <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
-  <a href="https://www.linkedin.com/in/bhavish-s-3a669728b/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
   <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
-  <a href="mailto:bhavishsuresh2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
+  <a href="mailto:bhavishgowda2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
+  <a href="https://discord.gg/QvrjjptH2a"><img src="./assets/social-discord.svg" height="44" alt="Discord" /></a>
 </p>
 
 <img src="./assets/profile-footer.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
