@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="240" viewBox="0 0 920 240" role="img" aria-labelledby="title">
+<title id="title">Bhavish S — Cybersecurity Engineer Hero</title>
+<defs>
+  <!-- Background Gradients -->
+  <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#10232D"/>
+    <stop offset="100%" stop-color="#0B1A22"/>
+  </linearGradient>
+  <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#091B24"/>
+    <stop offset="50%" stop-color="#07131B"/>
+    <stop offset="100%" stop-color="#061017"/>
+  </linearGradient>
+
+  <!-- Accent Gradients -->
+  <linearGradient id="emerald-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00E5A8"/>
+    <stop offset="100%" stop-color="#38BDF8"/>
+  </linearGradient>
+  <linearGradient id="cyan-emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#00E5A8"/>
+  </linearGradient>
+  <linearGradient id="accent-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5A8" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+  </linearGradient>
+
+  <!-- Patterns -->
+  <pattern id="mesh-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#13303D" stroke-opacity="0.35"/>
+  </pattern>
+  <pattern id="dot-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#1C3E4E" fill-opacity="0.4"/>
+  </pattern>
+
+  <!-- Glow Filters -->
+  <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+  <filter id="subtle-glow" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+</defs>
+<rect width="920" height="240" rx="14" fill="url(#hero-bg)"/>
+<rect width="920" height="240" rx="14" fill="url(#mesh-grid)"/>
+<rect x="1" y="1" width="918" height="238" rx="13" stroke="#13303D" stroke-width="1.2" fill="none"/>
+
+  <!-- Top Subtle Edge Glow -->
+  <rect x="2" y="2" width="916" height="3" rx="1.5" fill="url(#emerald-cyan)"/>
+
+  <!-- Left: Avatar Graphic -->
+  <g transform="translate(38, 38)">
+    <!-- Outer Orbit & Pulse -->
+    <circle cx="62" cy="62" r="72" fill="none" stroke="#00E5A8" stroke-opacity="0.15" stroke-dasharray="4 6"/>
+    <circle cx="62" cy="62" r="64" fill="none" stroke="url(#emerald-cyan)" stroke-width="2.5"/>
+    <circle cx="62" cy="62" r="58" fill="#0D1E27"/>
+    
+    <!-- Stylized Cyber Avatar Silhouette -->
+    <circle cx="62" cy="48" r="22" fill="#142B36" stroke="#00E5A8" stroke-width="1.5"/>
+    <!-- Visor -->
+    <path d="M 50 48 L 74 48" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" filter="url(#subtle-glow)"/>
+    <!-- Body / Shoulders -->
+    <path d="M 28 96 C 28 72, 96 72, 96 96 Z" fill="#142B36" stroke="#00E5A8" stroke-width="1.5"/>
+    
+    <!-- Glowing Status Node -->
+    <circle cx="112" cy="102" r="8" fill="#07131B"/>
+    <circle cx="112" cy="102" r="5" fill="#00E5A8" filter="url(#subtle-glow)"/>
+  </g>
+
+  <!-- Center Info -->
+  <g transform="translate(200, 38)">
+    <!-- Name -->
+    <text x="0" y="32" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.5">Bhavish S</text>
+    
+    <!-- Title / Subheading -->
+    <text x="0" y="58" fill="#00E5A8" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="1.5">CYBERSECURITY SPECIALIST <tspan fill="#38BDF8">|</tspan> DEVSECOPS &amp; AUTOMATION</text>
+    
+    <!-- Bio Narrative -->
+    <text x="0" y="86" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400">Building secure, automated, and reliable systems.</text>
+    <text x="0" y="106" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400">Focused on security engineering, automation, and developer productivity.</text>
+
+    <!-- 3 Action CTA Pills -->
+    <g transform="translate(0, 132)">
+      <!-- Button 1: View Projects (Active Emerald) -->
+      <a href="#featured-projects">
+        <rect width="140" height="34" rx="7" fill="#00E5A8"/>
+        <text x="70" y="22" fill="#07131B" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">View Projects &#x2794;</text>
+      </a>
+
+      <!-- Button 2: Portfolio & Lab -->
+      <a href="https://bhavish-s.github.io/Bhavish-S/game/" target="_blank">
+        <rect x="152" width="134" height="34" rx="7" fill="#10232D" stroke="#1C3E4E" stroke-width="1.2"/>
+        <text x="219" y="22" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle">&#x1F4BB; Portfolio &#x2197;</text>
+      </a>
+
+      <!-- Button 3: Contact Handshake -->
+      <a href="#connect">
+        <rect x="298" width="112" height="34" rx="7" fill="#10232D" stroke="#1C3E4E" stroke-width="1.2"/>
+        <text x="354" y="22" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle">&#x2709; Contact &#x2197;</text>
+      </a>
+    </g>
+  </g>
+
+  <!-- Right: 3D Wireframe Cyber Globe & Checklist -->
+  <g transform="translate(675, 28)">
+    <!-- Globe Backdrop -->
+    <circle cx="120" cy="100" r="88" fill="#061218" stroke="#13303D" stroke-width="1"/>
+    <!-- Wireframe Latitudes / Longitudes -->
+    <ellipse cx="120" cy="100" rx="88" ry="40" fill="none" stroke="#1C3E4E" stroke-width="1" stroke-dasharray="3 3"/>
+    <ellipse cx="120" cy="100" rx="40" ry="88" fill="none" stroke="#1C3E4E" stroke-width="1" stroke-dasharray="3 3"/>
+    <circle cx="120" cy="100" r="70" fill="none" stroke="#00E5A8" stroke-opacity="0.25"/>
+    <circle cx="120" cy="100" r="50" fill="none" stroke="#38BDF8" stroke-opacity="0.3"/>
+    
+    <!-- Rotating Radar Sweep Line -->
+    <line x1="120" y1="100" x2="198" y2="70" stroke="#00E5A8" stroke-width="1.8" filter="url(#subtle-glow)"/>
+    <circle cx="198" cy="70" r="3" fill="#00E5A8"/>
+
+    <!-- Focus Badges Overlaid -->
+    <g transform="translate(85, 36)">
+      <rect width="135" height="116" rx="8" fill="#0A1821" fill-opacity="0.92" stroke="#1C3E4E" stroke-width="1.2"/>
+      <text x="14" y="26" fill="#94A3B8" font-family="ui-monospace,Consolas,monospace" font-size="11">&gt; Security <tspan fill="#00E5A8">&#x2713;</tspan></text>
+      <text x="14" y="52" fill="#94A3B8" font-family="ui-monospace,Consolas,monospace" font-size="11">&gt; Automation <tspan fill="#00E5A8">&#x2713;</tspan></text>
+      <text x="14" y="78" fill="#94A3B8" font-family="ui-monospace,Consolas,monospace" font-size="11">&gt; DevOps <tspan fill="#00E5A8">&#x2713;</tspan></text>
+      <text x="14" y="104" fill="#94A3B8" font-family="ui-monospace,Consolas,monospace" font-size="11">&gt; Open Source <tspan fill="#00E5A8">&#x2713;</tspan></text>
+    </g>
+  </g>
+
+</svg>

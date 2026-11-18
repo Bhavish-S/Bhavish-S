@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250" role="img" aria-labelledby="title">
+<title id="title">GitHub Telemetry &amp; Activity Dashboard</title>
+<defs>
+  <!-- Background Gradients -->
+  <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#10232D"/>
+    <stop offset="100%" stop-color="#0B1A22"/>
+  </linearGradient>
+  <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#091B24"/>
+    <stop offset="50%" stop-color="#07131B"/>
+    <stop offset="100%" stop-color="#061017"/>
+  </linearGradient>
+
+  <!-- Accent Gradients -->
+  <linearGradient id="emerald-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00E5A8"/>
+    <stop offset="100%" stop-color="#38BDF8"/>
+  </linearGradient>
+  <linearGradient id="cyan-emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#00E5A8"/>
+  </linearGradient>
+  <linearGradient id="accent-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5A8" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+  </linearGradient>
+
+  <!-- Patterns -->
+  <pattern id="mesh-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#13303D" stroke-opacity="0.35"/>
+  </pattern>
+  <pattern id="dot-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#1C3E4E" fill-opacity="0.4"/>
+  </pattern>
+
+  <!-- Glow Filters -->
+  <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+  <filter id="subtle-glow" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+</defs>
+<rect width="920" height="250" rx="14" fill="#07131B"/>
+<rect width="920" height="250" rx="14" fill="url(#mesh-grid)"/>
+<rect x="1" y="1" width="918" height="248" rx="13" stroke="#13303D" stroke-width="1.2" fill="none"/>
+
+  <!-- Card 1: Statistics Donut (280w) -->
+  <g transform="translate(18, 16)">
+    <rect width="280" height="218" rx="12" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="20" y="30" fill="#00E5A8" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1">&#x1F4CA; GITHUB STATISTICS</text>
+    <path d="M 20 38 L 260 38" stroke="#13303D"/>
+
+    <!-- Donut SVG -->
+    <g transform="translate(70, 118)">
+      <circle cx="0" cy="0" r="44" fill="none" stroke="#0A1821" stroke-width="16"/>
+      <circle cx="0" cy="0" r="44" fill="none" stroke="#00E5A8" stroke-width="16" stroke-dasharray="140 280" stroke-dashoffset="0"/>
+      <circle cx="0" cy="0" r="44" fill="none" stroke="#38BDF8" stroke-width="16" stroke-dasharray="60 280" stroke-dashoffset="-140"/>
+      <circle cx="0" cy="0" r="44" fill="none" stroke="#F59E0B" stroke-width="16" stroke-dasharray="40 280" stroke-dashoffset="-200"/>
+      <!-- Inner Icon -->
+      <text x="0" y="6" fill="#F1F5F9" font-size="18" text-anchor="middle">🐙</text>
+    </g>
+
+    <!-- Legend -->
+    <g transform="translate(145, 68)" font-family="Inter, Arial, sans-serif" font-size="11" fill="#94A3B8">
+      <circle cx="6" cy="14" r="4" fill="#00E5A8"/><text x="18" y="18">Python (42%)</text>
+      <circle cx="6" cy="38" r="4" fill="#38BDF8"/><text x="18" y="42">Shell (18%)</text>
+      <circle cx="6" cy="62" r="4" fill="#F59E0B"/><text x="18" y="66">Dockerfile (12%)</text>
+      <circle cx="6" cy="86" r="4" fill="#A855F7"/><text x="18" y="90">JavaScript (10%)</text>
+      <circle cx="6" cy="110" r="4" fill="#64748B"/><text x="18" y="114">Other (18%)</text>
+    </g>
+  </g>
+
+  <!-- Card 2: Contributions Matrix (280w) -->
+  <g transform="translate(320, 16)">
+    <rect width="280" height="218" rx="12" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="20" y="30" fill="#00E5A8" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1">&#x1F4C5; CONTRIBUTIONS (LAST 12 MONTHS)</text>
+    <path d="M 20 38 L 260 38" stroke="#13303D"/>
+
+    <g transform="translate(20, 52)">
+      <text x="0" y="0" fill="#94A3B8" font-family="ui-monospace,Consolas,monospace" font-size="8.5">Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec</text>
+      <g transform="translate(0, 10)">
+        <rect x="0" y="0" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="0" y="15" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="0" y="30" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="0" y="45" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="0" y="60" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="0" y="75" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="0" y="90" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="16" y="0" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="16" y="15" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="16" y="30" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="16" y="45" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="16" y="60" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="16" y="75" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="16" y="90" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="32" y="0" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="32" y="15" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="32" y="30" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="32" y="45" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="32" y="60" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="32" y="75" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="32" y="90" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="48" y="0" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="48" y="15" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="48" y="30" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="48" y="45" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="48" y="60" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="48" y="75" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="48" y="90" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="64" y="0" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="64" y="15" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="64" y="30" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="64" y="45" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="64" y="60" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="64" y="75" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="64" y="90" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="80" y="0" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="80" y="15" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="80" y="30" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="80" y="45" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="80" y="60" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="80" y="75" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="80" y="90" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="96" y="0" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="96" y="15" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="96" y="30" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="96" y="45" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="96" y="60" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="96" y="75" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="96" y="90" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="112" y="0" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="112" y="15" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="112" y="30" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="112" y="45" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="112" y="60" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="112" y="75" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="112" y="90" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="128" y="0" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="128" y="15" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="128" y="30" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="128" y="45" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="128" y="60" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="128" y="75" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="128" y="90" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="144" y="0" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="144" y="15" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="144" y="30" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="144" y="45" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="144" y="60" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="144" y="75" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="144" y="90" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="160" y="0" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="160" y="15" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="160" y="30" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="160" y="45" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="160" y="60" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="160" y="75" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="160" y="90" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="176" y="0" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="176" y="15" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="176" y="30" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="176" y="45" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="176" y="60" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="176" y="75" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="176" y="90" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="192" y="0" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="192" y="15" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="192" y="30" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="192" y="45" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="192" y="60" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="192" y="75" width="11" height="11" rx="2.5" fill="#0D1F29"/>
+<rect x="192" y="90" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="208" y="0" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="208" y="15" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="208" y="30" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="208" y="45" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="208" y="60" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="208" y="75" width="11" height="11" rx="2.5" fill="#00B377"/>
+<rect x="208" y="90" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="224" y="0" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="224" y="15" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="224" y="30" width="11" height="11" rx="2.5" fill="#004733"/>
+<rect x="224" y="45" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="224" y="60" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+<rect x="224" y="75" width="11" height="11" rx="2.5" fill="#007A55"/>
+<rect x="224" y="90" width="11" height="11" rx="2.5" fill="#00E5A8"/>
+
+      </g>
+      <text x="0" y="132" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="10.5">200+ commits in the last year</text>
+    </g>
+  </g>
+
+  <!-- Card 3: Activity Trend Chart (280w) -->
+  <g transform="translate(622, 16)">
+    <rect width="280" height="218" rx="12" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="20" y="30" fill="#00E5A8" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1">&#x1F4C8; ACTIVITY (COMMITS)</text>
+    <path d="M 20 38 L 260 38" stroke="#13303D"/>
+
+    <g transform="translate(20, 55)">
+      <!-- Grid lines -->
+      <line x1="0" y1="20" x2="240" y2="20" stroke="#13303D" stroke-dasharray="2 3"/>
+      <line x1="0" y1="60" x2="240" y2="60" stroke="#13303D" stroke-dasharray="2 3"/>
+      <line x1="0" y1="100" x2="240" y2="100" stroke="#13303D" stroke-dasharray="2 3"/>
+
+      <!-- Smooth Bezier Curve -->
+      <path d="M 10 90 Q 50 80, 80 50 T 150 40 T 200 15 T 235 25" fill="none" stroke="#00E5A8" stroke-width="2.5" filter="url(#subtle-glow)"/>
+      <path d="M 10 90 Q 50 80, 80 50 T 150 40 T 200 15 T 235 25 L 235 110 L 10 110 Z" fill="url(#accent-glow)"/>
+
+      <!-- Data Points -->
+      <circle cx="10" cy="90" r="3.5" fill="#00E5A8"/>
+      <circle cx="80" cy="50" r="3.5" fill="#38BDF8"/>
+      <circle cx="150" cy="40" r="3.5" fill="#00E5A8"/>
+      <circle cx="200" cy="15" r="4.5" fill="#00E5A8" stroke="#FFFFFF" stroke-width="1"/>
+      <circle cx="235" cy="25" r="3.5" fill="#38BDF8"/>
+
+      <text x="0" y="128" fill="#94A3B8" font-family="ui-monospace,Consolas,monospace" font-size="9">Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec</text>
+    </g>
+  </g>
+
+</svg>
