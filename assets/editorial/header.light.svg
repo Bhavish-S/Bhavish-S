@@ -1,0 +1,47 @@
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bhavish S — Cybersecurity Specialist and Automation Engineer">
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(12px); } to { opacity:1;transform:translateY(0); } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s} .a5{animation-delay:.95s} .a6{animation-delay:1.15s}
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.rise,.fade { animation: none; opacity: 1; stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="#CBD5E1" stroke-width="1"/>
+  <g class="fade a1">
+    <text class="mono" fill="#475569" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
+    <text class="mono" fill="#475569" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">INDIA — 12.97° N &amp; 77.59° E</text>
+  </g>
+
+  <g class="rise a2">
+    <text fill="#0F172A" class="mono" x="46" y="176" font-size="76" font-weight="800" letter-spacing="-2">Bhavish S<tspan fill="#059669">.</tspan></text>
+  </g>
+  <g class="fade a3">
+    <text fill="#475569" class="mono" x="48" y="216" font-size="19" font-weight="500">Cybersecurity Specialist &amp; Automation Engineer — Karnataka, India.</text>
+  </g>
+
+  <g class="fade a4">
+    <text fill="#64748B" class="mono" x="48" y="274" font-size="13" letter-spacing="1">Focus   ▸</text>
+    <text fill="#059669" class="mono" x="136" y="274" font-size="13" letter-spacing="1">Offensive Security · Penetration Testing · Workflow Automation · DevSecOps</text>
+  </g>
+  <g class="fade a5">
+    <text fill="#64748B" class="mono" x="48" y="304" font-size="13" letter-spacing="1">Open to ▸</text>
+    <text fill="#0F172A" class="mono" x="136" y="304" font-size="13" letter-spacing="1">Security Engineering · Threat Research · Automation Pipelines · Collaboration</text>
+  </g>
+
+  <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="#CBD5E1" stroke-width="1"/>
+  <g class="fade a6">
+    <text fill="#475569" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">ETHICAL HACKING</text>
+    <text fill="#059669" class="mono" x="222" y="374" font-size="11.5">·</text>
+    <text fill="#475569" class="mono" x="252" y="374" font-size="11.5" letter-spacing="3">SECURE ARCHITECTURES</text>
+    <text fill="#059669" class="mono" x="510" y="374" font-size="11.5">·</text>
+    <text fill="#475569" class="mono" x="540" y="374" font-size="11.5" letter-spacing="3">AUTOMATION TOOLING</text>
+    <text fill="#475569" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">SYSTEM STATUS // ACTIVE</text>
+  </g>
+</svg>
