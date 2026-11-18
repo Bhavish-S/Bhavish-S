@@ -1,112 +1,238 @@
-<a id="top"></a>
+<div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════════════════
-     BHAVISH S — CYBERSECURITY SPECIALIST | DEVSECOPS & AUTOMATION
-     Modern Enterprise Dashboard Architecture • Midnight Navy & Electric Emerald
-     ══════════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/profile-header.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist & Automation Engineer" />
+
+<img src="./assets/ambient-accent.svg" width="100%" alt="" />
+
+<p><strong>Ethical Hacking & Pen Testing</strong> &nbsp;·&nbsp; <strong>Workflow Automation</strong> &nbsp;·&nbsp; <strong>DevSecOps & Cloud Defense</strong></p>
+
+<p>
+  <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-3a669728b/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
+  <a href="mailto:bhavishsuresh2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
+</p>
+
+<a href="https://github.com/Bhavish-S">
+  <img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=39d353&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+
+</div>
+
+---
+
+<h1 align="center">Bhavish S | Cybersecurity Specialist & Automation Engineer</h1>
+
+<p align="center">Cybersecurity Specialist building secure systems, automated security tooling, cloud defense pipelines, and practical DevSecOps workflows.</p>
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  <img src="./assets/profile.png" width="220" style="border-radius:50%;" alt="Bhavish S" />
+</p>
+
+<p align="center">
+  <strong>-----------------------------------------</strong><br/>
+  Building resilient security architectures and dependable automated workflows.
+</p>
+
+I enjoy breaking complex systems to uncover vulnerabilities and building automated defensive mechanisms that make systems unbreakable. Specializing in ethical hacking, network penetration testing, SIEM telemetry, and CI/CD DevSecOps automation.
+
+<p align="center">
+  <code>CYBERSECURITY & DEFENSE</code> &nbsp;
+  <code>WORKFLOW AUTOMATION</code> &nbsp;
+  <code>DEVSECOPS + CLOUD</code> &nbsp;
+  <code>THREAT INTELLIGENCE & SIEM</code>
+</p>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-  <!-- 01 // HERO BANNER -->
-  <img src="./assets/dashboard/hero.svg" width="920" alt="Bhavish S — Cybersecurity Specialist | DevSecOps & Automation" />
-  
-  <br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/burp-suite.dark.svg" />
+    <img src="./assets/badges/burp-suite.light.svg" alt="Burp Suite" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/metasploit.dark.svg" />
+    <img src="./assets/badges/metasploit.light.svg" alt="Metasploit" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/nmap.dark.svg" />
+    <img src="./assets/badges/nmap.light.svg" alt="Nmap" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/sqlmap.dark.svg" />
+    <img src="./assets/badges/sqlmap.light.svg" alt="SQLmap" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/siem.dark.svg" />
+    <img src="./assets/badges/siem.light.svg" alt="SIEM" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/splunk.dark.svg" />
+    <img src="./assets/badges/splunk.light.svg" alt="Splunk" height="30" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/python.dark.svg" />
+    <img src="./assets/badges/python.light.svg" alt="Python" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/bash.dark.svg" />
+    <img src="./assets/badges/bash.light.svg" alt="Bash" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/typescript.dark.svg" />
+    <img src="./assets/badges/typescript.light.svg" alt="TypeScript" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/javascript.dark.svg" />
+    <img src="./assets/badges/javascript.light.svg" alt="JavaScript" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/go.dark.svg" />
+    <img src="./assets/badges/go.light.svg" alt="Go" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/c.dark.svg" />
+    <img src="./assets/badges/c.light.svg" alt="C" height="30" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linux.dark.svg" />
+    <img src="./assets/badges/linux.light.svg" alt="Linux" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/docker.dark.svg" />
+    <img src="./assets/badges/docker.light.svg" alt="Docker" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/kubernetes.dark.svg" />
+    <img src="./assets/badges/kubernetes.light.svg" alt="Kubernetes" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/git.dark.svg" />
+    <img src="./assets/badges/git.light.svg" alt="Git" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/github-actions.dark.svg" />
+    <img src="./assets/badges/github-actions.light.svg" alt="GitHub Actions" height="30" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/aws.dark.svg" />
+    <img src="./assets/badges/aws.light.svg" alt="AWS" height="30" />
+  </picture>
+</p>
 
-  <!-- 02 // QUICK METRICS ROW -->
-  <img src="./assets/dashboard/stats-bar.svg" width="920" alt="Quick Metrics Overview" />
+</div>
 
-  <br/>
+<sub>Technology badges are generated and stored directly in this repository. They render natively with instant dark and light mode support without depending on external badge servers.</sub>
 
-  <!-- 03 // ABOUT ME & INTERACTIVE TERMINAL -->
-  <a id="about"></a>
-  <img src="./assets/dashboard/about-terminal.svg" width="920" alt="About Me & Terminal Dossier" />
+---
 
-  <br/>
+## 🚀 Featured Projects
 
-  <!-- 04 // CERTIFICATIONS & CREDENTIALS -->
-  <a id="certifications"></a>
-  <img src="./assets/dashboard/certifications.svg" width="920" alt="Certifications & Badges" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <br/>
+<a href="https://github.com/Bhavish-S/noc"><img src="./assets/project-nodue-portal.svg" width="100%" alt="NoDue Portal — Student Clearance Clearance System" /></a>
 
-  <!-- 05 // SKILLS PROFICIENCY & TECH STACK -->
-  <a id="skills"></a>
-  <img src="./assets/dashboard/skills-stack.svg" width="920" alt="Skills Proficiency & Tech Stack" />
+</td>
+<td width="50%" valign="top">
 
-  <br/>
+<a href="https://github.com/Bhavish-S/budget-allocator"><img src="./assets/project-budget-allocator.svg" width="100%" alt="Budget Allocator — Intelligent Financial Planning" /></a>
 
-  <!-- 06 // FEATURED PROJECTS (CLICKABLE REPOSITORY GRID) -->
-  <a id="featured-projects"></a>
-  <table border="0" cellpadding="0" cellspacing="10" width="920">
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Bhavish-S/noc" target="_blank">
-          <img src="./assets/dashboard/project-nodue.svg" width="100%" alt="NoDue Portal — Student NOC Clearance System" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Bhavish-S/budget-allocator" target="_blank">
-          <img src="./assets/dashboard/project-budget.svg" width="100%" alt="Budget Allocator — Intelligent Financial Planning" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Bhavish-S/Route_Resilience" target="_blank">
-          <img src="./assets/dashboard/project-resilience.svg" width="100%" alt="Route Resilience — Fault-Tolerant Routing Simulator" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Bhavish-S/Novic-Events" target="_blank">
-          <img src="./assets/dashboard/project-novic.svg" width="100%" alt="Novic Events — Event & Ticketing Platform" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Bhavish-S" target="_blank">
-          <img src="./assets/dashboard/project-siem.svg" width="100%" alt="SIEM Dashboard — Security Information & Event Management" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/Bhavish-S" target="_blank">
-          <img src="./assets/dashboard/project-pentest.svg" width="100%" alt="PenTest Toolkit — Automated Offensive Recon Suite" />
-        </a>
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  <br/>
+<a href="https://github.com/Bhavish-S/Route_Resilience"><img src="./assets/project-route-resilience.svg" width="100%" alt="Route Resilience — Fault-Tolerant Routing Simulator" /></a>
 
-  <!-- 07 // GITHUB TELEMETRY & ACTIVITY DASHBOARD -->
-  <a id="telemetry"></a>
-  <img src="./assets/dashboard/activity-dashboard.svg" width="920" alt="GitHub Statistics & Commit Activity" />
+</td>
+<td width="50%" valign="top">
 
-  <br/>
+<a href="https://github.com/Bhavish-S/Novic-Events"><img src="./assets/project-novic-events.svg" width="100%" alt="Novic Events — Event & Ticketing Platform" /></a>
 
-  <!-- 08 // RECENT ACTIVITY & GITHUB OVERVIEW -->
-  <img src="./assets/dashboard/recent-activity-overview.svg" width="920" alt="Recent Activity Feed & Overview" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  <br/>
+<a href="https://github.com/Bhavish-S"><img src="./assets/project-siem-dashboard.svg" width="100%" alt="SIEM Dashboard — Security Information & Event Management" /></a>
 
-  <!-- 09 // TOP INTERESTS PILL BAR -->
-  <img src="./assets/dashboard/interests-bar.svg" width="920" alt="Top Interests & Specializations" />
+</td>
+<td width="50%" valign="middle">
 
-  <br/>
+### 🌱 More projects
 
-  <!-- 10 // FINAL CTA FOOTER -->
-  <a id="connect"></a>
-  <img src="./assets/dashboard/cta-footer.svg" width="920" alt="Let's build secure systems together" />
+I also experiment with offensive security scripts, penetration testing suites, workflow automation, and cloud defense pipelines.
 
-  <br/><br/>
+[**Browse all repositories →**](https://github.com/Bhavish-S?tab=repositories)
 
-  <!-- LIVE TELEMETRY SHIELD BADGES -->
-  <p align="center">
-    <a href="https://github.com/Bhavish-S"><img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=for-the-badge&color=00E5A8&labelColor=07131B&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-    <a href="https://github.com/Bhavish-S?tab=followers"><img src="https://img.shields.io/github/followers/Bhavish-S?style=for-the-badge&color=00E5A8&labelColor=07131B&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers" /></a>
-    <a href="https://github.com/Bhavish-S?tab=repositories"><img src="https://img.shields.io/github/stars/Bhavish-S?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38BDF8&labelColor=07131B&logo=star&logoColor=white&label=STARS" alt="Repository Stars" /></a>
-    <a href="https://bhavish-s.github.io/Bhavish-S/game/"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20TACTICAL%20LAB-SNAKE%20%26%20LADDER-00E5A8?style=for-the-badge&labelColor=07131B" alt="Tactical Lab Game" /></a>
-  </p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" width="100%" alt="Live GitHub overview: contributions, stars, followers and repository metrics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" width="100%" alt="Live GitHub contribution history and streaks" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" width="100%" alt="Live programming language breakdown" />
+</picture>
+
+<sub>These telemetry cards reflect authentic GitHub activity and render with custom SVG animations.</sub>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake following Bhavish's GitHub contribution graph" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Open to:** cybersecurity engineering · ethical hacking · automation workflows · DevSecOps
+
+<p>
+  <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-3a669728b/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
+  <a href="mailto:bhavishsuresh2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
+</p>
+
+<img src="./assets/profile-footer.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
+
+<br><br>
+⭐️ From [@Bhavish-S](https://github.com/Bhavish-S) · **Building the future, one secure commit at a time** 🚀
 
 </div>
 
@@ -114,7 +240,7 @@
 
 ### ⚡ Portfolio Web Application
 
-This repository houses both the **GitHub Profile README Command Center** and the full production source code for **Bhavish's Portfolio Web Application**, built with **React 19**, **Vite 8**, **Tailwind CSS v4**, **Three.js**, and **Framer Motion**.
+This repository also houses the production source code for **Bhavish's Interactive Portfolio Web Application**, built with **React 19**, **Vite 8**, **Tailwind CSS v4**, **Three.js**, and **Framer Motion**.
 
 #### Quickstart & Local Development
 
@@ -132,18 +258,3 @@ npm run dev
 # Typecheck and build for production
 npm run build
 ```
-
-#### Core Architecture
-
-| Technology | Version | Purpose |
-| :--- | :--- | :--- |
-| **React** | `19.3.0` | Next-generation React concurrent frontend |
-| **Vite** | `8.3.0` | High-performance build tool and ESM dev server |
-| **TypeScript** | `7.0.2` | Strict end-to-end type safety |
-| **Tailwind CSS** | `4.3.3` | Modern CSS-first tokenized styling system |
-| **Three.js** | `0.186.0` | Interactive 3D aurora ribbons & particle physics canvas |
-| **Framer Motion** | `13.3.0` | Hardware-accelerated fluid transitions and page reveals |
-
-<p align="center">
-  <sub>Designed with precision &bull; Midnight Navy <code>#07131B</code> &bull; Electric Emerald <code>#00E5A8</code> &bull; Cyber Cyan <code>#38BDF8</code> &bull; &copy; 2026 Bhavish S</sub>
-</p>
