@@ -108,8 +108,42 @@
     <a href="https://bhavish-s.github.io/Bhavish-S/game/"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20TACTICAL%20LAB-SNAKE%20%26%20LADDER-00E5A8?style=for-the-badge&labelColor=07131B" alt="Tactical Lab Game" /></a>
   </p>
 
-  <p align="center">
-    <sub>Designed with precision &bull; Midnight Navy <code>#07131B</code> &bull; Electric Emerald <code>#00E5A8</code> &bull; Cyber Cyan <code>#38BDF8</code> &bull; &copy; 2026 Bhavish S</sub>
-  </p>
-
 </div>
+
+---
+
+### ⚡ Portfolio Web Application
+
+This repository houses both the **GitHub Profile README Command Center** and the full production source code for **Bhavish's Portfolio Web Application**, built with **React 19**, **Vite 8**, **Tailwind CSS v4**, **Three.js**, and **Framer Motion**.
+
+#### Quickstart & Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/Bhavish-S/Bhavish-S.git
+cd Bhavish-S
+
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev
+
+# Typecheck and build for production
+npm run build
+```
+
+#### Core Architecture
+
+| Technology | Version | Purpose |
+| :--- | :--- | :--- |
+| **React** | `19.3.0` | Next-generation React concurrent frontend |
+| **Vite** | `8.3.0` | High-performance build tool and ESM dev server |
+| **TypeScript** | `7.0.2` | Strict end-to-end type safety |
+| **Tailwind CSS** | `4.3.3` | Modern CSS-first tokenized styling system |
+| **Three.js** | `0.186.0` | Interactive 3D aurora ribbons & particle physics canvas |
+| **Framer Motion** | `13.3.0` | Hardware-accelerated fluid transitions and page reveals |
+
+<p align="center">
+  <sub>Designed with precision &bull; Midnight Navy <code>#07131B</code> &bull; Electric Emerald <code>#00E5A8</code> &bull; Cyber Cyan <code>#38BDF8</code> &bull; &copy; 2026 Bhavish S</sub>
+</p>

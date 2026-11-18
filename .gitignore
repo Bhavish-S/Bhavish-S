@@ -11,3 +11,9 @@ __pycache__/
 *$py.class
 *.so
 .env
+
+# Node & Build artifacts
+node_modules/
+dist/
+.tmp/
+*.tsbuildinfo

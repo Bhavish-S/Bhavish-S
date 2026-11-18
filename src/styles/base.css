@@ -1,0 +1,227 @@
+/* ═══════════════════════════════════════════════════════════════
+   LAYOUT & BASE — Dark corporate
+   ═══════════════════════════════════════════════════════════════ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  overflow-x: hidden;
+  background: var(--color-background);
+}
+
+img, svg {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+::selection {
+  background: var(--color-accent);
+  color: white;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 3px;
+  border-radius: var(--radius-xs);
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--color-background); }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.08); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.14); }
+
+/* ── App shell ─────────────────────────────────────────────── */
+.app-shell {
+  position: relative;
+  min-height: 100vh;
+  background: var(--color-background);
+}
+
+.app-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-bg);
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.app-main {
+  position: relative;
+  z-index: var(--z-content);
+}
+
+.engineering-field {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* ── Noise overlay ─────────────────────────────────────────── */
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-bg);
+  pointer-events: none;
+  opacity: 0.02;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 256px;
+}
+
+/* ── Section base ──────────────────────────────────────────── */
+.section--dark {
+  position: relative;
+  padding-block: var(--space-24);
+  z-index: 1;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--container-wide);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+/* ── Typography utilities ──────────────────────────────────── */
+.tnum {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ── Shared UI tokens ──────────────────────────────────────── */
+.text-accent {
+  background: var(--gradient-hero-accent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-family: var(--font-mono);
+  font-size: var(--type-micro);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  padding: var(--space-3) var(--space-5);
+  border-radius: var(--radius-full);
+  transition: all var(--duration-standard) var(--ease-out);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background: var(--color-accent);
+  color: white;
+}
+.btn-primary:hover {
+  background: var(--color-accent-hover);
+  box-shadow: var(--shadow-glow);
+  transform: translateY(-1px);
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--color-text);
+  border: 1px solid var(--color-border-strong);
+}
+.btn-ghost:hover {
+  border-color: var(--color-text-muted);
+  background: rgba(255,255,255,0.03);
+}
+
+.btn--lg {
+  padding: var(--space-4) var(--space-6);
+  font-size: var(--type-small);
+}
+
+/* ── Section number/label ──────────────────────────────────── */
+.section-num {
+  font-family: var(--font-mono);
+  font-size: var(--type-meta);
+  font-weight: 500;
+  color: var(--color-text-muted);
+  letter-spacing: 0.08em;
+}
+
+.section-label {
+  font-family: var(--font-mono);
+  font-size: var(--type-micro);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  color: var(--color-text-secondary);
+}
+
+.about-link, .skills-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-family: var(--font-mono);
+  font-size: var(--type-micro);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--color-accent);
+  transition: all var(--duration-fast) var(--ease-out);
+}
+.about-link:hover, .skills-link:hover {
+  color: var(--color-accent-hover);
+  gap: var(--space-3);
+}
+
+/* ── Navbar logo ───────────────────────────────────────────── */
+.navbar-logo-name {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: var(--type-small);
+  color: var(--color-text);
+  letter-spacing: 0.06em;
+}
