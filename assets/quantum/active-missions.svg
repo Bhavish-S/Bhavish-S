@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title">
+<title id="title">Active Operations — Mission Status Board</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop offset="0%" stop-color="#030d14"/>
+    <stop offset="50%" stop-color="#071b24"/>
+    <stop offset="100%" stop-color="#050b16"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00f5a0"/>
+    <stop offset="50%" stop-color="#75ff9e"/>
+    <stop offset="100%" stop-color="#00d9ff"/>
+  </linearGradient>
+  <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00d9ff"/>
+    <stop offset="100%" stop-color="#00f5a0"/>
+  </linearGradient>
+  <radialGradient id="halo">
+    <stop offset="0%" stop-color="#00ff9d" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#00ff9d" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1c5362" stroke-opacity="0.25"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="390" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="390" rx="20" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="388" rx="19" stroke="#278c85" stroke-opacity="0.5" fill="none"/>
+
+  <!-- Header -->
+  <text x="40" y="44" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2">// ACTIVE MISSIONS — CURRENT OPERATION LOG</text>
+  <text x="1160" y="44" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" text-anchor="end">cat ~/ops/active_missions.log</text>
+  <path d="M 40 60 L 1160 60" stroke="#1c5362" stroke-opacity="0.6"/>
+
+  <g transform="translate(40, 75)">
+    <rect width="1120" height="42" rx="8" fill="#081820" stroke="#16382c"/>
+    <text x="16" y="26" fill="#ff5555" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">🔴 LIVE</text>
+    <text x="120" y="26" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800">NODUE PORTAL PRODUCTION</text>
+    <text x="440" y="26" fill="#9dbcc8" font-family="Arial,Helvetica,sans-serif" font-size="13">Student NOC & Clearance Automation System</text>
+    <text x="840" y="26" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12">React · TypeScript · Node.js · Firebase</text>
+    <rect x="1025" y="10" width="80" height="22" rx="6" fill="#ff5555" fill-opacity="0.15" stroke="#ff5555" stroke-opacity="0.6"/>
+    <text x="1065" y="25" fill="#ff5555" font-family="ui-monospace,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">DEPLOYED</text>
+  </g>
+
+  <g transform="translate(40, 125)">
+    <rect width="1120" height="42" rx="8" fill="#081820" stroke="#16382c"/>
+    <text x="16" y="26" fill="#f6c76a" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">🟡 DEV</text>
+    <text x="120" y="26" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800">SIEM DASHBOARD & LOG INGEST</text>
+    <text x="440" y="26" fill="#9dbcc8" font-family="Arial,Helvetica,sans-serif" font-size="13">Security event monitoring & threat detection engine</text>
+    <text x="840" y="26" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12">Python · Elasticsearch · Splunk · Kibana</text>
+    <rect x="1025" y="10" width="80" height="22" rx="6" fill="#f6c76a" fill-opacity="0.15" stroke="#f6c76a" stroke-opacity="0.6"/>
+    <text x="1065" y="25" fill="#f6c76a" font-family="ui-monospace,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">IN BUILD</text>
+  </g>
+
+  <g transform="translate(40, 175)">
+    <rect width="1120" height="42" rx="8" fill="#081820" stroke="#16382c"/>
+    <text x="16" y="26" fill="#f6c76a" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">🟡 DEV</text>
+    <text x="120" y="26" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800">MODULAR PENTEST TOOLKIT</text>
+    <text x="440" y="26" fill="#9dbcc8" font-family="Arial,Helvetica,sans-serif" font-size="13">Automated multi-threaded recon, port probe & exploits</text>
+    <text x="840" y="26" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12">Python 3 · Bash · Raw Sockets · Asyncio</text>
+    <rect x="1025" y="10" width="80" height="22" rx="6" fill="#f6c76a" fill-opacity="0.15" stroke="#f6c76a" stroke-opacity="0.6"/>
+    <text x="1065" y="25" fill="#f6c76a" font-family="ui-monospace,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">IN BUILD</text>
+  </g>
+
+  <g transform="translate(40, 225)">
+    <rect width="1120" height="42" rx="8" fill="#081820" stroke="#16382c"/>
+    <text x="16" y="26" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">🔵 LEARN</text>
+    <text x="120" y="26" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800">ADVANCED PENETRATION TESTING</text>
+    <text x="440" y="26" fill="#9dbcc8" font-family="Arial,Helvetica,sans-serif" font-size="13">Active Directory exploitation, Web PenTesting & Buffer Overflows</text>
+    <text x="840" y="26" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12">HackTheBox · TryHackMe · OWASP</text>
+    <rect x="1025" y="10" width="80" height="22" rx="6" fill="#00d9ff" fill-opacity="0.15" stroke="#00d9ff" stroke-opacity="0.6"/>
+    <text x="1065" y="25" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">ACTIVE</text>
+  </g>
+
+  <g transform="translate(40, 275)">
+    <rect width="1120" height="42" rx="8" fill="#081820" stroke="#16382c"/>
+    <text x="16" y="26" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">🟢 OPEN</text>
+    <text x="120" y="26" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800">OPEN-SOURCE COLLABORATIONS</text>
+    <text x="440" y="26" fill="#9dbcc8" font-family="Arial,Helvetica,sans-serif" font-size="13">Open to collaborative security tooling, CTF teams & research</text>
+    <text x="840" y="26" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12">GitHub · Discord · Remote Pair</text>
+    <rect x="1025" y="10" width="80" height="22" rx="6" fill="#00f5a0" fill-opacity="0.15" stroke="#00f5a0" stroke-opacity="0.6"/>
+    <text x="1065" y="25" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">OPEN</text>
+  </g>
+
+  <g transform="translate(40, 325)">
+    <rect width="1120" height="42" rx="8" fill="#081820" stroke="#16382c"/>
+    <text x="16" y="26" fill="#bb86fc" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">🎯 TARGET</text>
+    <text x="120" y="26" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800">OSCP CERTIFICATION KILL-CHAIN</text>
+    <text x="440" y="26" fill="#9dbcc8" font-family="Arial,Helvetica,sans-serif" font-size="13">Offensive Security Certified Professional milestone</text>
+    <text x="840" y="26" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12">OffSec · 24-Hour Practical Exam</text>
+    <rect x="1025" y="10" width="80" height="22" rx="6" fill="#bb86fc" fill-opacity="0.15" stroke="#bb86fc" stroke-opacity="0.6"/>
+    <text x="1065" y="25" fill="#bb86fc" font-family="ui-monospace,Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">GOAL 2027</text>
+  </g>
+</svg>

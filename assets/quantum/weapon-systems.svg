@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title">
+<title id="title">Weapon Systems — Tech &amp; Security Arsenal</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop offset="0%" stop-color="#030d14"/>
+    <stop offset="50%" stop-color="#071b24"/>
+    <stop offset="100%" stop-color="#050b16"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00f5a0"/>
+    <stop offset="50%" stop-color="#75ff9e"/>
+    <stop offset="100%" stop-color="#00d9ff"/>
+  </linearGradient>
+  <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00d9ff"/>
+    <stop offset="100%" stop-color="#00f5a0"/>
+  </linearGradient>
+  <radialGradient id="halo">
+    <stop offset="0%" stop-color="#00ff9d" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#00ff9d" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1c5362" stroke-opacity="0.25"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="278" rx="19" stroke="#278c85" stroke-opacity="0.5" fill="none"/>
+
+  <!-- Header -->
+  <text x="40" y="44" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2">// WEAPON SYSTEMS — TACTICAL ARSENAL OVERVIEW</text>
+  <text x="1160" y="44" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" text-anchor="end">[ HARDENED TOOLING &amp; LANGUAGES ]</text>
+  <path d="M 40 60 L 1160 60" stroke="#1c5362" stroke-opacity="0.6"/>
+
+  <!-- 3 Columns -->
+  <!-- Col 1: Offensive & Exploits -->
+  <g transform="translate(40, 78)">
+    <rect width="360" height="175" rx="12" fill="#081820" stroke="#1c5362"/>
+    <rect width="360" height="4" rx="2" fill="url(#neon)"/>
+    <text x="20" y="32" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">01 // OFFENSIVE SECURITY</text>
+    <text x="20" y="60" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">PenTest &amp; Red Team Tools</text>
+    <text x="20" y="88" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">Burp Suite Pro · Metasploit · Nmap</text>
+    <text x="20" y="110" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">SQLMap · Hydra · John the Ripper</text>
+    <text x="20" y="132" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">Gobuster · Wireshark · Tcpdump</text>
+    <text x="20" y="156" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="11">[ KALI LINUX &amp; ARCH SUITE ]</text>
+  </g>
+
+  <!-- Col 2: Defensive & SIEM -->
+  <g transform="translate(420, 78)">
+    <rect width="360" height="175" rx="12" fill="#081820" stroke="#1c5362"/>
+    <rect width="360" height="4" rx="2" fill="url(#cyan-glow)"/>
+    <text x="20" y="32" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">02 // DEFENSIVE &amp; SIEM</text>
+    <text x="20" y="60" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">SOC Operations &amp; IR</text>
+    <text x="20" y="88" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">Splunk Enterprise · ELK Stack</text>
+    <text x="20" y="110" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">Kibana Dashboards · Logstash</text>
+    <text x="20" y="132" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">MITRE ATT&amp;CK · Threat Intel</text>
+    <text x="20" y="156" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="11">[ SIEM LOG CORRELATION &amp; ALERTING ]</text>
+  </g>
+
+  <!-- Col 3: Languages & Automation -->
+  <g transform="translate(800, 78)">
+    <rect width="360" height="175" rx="12" fill="#081820" stroke="#1c5362"/>
+    <rect width="360" height="4" rx="2" fill="url(#neon)"/>
+    <text x="20" y="32" fill="#75ff9e" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">03 // CODE &amp; DEVSECOPS</text>
+    <text x="20" y="60" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">Scripting &amp; Infrastructure</text>
+    <text x="20" y="88" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">Python 3 · Bash · C / C++ · Rust</text>
+    <text x="20" y="110" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">TypeScript · React · Node.js · Go</text>
+    <text x="20" y="132" fill="#c7e8df" font-family="ui-monospace,Consolas,monospace" font-size="12">Docker · GitHub Actions · AWS · GCP</text>
+    <text x="20" y="156" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="11">[ AUTOMATION &amp; SHIFT-LEFT DEFENSE ]</text>
+  </g>
+</svg>

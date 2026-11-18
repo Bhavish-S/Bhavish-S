@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title">
+<title id="title">Secure SDLC &amp; DevSecOps Pipeline</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop offset="0%" stop-color="#030d14"/>
+    <stop offset="50%" stop-color="#071b24"/>
+    <stop offset="100%" stop-color="#050b16"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00f5a0"/>
+    <stop offset="50%" stop-color="#75ff9e"/>
+    <stop offset="100%" stop-color="#00d9ff"/>
+  </linearGradient>
+  <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00d9ff"/>
+    <stop offset="100%" stop-color="#00f5a0"/>
+  </linearGradient>
+  <radialGradient id="halo">
+    <stop offset="0%" stop-color="#00ff9d" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#00ff9d" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1c5362" stroke-opacity="0.25"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="260" rx="20" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="258" rx="19" stroke="#278c85" stroke-opacity="0.5" fill="none"/>
+
+  <!-- Header -->
+  <text x="40" y="44" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2">// SECURE SDLC &amp; DEVSECOPS PIPELINE — SHIFT-LEFT DEFENSE</text>
+  <text x="1160" y="44" fill="#65dcb3" font-family="ui-monospace,Consolas,monospace" font-size="12" text-anchor="end">[ CONTINUOUS AUTOMATED COMPLIANCE ]</text>
+  <path d="M 40 60 L 1160 60" stroke="#1c5362" stroke-opacity="0.6"/>
+
+  <!-- 5 Pipeline Nodes -->
+
+  <g transform="translate(40, 82)">
+    <rect width="200" height="142" rx="12" fill="#081820" stroke="#1c5362" stroke-width="1.5"/>
+    <rect width="200" height="4" rx="2" fill="url(#neon)"/>
+    <text x="16" y="28" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">01</text>
+    <text x="16" y="54" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">CODE PUSH</text>
+    <text x="16" y="80" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12">Git PR / Commits</text>
+    <text x="16" y="112" fill="#8baea6" font-family="Arial,Helvetica,sans-serif" font-size="12">Branch protection</text>
+  </g>
+
+  <g transform="translate(270, 82)">
+    <rect width="200" height="142" rx="12" fill="#081820" stroke="#1c5362" stroke-width="1.5"/>
+    <rect width="200" height="4" rx="2" fill="url(#neon)"/>
+    <text x="16" y="28" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">02</text>
+    <text x="16" y="54" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">SAST & SECRETS</text>
+    <text x="16" y="80" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12">Semgrep · TruffleHog</text>
+    <text x="16" y="112" fill="#8baea6" font-family="Arial,Helvetica,sans-serif" font-size="12">AST & Leak Audits</text>
+  </g>
+
+  <g transform="translate(500, 82)">
+    <rect width="200" height="142" rx="12" fill="#081820" stroke="#1c5362" stroke-width="1.5"/>
+    <rect width="200" height="4" rx="2" fill="url(#neon)"/>
+    <text x="16" y="28" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">03</text>
+    <text x="16" y="54" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">BUILD & LINT</text>
+    <text x="16" y="80" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12">Docker Container</text>
+    <text x="16" y="112" fill="#8baea6" font-family="Arial,Helvetica,sans-serif" font-size="12">Isolated Sandbox</text>
+  </g>
+
+  <g transform="translate(730, 82)">
+    <rect width="200" height="142" rx="12" fill="#081820" stroke="#1c5362" stroke-width="1.5"/>
+    <rect width="200" height="4" rx="2" fill="url(#neon)"/>
+    <text x="16" y="28" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">04</text>
+    <text x="16" y="54" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">IMAGE CVE SCAN</text>
+    <text x="16" y="80" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12">Trivy Vulnerability Scan</text>
+    <text x="16" y="112" fill="#8baea6" font-family="Arial,Helvetica,sans-serif" font-size="12">Zero High/Crit CVEs</text>
+  </g>
+
+  <g transform="translate(960, 82)">
+    <rect width="200" height="142" rx="12" fill="#081820" stroke="#1c5362" stroke-width="1.5"/>
+    <rect width="200" height="4" rx="2" fill="url(#neon)"/>
+    <text x="16" y="28" fill="#00d9ff" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="700">05</text>
+    <text x="16" y="54" fill="#f1fff9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">DAST & STAGING</text>
+    <text x="16" y="80" fill="#00f5a0" font-family="ui-monospace,Consolas,monospace" font-size="12">OWASP ZAP Dynamic</text>
+    <text x="16" y="112" fill="#8baea6" font-family="Arial,Helvetica,sans-serif" font-size="12">Production Hardened</text>
+  </g>
+
+  <g transform="translate(245, 150)">
+    <path d="M 0 0 L 20 0" stroke="#00f5a0" stroke-width="2" stroke-dasharray="3 3"/>
+    <path d="M 14 -5 L 22 0 L 14 5" fill="#00f5a0"/>
+  </g>
+
+  <g transform="translate(475, 150)">
+    <path d="M 0 0 L 20 0" stroke="#00f5a0" stroke-width="2" stroke-dasharray="3 3"/>
+    <path d="M 14 -5 L 22 0 L 14 5" fill="#00f5a0"/>
+  </g>
+
+  <g transform="translate(705, 150)">
+    <path d="M 0 0 L 20 0" stroke="#00f5a0" stroke-width="2" stroke-dasharray="3 3"/>
+    <path d="M 14 -5 L 22 0 L 14 5" fill="#00f5a0"/>
+  </g>
+
+  <g transform="translate(935, 150)">
+    <path d="M 0 0 L 20 0" stroke="#00f5a0" stroke-width="2" stroke-dasharray="3 3"/>
+    <path d="M 14 -5 L 22 0 L 14 5" fill="#00f5a0"/>
+  </g>
+</svg>
