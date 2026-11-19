@@ -250,7 +250,7 @@
   <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
   <a href="mailto:x.bhavish.s@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email x.bhavish.s@gmail.com" /></a>
   <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish_s_" /></a>
-  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-snake-ladder.svg" height="44" alt="YVB&amp;Co Studio" /></a>
+  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-yvb.svg" height="44" alt="YVB&amp;Co Studio" /></a>
 </p>
 
 <img src="./assets/profile-footer.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
