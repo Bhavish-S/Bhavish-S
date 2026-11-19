@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="MITM PlacePro: Campus Placement Operating System">
+  <defs>
+   <linearGradient id="bg-placepro" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10232D"/><stop offset="100%" stop-color="#07131B"/></linearGradient>
+   <linearGradient id="accent-placepro" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#38BDF8"/><stop offset="100%" stop-color="#00E5A8"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="218" rx="16" fill="url(#bg-placepro)" stroke="#1E3A47" stroke-width="1.2"/>
+  <path d="M18 2H180" stroke="url(#accent-placepro)" stroke-width="3" stroke-linecap="round"/>
+  
+  <rect x="28" y="26" width="56" height="56" rx="14" fill="#0A1C24" stroke="#38BDF8" stroke-width="1.5"/>
+  <text x="56" y="64" font-family="Arial,sans-serif" font-size="28" text-anchor="middle">🎯</text>
+  
+  <text x="102" y="44" font-family="ui-monospace,monospace" font-size="11" letter-spacing="2" font-weight="700" fill="#38BDF8">EDTECH // CAREERS</text>
+  <text x="102" y="74" font-family="Space Grotesk,Inter,sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">MITM PlacePro</text>
+  
+  <text x="32" y="118" font-family="Inter,sans-serif" font-size="13.5" fill="#94A3B8">Intelligent Campus Placement Management System.</text>
+  <text x="32" y="138" font-family="Inter,sans-serif" font-size="13.5" fill="#CBD5E1">Triple portal (Admin, Student, Company) with automated drive scheduling.</text>
+  
+  <!-- Tech Tags -->
+  <g transform="translate(32, 164)" font-family="ui-monospace,monospace" font-size="10" font-weight="700">
+    <rect x="0" y="0" width="86" height="24" rx="6" fill="#0D2633" stroke="#38BDF8" stroke-opacity=".5"/>
+    <text x="43" y="16" text-anchor="middle" fill="#38BDF8">NEXT.JS 16</text>
+    
+    <rect x="94" y="0" width="68" height="24" rx="6" fill="#0D2633" stroke="#E11D48" stroke-opacity=".5"/>
+    <text x="128" y="16" text-anchor="middle" fill="#FB7185">NESTJS</text>
+    
+    <rect x="170" y="0" width="124" height="24" rx="6" fill="#0D2633" stroke="#00E5A8" stroke-opacity=".5"/>
+    <text x="232" y="16" text-anchor="middle" fill="#00E5A8">NEON POSTGRES</text>
+    
+    <rect x="302" y="0" width="56" height="24" rx="6" fill="#0D2633" stroke="#A855F7" stroke-opacity=".5"/>
+    <text x="330" y="16" text-anchor="middle" fill="#C084FC">JWT</text>
+  </g>
+  
+  <path d="M508 30l16 0 0 16M524 30l-20 20" stroke="#38BDF8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="526" y="180" text-anchor="end" font-family="ui-monospace,monospace" font-size="11" font-weight="700" fill="#38BDF8">LIVE DEMO ↗</text>
+</svg>

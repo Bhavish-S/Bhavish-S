@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="UniConv: Universal Browser-Based File Conversion &amp; Security Platform">
+  <defs>
+   <linearGradient id="bg-uniconv" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10232D"/><stop offset="100%" stop-color="#07131B"/></linearGradient>
+   <linearGradient id="accent-uniconv" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00E5A8"/><stop offset="100%" stop-color="#38BDF8"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="218" rx="16" fill="url(#bg-uniconv)" stroke="#1E3A47" stroke-width="1.2"/>
+  <path d="M18 2H180" stroke="url(#accent-uniconv)" stroke-width="3" stroke-linecap="round"/>
+  
+  <rect x="28" y="26" width="56" height="56" rx="14" fill="#0A1C24" stroke="#00E5A8" stroke-width="1.5"/>
+  <text x="56" y="64" font-family="Arial,sans-serif" font-size="28" text-anchor="middle">⚡</text>
+  
+  <text x="102" y="44" font-family="ui-monospace,monospace" font-size="11" letter-spacing="2" font-weight="700" fill="#00E5A8">SAAS // PRODUCTION</text>
+  <text x="102" y="74" font-family="Space Grotesk,Inter,sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">UniConv</text>
+  
+  <text x="32" y="118" font-family="Inter,sans-serif" font-size="13.5" fill="#94A3B8">Universal browser-based file conversion platform.</text>
+  <text x="32" y="138" font-family="Inter,sans-serif" font-size="13.5" fill="#CBD5E1">AI watermark removal, PDF table extraction &amp; 256-bit AES encryption.</text>
+  
+  <!-- Tech Tags -->
+  <g transform="translate(32, 164)" font-family="ui-monospace,monospace" font-size="10" font-weight="700">
+    <rect x="0" y="0" width="62" height="24" rx="6" fill="#0D2633" stroke="#00E5A8" stroke-opacity=".5"/>
+    <text x="31" y="16" text-anchor="middle" fill="#00E5A8">REACT</text>
+    
+    <rect x="70" y="0" width="82" height="24" rx="6" fill="#0D2633" stroke="#38BDF8" stroke-opacity=".5"/>
+    <text x="111" y="16" text-anchor="middle" fill="#38BDF8">SUPABASE</text>
+    
+    <rect x="160" y="0" width="76" height="24" rx="6" fill="#0D2633" stroke="#A855F7" stroke-opacity=".5"/>
+    <text x="198" y="16" text-anchor="middle" fill="#C084FC">AI TOOLS</text>
+    
+    <rect x="244" y="0" width="84" height="24" rx="6" fill="#0D2633" stroke="#F59E0B" stroke-opacity=".5"/>
+    <text x="286" y="16" text-anchor="middle" fill="#FBBF24">256-BIT AES</text>
+  </g>
+  
+  <path d="M508 30l16 0 0 16M524 30l-20 20" stroke="#00E5A8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="526" y="180" text-anchor="end" font-family="ui-monospace,monospace" font-size="11" font-weight="700" fill="#00E5A8">LIVE DEMO ↗</text>
+</svg>

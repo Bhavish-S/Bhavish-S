@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="80" viewBox="0 0 920 80" role="img">
+<rect width="920" height="80" rx="12" fill="#07131B"/>
+
+  <g transform="translate(18, 24)">
+    <rect width="138" height="32" rx="8" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="12" y="20" font-size="12">🛡️</text>
+    <text x="32" y="20" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600">SIEM &amp; SOC Defense</text>
+  </g>
+
+  <g transform="translate(168, 24)">
+    <rect width="144" height="32" rx="8" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="12" y="20" font-size="12">🎯</text>
+    <text x="32" y="20" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600">Penetration Testing</text>
+  </g>
+
+  <g transform="translate(324, 24)">
+    <rect width="138" height="32" rx="8" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="12" y="20" font-size="12">🔐</text>
+    <text x="32" y="20" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600">Zero-Trust &amp; RBAC</text>
+  </g>
+
+  <g transform="translate(474, 24)">
+    <rect width="138" height="32" rx="8" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="12" y="20" font-size="12">🏢</text>
+    <text x="32" y="20" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600">Enterprise ERPs</text>
+  </g>
+
+  <g transform="translate(624, 24)">
+    <rect width="138" height="32" rx="8" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="12" y="20" font-size="12">🛰️</text>
+    <text x="32" y="20" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600">Geospatial Analytics</text>
+  </g>
+
+  <g transform="translate(774, 24)">
+    <rect width="130" height="32" rx="8" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
+    <text x="12" y="20" font-size="12">🚀</text>
+    <text x="32" y="20" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="600">YVB&amp;Co Studio</text>
+  </g>
+</svg>

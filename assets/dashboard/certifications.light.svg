@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="150" viewBox="0 0 920 150" role="img" aria-labelledby="title">
+<title id="title">Verified Certifications &amp; Institutional Honors</title>
+<defs>
+  <pattern id="mesh-grid-cert-light" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#F1F5F9" stroke-width="1"/>
+  </pattern>
+</defs>
+
+<rect width="920" height="150" rx="14" fill="#FFFFFF"/>
+<rect width="920" height="150" rx="14" fill="url(#mesh-grid-cert-light)"/>
+<rect x="1" y="1" width="918" height="148" rx="13" stroke="#E2E8F0" stroke-width="1.2" fill="none"/>
+
+<text x="24" y="28" fill="#059669" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">🎖️ VERIFIED CREDENTIALS &amp; INSTITUTIONAL RECOGNITION</text>
+<text x="896" y="28" fill="#0284C7" font-family="ui-monospace, Consolas, monospace" font-size="11" font-weight="700" text-anchor="end">CREDENTIAL ID: I4I0BFTGQ6G2 ↗</text>
+<path d="M 24 38 L 896 38" stroke="#E2E8F0"/>
+
+<!-- 01: Google Cybersecurity Pro -->
+<g transform="translate(32, 48)">
+  <rect width="268" height="86" rx="10" fill="#F8FAFC" stroke="#059669" stroke-width="1.2"/>
+  <circle cx="36" cy="36" r="18" fill="#ECFDF5" stroke="#059669" stroke-width="1"/>
+  <text x="36" y="42" font-size="16" text-anchor="middle">🛡️</text>
+  <text x="64" y="28" fill="#059669" font-family="ui-monospace, monospace" font-size="10" font-weight="700">GOOGLE CERTIFIED</text>
+  <text x="64" y="44" fill="#0F172A" font-family="Inter, sans-serif" font-size="13" font-weight="800">Cybersecurity Professional</text>
+  <text x="64" y="60" fill="#475569" font-family="Inter, sans-serif" font-size="11">SIEM, SOC &amp; Python Defense</text>
+</g>
+
+<!-- 02: Principal's Appreciation Letter -->
+<g transform="translate(326, 48)">
+  <rect width="268" height="86" rx="10" fill="#F8FAFC" stroke="#D97706" stroke-width="1.2"/>
+  <circle cx="36" cy="36" r="18" fill="#FFFBEB" stroke="#D97706" stroke-width="1"/>
+  <text x="36" y="42" font-size="16" text-anchor="middle">📜</text>
+  <text x="64" y="28" fill="#D97706" font-family="ui-monospace, monospace" font-size="10" font-weight="700">INSTITUTIONAL HONOR</text>
+  <text x="64" y="44" fill="#0F172A" font-family="Inter, sans-serif" font-size="13" font-weight="800">Letter of Appreciation</text>
+  <text x="64" y="60" fill="#475569" font-family="Inter, sans-serif" font-size="11">From Dr. Murali S., Principal, MITM</text>
+</g>
+
+<!-- 03: ISRO BAH 2026 -->
+<g transform="translate(620, 48)">
+  <rect width="268" height="86" rx="10" fill="#F8FAFC" stroke="#0284C7" stroke-width="1.2"/>
+  <circle cx="36" cy="36" r="18" fill="#F0F9FF" stroke="#0284C7" stroke-width="1"/>
+  <text x="36" y="42" font-size="16" text-anchor="middle">🛰️</text>
+  <text x="64" y="28" fill="#0284C7" font-family="ui-monospace, monospace" font-size="10" font-weight="700">NATIONAL HACKATHON</text>
+  <text x="64" y="44" fill="#0F172A" font-family="Inter, sans-serif" font-size="13" font-weight="800">ISRO BAH 2026 Finalist</text>
+  <text x="64" y="60" fill="#475569" font-family="Inter, sans-serif" font-size="11">Satellite Network Resilience</text>
+</g>
+</svg>

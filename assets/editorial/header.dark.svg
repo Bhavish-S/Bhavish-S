@@ -1,68 +1,79 @@
-<svg viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bhavish S — Cybersecurity Specialist, Full-Stack Developer, and CFO at YVB&amp;Co">
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bhavish S — Cybersecurity Specialist, Full-Stack Systems Architect &amp; CFO at YVB&amp;Co">
   <style>
-    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
     .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
-    .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
-    @keyframes rise { from { opacity:0;transform:translateY(12px); } to { opacity:1;transform:translateY(0); } }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     .fade { opacity: 0; animation: fade .7s ease forwards; }
     @keyframes fade { to { opacity: 1; } }
-    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s} .a5{animation-delay:.95s} .a6{animation-delay:1.15s}
+    .a1 { animation-delay: .15s; }
+    .a2 { animation-delay: .35s; }
+    .a3 { animation-delay: .6s; }
+    .a4 { animation-delay: .85s; }
+    .a5 { animation-delay: 1.1s; }
+    .a6 { animation-delay: 1.35s; }
     @media (prefers-reduced-motion: reduce) {
-      .draw,.rise,.fade { animation: none; opacity: 1; stroke-dashoffset: 0; }
+      .draw, .rise, .fade { animation: none; opacity: 1; stroke-dashoffset: 0; }
     }
   </style>
 
   <defs>
-    <pattern id="header-mesh" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#13303D" stroke-opacity="0.35"/>
-    </pattern>
-    <linearGradient id="header-border-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="dark-border-glow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00E5A8"/>
       <stop offset="50%" stop-color="#38BDF8"/>
       <stop offset="100%" stop-color="#00E5A8"/>
     </linearGradient>
+    <pattern id="dark-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#13303D" stroke-opacity="0.35"/>
+    </pattern>
   </defs>
 
-  <!-- Solid Midnight Cyber Canvas (Guarantees 100% visibility in Light and Dark Mode) -->
-  <rect width="1000" height="390" rx="16" fill="#07131B"/>
-  <rect width="1000" height="390" rx="16" fill="url(#header-mesh)"/>
-  <rect x="1.5" y="1.5" width="997" height="387" rx="15" stroke="#1E3A47" stroke-width="1.5" fill="none"/>
-  <path d="M 40 2 L 260 2" stroke="url(#header-border-glow)" stroke-width="3" stroke-linecap="round"/>
+  <!-- Solid Midnight Cyber Canvas -->
+  <rect width="1000" height="400" rx="16" fill="#07131B"/>
+  <rect width="1000" height="400" rx="16" fill="url(#dark-grid)"/>
+  <rect x="1.5" y="1.5" width="997" height="397" rx="15" stroke="#1E3A47" stroke-width="1.5" fill="none"/>
+  <path d="M 40 2 L 280 2" stroke="url(#dark-border-glow)" stroke-width="3" stroke-linecap="round"/>
 
   <!-- Top Metadata Bar -->
-  <line class="draw a1" x1="48" y1="54" x2="952" y2="54" stroke="#1E3A47" stroke-width="1.2"/>
+  <line class="draw a1" x1="48" y1="56" x2="952" y2="56" stroke="#1E3A47" stroke-width="1.2"/>
   <g class="fade a1">
-    <text class="mono" fill="#94A3B8" x="48" y="40" font-size="11" letter-spacing="3.5">BHAVISH S // CYBERSECURITY &amp; AUTOMATION ARCHITECT</text>
-    <text class="mono" fill="#00E5A8" x="952" y="40" font-size="11" letter-spacing="3" text-anchor="end">STATUS: AVAILABLE // MYSORE, IN</text>
+    <text class="mono" fill="#94A3B8" x="48" y="42" font-size="11.5" font-weight="600" letter-spacing="3">BHAVISH S // CYBERSECURITY &amp; AUTOMATION ARCHITECT</text>
+    <circle cx="738" cy="38" r="4" fill="#00E5A8"/>
+    <text class="mono" fill="#00E5A8" x="952" y="42" font-size="11.5" font-weight="700" letter-spacing="2.5" text-anchor="end">STATUS: AVAILABLE // MYSORE, IN</text>
   </g>
 
   <!-- Main Hero Title -->
   <g class="rise a2">
-    <text fill="#FFFFFF" class="mono" x="46" y="160" font-size="76" font-weight="800" letter-spacing="-2">Bhavish S<tspan fill="#00E5A8">.</tspan></text>
+    <text fill="#FFFFFF" class="mono" x="46" y="162" font-size="78" font-weight="900" letter-spacing="-2.5">Bhavish S<tspan fill="#00E5A8">.</tspan></text>
   </g>
   <g class="fade a3">
-    <text fill="#38BDF8" class="mono" x="48" y="200" font-size="19" font-weight="700" letter-spacing="0.5">Cybersecurity Engineer · Full-Stack Systems Architect · CFO @ YVB&amp;Co</text>
+    <text fill="#38BDF8" class="mono" x="48" y="202" font-size="19" font-weight="700" letter-spacing="0.5">Cybersecurity Specialist · Full-Stack Systems Architect · CFO &amp; CRO @ YVB&amp;Co</text>
   </g>
 
   <!-- Technical Value Proposition -->
   <g class="fade a4">
-    <text fill="#64748B" class="mono" x="48" y="254" font-size="12.5" letter-spacing="1">Identity  ▸</text>
-    <text fill="#F1F5F9" class="mono" x="144" y="254" font-size="12.5" font-weight="600">Google-Certified Cybersecurity Student @ MIT Mysore (B.E. CSE) · SIEM &amp; SOC Analyst</text>
+    <text fill="#64748B" class="mono" x="48" y="254" font-size="12.5" font-weight="700" letter-spacing="1">Identity  ▸</text>
+    <text fill="#F1F5F9" class="mono" x="148" y="254" font-size="13" font-weight="600">Google-Certified Cybersecurity Student @ MIT Mysore (B.E. CSE) · SIEM &amp; Threat Defense</text>
   </g>
   <g class="fade a5">
-    <text fill="#64748B" class="mono" x="48" y="284" font-size="12.5" letter-spacing="1">Impact    ▸</text>
-    <text fill="#00E5A8" class="mono" x="144" y="284" font-size="12.5" font-weight="600">Built Institution-Adopted ERPs (Principal's Letter of Appreciation) · ISRO BAH 2026 Hackathon</text>
+    <text fill="#64748B" class="mono" x="48" y="284" font-size="12.5" font-weight="700" letter-spacing="1">Impact    ▸</text>
+    <text fill="#00E5A8" class="mono" x="148" y="284" font-size="13" font-weight="700">Built Campus-Adopted ERPs (Principal's Letter of Appreciation) · ISRO BAH 2026 Finalist</text>
+  </g>
+  <g class="fade a5">
+    <text fill="#64748B" class="mono" x="48" y="314" font-size="12.5" font-weight="700" letter-spacing="1">Venture   ▸</text>
+    <text fill="#FFFFFF" class="mono" x="148" y="314" font-size="13" font-weight="600">Executive Leadership @ YVB&amp;Co Studio · Universal File Converter (UniConv SaaS) · Zero-Trust RBAC</text>
   </g>
 
   <!-- Bottom Command Bar -->
-  <line class="draw a5" x1="48" y1="324" x2="952" y2="324" stroke="#1E3A47" stroke-width="1.2"/>
+  <line class="draw a5" x1="48" y1="344" x2="952" y2="344" stroke="#1E3A47" stroke-width="1.2"/>
   <g class="fade a6">
-    <text fill="#CBD5E1" class="mono" x="48" y="356" font-size="11.5" letter-spacing="2.5">ETHICAL HACKING &amp; SIEM</text>
-    <text fill="#00E5A8" class="mono" x="250" y="356" font-size="11.5">·</text>
-    <text fill="#CBD5E1" class="mono" x="276" y="356" font-size="11.5" letter-spacing="2.5">ZERO-TRUST SAAS &amp; RBAC</text>
-    <text fill="#00E5A8" class="mono" x="520" y="356" font-size="11.5">·</text>
-    <text fill="#CBD5E1" class="mono" x="546" y="356" font-size="11.5" letter-spacing="2.5">YVB&amp;CO SOFTWARE STUDIO</text>
-    <text fill="#00E5A8" class="mono" x="952" y="356" font-size="11.5" letter-spacing="2" font-weight="700" text-anchor="end">IAMBHAVISHS.VERCEL.APP ↗</text>
+    <text fill="#CBD5E1" class="mono" x="48" y="374" font-size="11.5" font-weight="600" letter-spacing="2.5">ETHICAL HACKING &amp; SIEM</text>
+    <text fill="#00E5A8" class="mono" x="256" y="374" font-size="12" font-weight="700">·</text>
+    <text fill="#CBD5E1" class="mono" x="278" y="374" font-size="11.5" font-weight="600" letter-spacing="2.5">ZERO-TRUST SAAS &amp; RBAC</text>
+    <text fill="#00E5A8" class="mono" x="526" y="374" font-size="12" font-weight="700">·</text>
+    <text fill="#CBD5E1" class="mono" x="548" y="374" font-size="11.5" font-weight="600" letter-spacing="2.5">YVB&amp;CO SOFTWARE STUDIO</text>
+    <text fill="#00E5A8" class="mono" x="952" y="374" font-size="12" font-weight="800" letter-spacing="2" text-anchor="end">IAMBHAVISHS.VERCEL.APP ↗</text>
   </g>
 </svg>

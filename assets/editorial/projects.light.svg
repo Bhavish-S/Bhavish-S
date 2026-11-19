@@ -1,47 +1,56 @@
-<svg viewBox="0 0 1000 595" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured engineering projects by Bhavish S">
+<svg viewBox="0 0 1000 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured engineering projects by Bhavish S">
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace; }
-    .title { font-size: 16.5px; font-weight: 700; letter-spacing: .8px; }
-    .copy { font-size: 12.5px; }
-    .meta { font-size: 11px; letter-spacing: .5px; font-weight: 600; }
+    .title { font-size: 16.5px; font-weight: 800; letter-spacing: .8px; fill: #0F172A; }
+    .copy { font-size: 12.5px; font-weight: 500; fill: #334155; }
+    .meta { font-size: 11px; letter-spacing: .5px; font-weight: 700; fill: #059669; }
   </style>
 
-  <rect width="1000" height="595" rx="14" fill="#07131B" stroke="#13303D" stroke-width="1.2"/>
+  <rect width="1000" height="600" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 
   <g class="mono">
+    <!-- 01: UniConv -->
     <g transform="translate(0 15)">
-      <text class="title" fill="#F1F5F9" x="48" y="24">01 / UNICONV [SAAS FILE CONVERTER]</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="48">Universal browser-based file conversion platform with client-side WebAssembly processing.</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="68">Eliminates cloud data leakage with zero server telemetry and 256-bit AES encryption.</text>
-      <text class="meta" fill="#00E5A8" x="48" y="88">NEXT.JS 14 · TYPESCRIPT · TAILWIND CSS · WASM // PRODUCTION</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
+      <text class="title" x="48" y="24">01 / UNICONV [UNIVERSAL FILE CONVERSION SAAS]</text>
+      <text class="copy" x="48" y="48">Universal browser-based file conversion platform with client-side WebAssembly processing.</text>
+      <text class="copy" x="48" y="68">Eliminates cloud data leakage with zero server telemetry, AI watermark removal &amp; 256-bit AES encryption.</text>
+      <text class="meta" x="48" y="88">NEXT.JS 14 · TYPESCRIPT · TAILWIND CSS · WASM · WEB WORKERS // PRODUCTION DEPLOYMENT</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#E2E8F0" stroke-width="1.2"/>
     </g>
+
+    <!-- 02: NOC Portal -->
     <g transform="translate(0 130)">
-      <text class="title" fill="#F1F5F9" x="48" y="24">02 / NOC CLEARANCE PORTAL</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="48">Student NOC clearance and workflow automation system with multi-department sign-offs.</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="68">Eliminates campus administrative delays with role-based authorization and cryptographic audit logs.</text>
-      <text class="meta" fill="#00E5A8" x="48" y="88">REACT · NODE.JS · FIREBASE · RBAC // DEPLOYED CAMPUS-WIDE</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
+      <text class="title" x="48" y="24">02 / NOC CLEARANCE PORTAL [CAMPUS GOVERNANCE]</text>
+      <text class="copy" x="48" y="48">Student NOC clearance and workflow automation system with multi-department sign-offs.</text>
+      <text class="copy" x="48" y="68">Eliminates administrative delays with role-based authorization; awarded Principal's Official Letter of Appreciation.</text>
+      <text class="meta" x="48" y="88">REACT · NODE.JS · FIREBASE · RBAC · CRYPTOGRAPHIC AUDIT LOGS // ADOPTED CAMPUS-WIDE</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#E2E8F0" stroke-width="1.2"/>
     </g>
+
+    <!-- 03: AcadOps ERP -->
     <g transform="translate(0 245)">
-      <text class="title" fill="#F1F5F9" x="48" y="24">03 / ACADOPS ERP CLIENT</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="48">Governance-first academic management and examination control system.</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="68">Designed with a 10-role permission hierarchy, separation of duties, and audit logging.</text>
-      <text class="meta" fill="#00E5A8" x="48" y="88">REACT 18 · TAILWIND · VITE · SUPABASE // PRODUCTION</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
+      <text class="title" x="48" y="24">03 / ACADOPS ERP CLIENT [ACADEMIC GOVERNANCE &amp; RBAC]</text>
+      <text class="copy" x="48" y="48">Governance-first academic management, examination control, and student records operations platform.</text>
+      <text class="copy" x="48" y="68">Designed with a 10-role permission hierarchy, strict separation-of-duties, and immutable telemetry logging.</text>
+      <text class="meta" x="48" y="88">REACT 18 · TAILWIND CSS · VITE · SUPABASE · POSTGRESQL // ENTERPRISE PRODUCTION</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#E2E8F0" stroke-width="1.2"/>
     </g>
+
+    <!-- 04: MITM PlacePro -->
     <g transform="translate(0 360)">
-      <text class="title" fill="#F1F5F9" x="48" y="24">04 / MITM PLACEPRO</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="48">Autonomous campus placement management and recruitment workflow automation.</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="68">Automates company drives, student eligibility filtering, and real-time interview telemetry.</text>
-      <text class="meta" fill="#00E5A8" x="48" y="88">TYPESCRIPT · REACT · POSTGRESQL · TAILWIND // DEPLOYED</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
+      <text class="title" x="48" y="24">04 / MITM PLACEPRO [CAMPUS RECRUITMENT TELEMETRY]</text>
+      <text class="copy" x="48" y="48">Autonomous campus placement drive management and student recruitment lifecycle engine.</text>
+      <text class="copy" x="48" y="68">Automates company drives, real-time student eligibility filtering, and interview round telemetry.</text>
+      <text class="meta" x="48" y="88">TYPESCRIPT · REACT · POSTGRESQL · TAILWIND CSS // ACTIVE INSTITUTIONAL OPERATION</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#E2E8F0" stroke-width="1.2"/>
     </g>
+
+    <!-- 05: Route Resilience -->
     <g transform="translate(0 475)">
-      <text class="title" fill="#F1F5F9" x="48" y="24">05 / ROUTE RESILIENCE [ISRO BAH 2026]</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="48">Critical infrastructure network resilience modeling using satellite &amp; geospatial data.</text>
-      <text class="copy" fill="#CBD5E1" x="48" y="68">Calculates road network vulnerability and suggests resilient routing during extreme weather disruptions.</text>
-      <text class="meta" fill="#00E5A8" x="48" y="88">PYTHON · OSMNX · NETWORKX · GEOPANDAS // COMPETITION FINALIST</text>
+      <text class="title" x="48" y="24">05 / ROUTE RESILIENCE [ISRO BHARATIYA ANTARIKSH HACKATHON 2026]</text>
+      <text class="copy" x="48" y="48">Critical infrastructure network resilience modeling using satellite &amp; geospatial road network data.</text>
+      <text class="copy" x="48" y="68">Calculates vulnerability graphs and suggests alternate resilient routing during extreme disruption events.</text>
+      <text class="meta" x="48" y="88">PYTHON · OSMNX · NETWORKX · GEOPANDAS · FOLIUM // NATIONAL HACKATHON FINALIST</text>
     </g>
   </g>
 </svg>

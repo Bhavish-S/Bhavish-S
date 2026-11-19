@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="82" viewBox="0 0 920 82" role="img" aria-label="Quick metrics overview">
+  <defs>
+    <pattern id="mesh-grid-stats-light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#F1F5F9" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="920" height="82" rx="12" fill="#FFFFFF"/>
+  <rect width="920" height="82" rx="12" fill="url(#mesh-grid-stats-light)"/>
+  <rect x="1" y="1" width="918" height="80" rx="11" stroke="#E2E8F0" stroke-width="1.2" fill="none"/>
+
+  <g transform="translate(18, 14)">
+    <rect width="206" height="54" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+    <text x="14" y="22" fill="#64748B" font-family="ui-monospace, monospace" font-size="9.5" font-weight="700" letter-spacing="1.5">PUBLIC REPOSITORIES</text>
+    <text x="14" y="44" fill="#0F172A" font-family="Space Grotesk, Inter, sans-serif" font-size="20" font-weight="800">50+</text>
+    <text x="72" y="44" fill="#059669" font-family="ui-monospace, monospace" font-size="11" font-weight="700">ACTIVE CODEBASES</text>
+  </g>
+
+  <g transform="translate(242, 14)">
+    <rect width="206" height="54" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+    <text x="14" y="22" fill="#64748B" font-family="ui-monospace, monospace" font-size="9.5" font-weight="700" letter-spacing="1.5">PRODUCTION SYSTEMS</text>
+    <text x="14" y="44" fill="#0F172A" font-family="Space Grotesk, Inter, sans-serif" font-size="20" font-weight="800">10+</text>
+    <text x="72" y="44" fill="#0284C7" font-family="ui-monospace, monospace" font-size="11" font-weight="700">SAAS &amp; CAMPUS ERPS</text>
+  </g>
+
+  <g transform="translate(466, 14)">
+    <rect width="206" height="54" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+    <text x="14" y="22" fill="#64748B" font-family="ui-monospace, monospace" font-size="9.5" font-weight="700" letter-spacing="1.5">ESTIMATED LOC</text>
+    <text x="14" y="44" fill="#0F172A" font-family="Space Grotesk, Inter, sans-serif" font-size="20" font-weight="800">15K+</text>
+    <text x="82" y="44" fill="#D97706" font-family="ui-monospace, monospace" font-size="11" font-weight="700">VERIFIED CODE</text>
+  </g>
+
+  <g transform="translate(690, 14)">
+    <rect width="212" height="54" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+    <text x="14" y="22" fill="#64748B" font-family="ui-monospace, monospace" font-size="9.5" font-weight="700" letter-spacing="1.5">SECURITY CLEARANCE</text>
+    <text x="14" y="44" fill="#059669" font-family="Space Grotesk, Inter, sans-serif" font-size="19" font-weight="800">100%</text>
+    <text x="84" y="44" fill="#059669" font-family="ui-monospace, monospace" font-size="11" font-weight="700">PRINCIPAL AUDIT</text>
+  </g>
+</svg>

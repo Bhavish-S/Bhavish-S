@@ -24,62 +24,124 @@
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s01.svg" />
-  <img src="./assets/editorial/s01.svg" width="100%" alt="01 — WHOAMI // EXECUTIVE SUMMARY" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s01.dark.svg" />
+  <img src="./assets/editorial/s01.light.svg" width="100%" alt="01 — WHOAMI // EXECUTIVE SUMMARY" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/whoami.dark.svg" />
+  <img src="./assets/editorial/whoami.light.svg" width="100%" alt="About Bhavish S: Biography &amp; Focus" />
 </picture>
 
 <div align="center">
-  <img src="./assets/dashboard/about-terminal.svg" width="100%" alt="Interactive Terminal Dossier: whoami, focus, role, and verified credentials" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/about-terminal.dark.svg" />
+    <img src="./assets/dashboard/about-terminal.light.svg" width="100%" alt="Interactive Terminal Dossier: whoami, focus, role, and verified credentials" />
+  </picture>
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     02 // VENTURE STUDIO & PRODUCTION SYSTEMS
+     02 // THE ROUTE // ENGINEERING MILESTONES
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s02.svg" />
-  <img src="./assets/editorial/s02.svg" width="100%" alt="02 — VENTURE STUDIO &amp; PRODUCTION SYSTEMS" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s02.dark.svg" />
+  <img src="./assets/editorial/s02.light.svg" width="100%" alt="02 — THE ROUTE // ENGINEERING MILESTONES" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/timeline.dark.svg" />
+  <img src="./assets/editorial/timeline.light.svg" width="100%" alt="Engineering Milestones Timeline (2022 - Present)" />
+</picture>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     03 // VENTURE STUDIO & PRODUCTION SYSTEMS
+     ══════════════════════════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s03.dark.svg" />
+  <img src="./assets/editorial/s03.light.svg" width="100%" alt="03 — VENTURE STUDIO &amp; PRODUCTION SYSTEMS" />
 </picture>
 
 <div align="center">
   <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/dashboard/studio-yvb.svg" width="100%" alt="YVB&amp;Co Software Studio — Engineer Your Vision" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/studio-yvb.dark.svg" />
+      <img src="./assets/dashboard/studio-yvb.light.svg" width="100%" alt="YVB&amp;Co Software Studio — Engineer Your Vision" />
+    </picture>
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/projects.dark.svg" />
+  <img src="./assets/editorial/projects.light.svg" width="100%" alt="Featured Projects Manifest" />
+</picture>
 
 <br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://uniconv-psi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-uniconv.svg" width="100%" alt="UniConv — Browser-Based Universal File Converter" /></a>
+  <a href="https://uniconv-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-uniconv.dark.svg" />
+      <img src="./assets/project-uniconv.light.svg" width="100%" alt="UniConv — Browser-Based Universal File Converter" />
+    </picture>
+  </a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://noc-portal-self.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-nodue-portal.svg" width="100%" alt="NOC Portal — Student No-Due Clearance Management System" /></a>
+  <a href="https://noc-portal-self.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-nodue-portal.dark.svg" />
+      <img src="./assets/project-nodue-portal.light.svg" width="100%" alt="NOC Portal — Student No-Due Clearance Management System" />
+    </picture>
+  </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://erp-client-9lbk.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-erp-client.svg" width="100%" alt="AcadOps ERP Client — Academic Governance &amp; RBAC Operations" /></a>
+  <a href="https://erp-client-9lbk.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-erp-client.dark.svg" />
+      <img src="./assets/project-erp-client.light.svg" width="100%" alt="AcadOps ERP Client — Academic Governance &amp; RBAC Operations" />
+    </picture>
+  </a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://mitm-placepro.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-placepro.svg" width="100%" alt="MITM PlacePro — Campus Placement Management System" /></a>
+  <a href="https://mitm-placepro.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-placepro.dark.svg" />
+      <img src="./assets/project-placepro.light.svg" width="100%" alt="MITM PlacePro — Campus Placement Management System" />
+    </picture>
+  </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://mitm-rd.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-jnanashodha.svg" width="100%" alt="Jnanashodha — Research Admissions &amp; Ph.D Lifecycle Portal" /></a>
+  <a href="https://mitm-rd.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-jnanashodha.dark.svg" />
+      <img src="./assets/project-jnanashodha.light.svg" width="100%" alt="Jnanashodha — Research Admissions &amp; Ph.D Lifecycle Portal" />
+    </picture>
+  </a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Bhavish-S/Route_Resilience" target="_blank" rel="noopener noreferrer"><img src="./assets/project-route-resilience.svg" width="100%" alt="Route Resilience — ISRO BAH 2026 Satellite Road Network Resilience" /></a>
+  <a href="https://github.com/Bhavish-S/Route_Resilience" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-route-resilience.dark.svg" />
+      <img src="./assets/project-route-resilience.light.svg" width="100%" alt="Route Resilience — ISRO BAH 2026 Satellite Road Network Resilience" />
+    </picture>
+  </a>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>All projects deployed in production or active institutional operation. Visit <a href="https://iambhavishs.vercel.app/">iambhavishs.vercel.app</a> for architecture breakdowns.</sub>
+<sub>All systems running in active production or institutional deployment. Visit <a href="https://iambhavishs.vercel.app/">iambhavishs.vercel.app</a> for full architecture breakdowns.</sub>
 </div>
 
 <br/>
@@ -89,8 +151,8 @@
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s03.svg" />
-  <img src="./assets/editorial/s03.svg" width="100%" alt="03 — TELEMETRY" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s04.dark.svg" />
+  <img src="./assets/editorial/s04.light.svg" width="100%" alt="04 — TELEMETRY // LIVE ACTIVITY MATRIX" />
 </picture>
 
 <div align="center">
@@ -123,35 +185,44 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake" />
 </picture>
 
 <br/><br/>
 
 <!-- METRICS TELEMETRY BAR -->
-<img src="./assets/dashboard/stats-bar.svg" width="100%" alt="Quick Metrics Overview: 50+ Repositories, 10+ Projects, 15K+ Lines of Code" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/stats-bar.dark.svg" />
+  <img src="./assets/dashboard/stats-bar.light.svg" width="100%" alt="Quick Metrics Overview: 50+ Repositories, 10+ Projects, 15K+ Lines of Code" />
+</picture>
 
 <br/><br/>
 
 <!-- SKILLS PROFICIENCY PROGRESS BARS -->
-<img src="./assets/dashboard/skills-stack.svg" width="100%" alt="Skills Proficiency &amp; Technical Capabilities" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/skills-stack.dark.svg" />
+  <img src="./assets/dashboard/skills-stack.light.svg" width="100%" alt="Skills Proficiency &amp; Technical Capabilities" />
+</picture>
 
 <br/><br/>
 
 <!-- SPECIALIZATION FOCUS PILLS -->
-<img src="./assets/dashboard/interests-bar.svg" width="100%" alt="Specialization Interests: SIEM &amp; SOC Defense, Penetration Testing, Zero-Trust &amp; RBAC, Enterprise ERPs, Geospatial Analytics, YVB&amp;Co Studio" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/interests-bar.dark.svg" />
+  <img src="./assets/dashboard/interests-bar.light.svg" width="100%" alt="Specialization Interests: SIEM &amp; SOC Defense, Penetration Testing, Zero-Trust &amp; RBAC, Enterprise ERPs, Geospatial Analytics, YVB&amp;Co Studio" />
+</picture>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     05 // TECHNICAL ARSENAL
+     05 // TECHNICAL ARSENAL // PRODUCTION STACK
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s04.svg" />
-  <img src="./assets/editorial/s04.svg" width="100%" alt="04 — STACK" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s05.dark.svg" />
+  <img src="./assets/editorial/s05.light.svg" width="100%" alt="05 — TECHNICAL ARSENAL // PRODUCTION STACK" />
 </picture>
 
 <div align="center">
@@ -202,45 +273,51 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     05 // ACHIEVEMENTS & CERTIFICATIONS
+     06 // VERIFIED CREDENTIALS & ACHIEVEMENTS
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s05.svg" />
-  <img src="./assets/editorial/s05.svg" width="100%" alt="05 — VERIFIED CREDENTIALS &amp; ACHIEVEMENTS" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s06.dark.svg" />
+  <img src="./assets/editorial/s06.light.svg" width="100%" alt="06 — VERIFIED CREDENTIALS &amp; ACHIEVEMENTS" />
 </picture>
 
 <div align="center">
-  <img src="./assets/dashboard/achievements.svg" width="100%" alt="GitHub Achievements: Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, Galaxy Brain" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/achievements.dark.svg" />
+    <img src="./assets/dashboard/achievements.light.svg" width="100%" alt="GitHub Achievements: Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, Galaxy Brain" />
+  </picture>
   
   <br/><br/>
 
   <p align="center">
-    <a href="https://github.com/Bhavish-S?achievement=quickdraw&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="72" alt="Achievement: Quickdraw" /></a>
+    <a href="https://github.com/Bhavish-S?achievement=quickdraw&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="76" alt="Achievement: Quickdraw" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?achievement=yolo&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="72" alt="Achievement: YOLO" /></a>
+    <a href="https://github.com/Bhavish-S?achievement=yolo&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="76" alt="Achievement: YOLO" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" alt="Achievement: Pull Shark" /></a>
+    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="76" alt="Achievement: Pull Shark" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e96a4e32049e.png" width="72" alt="Achievement: Pair Extraordinaire" /></a>
+    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e96a4e32049e.png" width="76" alt="Achievement: Pair Extraordinaire" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/galaxy-brain-default-39f92471253a.png" width="72" alt="Achievement: Galaxy Brain" /></a>
+    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/galaxy-brain-default-39f92471253a.png" width="76" alt="Achievement: Galaxy Brain" /></a>
   </p>
 
   <br/>
 
-  <img src="./assets/dashboard/certifications.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/certifications.dark.svg" />
+    <img src="./assets/dashboard/certifications.light.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
+  </picture>
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     06 // CONNECT & FOOTER
+     07 // ESTABLISH SECURE LINK // CONNECT
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s06.svg" />
-  <img src="./assets/editorial/s06.svg" width="100%" alt="06 — CONNECT" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s07.dark.svg" />
+  <img src="./assets/editorial/s07.light.svg" width="100%" alt="07 — ESTABLISH SECURE LINK // CONNECT" />
 </picture>
 
 <div align="center">
@@ -253,7 +330,10 @@
   <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-yvb.svg" height="44" alt="YVB&amp;Co Studio" /></a>
 </p>
 
-<img src="./assets/profile-footer.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-footer.dark.svg" />
+  <img src="./assets/profile-footer.light.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
+</picture>
 
 <br/><br/>
 ⭐️ From [@Bhavish-S](https://github.com/Bhavish-S) · **Building the future, one secure commit at a time** 🚀

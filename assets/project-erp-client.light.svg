@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="AcadOps ERP Client: Academic Governance and RBAC Operations System">
+  <defs>
+   <linearGradient id="bg-erp" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#F8FAFC"/></linearGradient>
+   <linearGradient id="accent-erp" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00E5A8"/><stop offset="100%" stop-color="#38BDF8"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="218" rx="16" fill="url(#bg-erp)" stroke="#E2E8F0" stroke-width="1.2"/>
+  <path d="M18 2H180" stroke="url(#accent-erp)" stroke-width="3" stroke-linecap="round"/>
+  
+  <rect x="28" y="26" width="56" height="56" rx="14" fill="#F1F5F9" stroke="#059669" stroke-width="1.5"/>
+  <text x="56" y="64" font-family="Arial,sans-serif" font-size="28" text-anchor="middle">🏛️</text>
+  
+  <text x="102" y="44" font-family="ui-monospace,monospace" font-size="11" letter-spacing="2" font-weight="700" fill="#059669">GOVERNANCE // ENTERPRISE</text>
+  <text x="102" y="74" font-family="Space Grotesk,Inter,sans-serif" font-size="24" font-weight="800" fill="#0F172A">AcadOps // ERP Client</text>
+  
+  <text x="32" y="118" font-family="Inter,sans-serif" font-size="13.5" fill="#475569">Governance-first academic operations and examinations platform.</text>
+  <text x="32" y="138" font-family="Inter,sans-serif" font-size="13.5" fill="#334155">10-role RBAC hierarchy, separation-of-duties &amp; immutable audit logging.</text>
+  
+  <!-- Tech Tags -->
+  <g transform="translate(32, 164)" font-family="ui-monospace,monospace" font-size="10" font-weight="700">
+    <rect x="0" y="0" width="86" height="24" rx="6" fill="#F1F5F9" stroke="#059669" stroke-opacity=".5"/>
+    <text x="43" y="16" text-anchor="middle" fill="#059669">NEXT.JS 16</text>
+    
+    <rect x="94" y="0" width="82" height="24" rx="6" fill="#F1F5F9" stroke="#0284C7" stroke-opacity=".5"/>
+    <text x="135" y="16" text-anchor="middle" fill="#0284C7">EXPRESS 5</text>
+    
+    <rect x="184" y="0" width="94" height="24" rx="6" fill="#F1F5F9" stroke="#7C3AED" stroke-opacity=".5"/>
+    <text x="231" y="16" text-anchor="middle" fill="#7C3AED">POSTGRESQL</text>
+    
+    <rect x="286" y="0" width="90" height="24" rx="6" fill="#F1F5F9" stroke="#D97706" stroke-opacity=".5"/>
+    <text x="331" y="16" text-anchor="middle" fill="#D97706">ZERO-TRUST</text>
+  </g>
+  
+  <path d="M508 30l16 0 0 16M524 30l-20 20" stroke="#059669" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="526" y="180" text-anchor="end" font-family="ui-monospace,monospace" font-size="11" font-weight="700" fill="#059669">LIVE DEMO ↗</text>
+</svg>

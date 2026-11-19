@@ -1,0 +1,81 @@
+<svg viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering Milestones &amp; Journey: 2022 to Present">
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .axis { stroke: #CBD5E1; stroke-width: 1.5; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 2s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .m { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    .m1{animation-delay:.3s}.m2{animation-delay:.6s}.m3{animation-delay:.9s}.m4{animation-delay:1.2s}.m5{animation-delay:1.5s}.m6{animation-delay:1.8s}
+    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+    .ring { animation: ring 2.2s ease-out infinite; transform-origin: 910px 120px; }
+    @keyframes ring { 0%{transform:scale(.4);opacity:.9} 80%,100%{transform:scale(3);opacity:0} }
+    @media (prefers-reduced-motion: reduce) {
+      .axis, .m, .pulse, .ring { animation: none; opacity: 1; stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <rect width="1000" height="240" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+  
+  <line x1="48" y1="40" x2="952" y2="40" stroke="#E2E8F0" stroke-width="1.2"/>
+  <text fill="#64748B" class="mono" x="48" y="28" font-size="11" font-weight="700" letter-spacing="3.5">THE ROUTE SO FAR // VERIFIED MILESTONES</text>
+  <text fill="#059669" class="mono" x="952" y="28" font-size="11" font-weight="700" letter-spacing="2" text-anchor="end">~/02-timeline.sh</text>
+
+  <!-- Horizontal Axis -->
+  <line class="axis" x1="48" y1="120" x2="952" y2="120"/>
+
+  <!-- Milestone 1: 2022 -->
+  <g class="m m1">
+    <circle cx="90" cy="120" r="5" fill="#0F172A"/>
+    <line x1="90" y1="115" x2="90" y2="86" stroke="#94A3B8" stroke-width="1.2"/>
+    <text fill="#059669" class="mono" x="90" y="64" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="middle">2022</text>
+    <text fill="#0F172A" class="mono" x="90" y="80" font-size="11" font-weight="700" text-anchor="middle">First Commit</text>
+    <text fill="#64748B" class="mono" x="90" y="145" font-size="10" font-weight="600" text-anchor="middle">CS &amp; Linux Ops</text>
+  </g>
+
+  <!-- Milestone 2: 2023 -->
+  <g class="m m2">
+    <circle cx="250" cy="120" r="5" fill="#0F172A"/>
+    <line x1="250" y1="125" x2="250" y2="154" stroke="#94A3B8" stroke-width="1.2"/>
+    <text fill="#0284C7" class="mono" x="250" y="172" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="middle">2023</text>
+    <text fill="#0F172A" class="mono" x="250" y="188" font-size="11" font-weight="700" text-anchor="middle">MIT Mysore</text>
+    <text fill="#64748B" class="mono" x="250" y="98" font-size="10" font-weight="600" text-anchor="middle">B.E. Computer Science</text>
+  </g>
+
+  <!-- Milestone 3: 2024 -->
+  <g class="m m3">
+    <circle cx="430" cy="120" r="5" fill="#059669"/>
+    <line x1="430" y1="115" x2="430" y2="86" stroke="#059669" stroke-width="1.5"/>
+    <text fill="#059669" class="mono" x="430" y="64" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="middle">2024</text>
+    <text fill="#0F172A" class="mono" x="430" y="80" font-size="11" font-weight="800" text-anchor="middle">Google Certified</text>
+    <text fill="#059669" class="mono" x="430" y="145" font-size="10" font-weight="700" text-anchor="middle">Cybersecurity Pro</text>
+  </g>
+
+  <!-- Milestone 4: 2025 -->
+  <g class="m m4">
+    <circle cx="610" cy="120" r="5" fill="#D97706"/>
+    <line x1="610" y1="125" x2="610" y2="154" stroke="#D97706" stroke-width="1.5"/>
+    <text fill="#D97706" class="mono" x="610" y="172" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="middle">2025</text>
+    <text fill="#0F172A" class="mono" x="610" y="188" font-size="11" font-weight="800" text-anchor="middle">YVB&amp;Co Studio</text>
+    <text fill="#475569" class="mono" x="610" y="98" font-size="10" font-weight="600" text-anchor="middle">Principal Letter of Appreciation</text>
+  </g>
+
+  <!-- Milestone 5: 2026 -->
+  <g class="m m5">
+    <circle cx="780" cy="120" r="5" fill="#0284C7"/>
+    <line x1="780" y1="115" x2="780" y2="86" stroke="#0284C7" stroke-width="1.5"/>
+    <text fill="#0284C7" class="mono" x="780" y="64" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="middle">2026</text>
+    <text fill="#0F172A" class="mono" x="780" y="80" font-size="11" font-weight="800" text-anchor="middle">ISRO BAH 2026</text>
+    <text fill="#0284C7" class="mono" x="780" y="145" font-size="10" font-weight="700" text-anchor="middle">National Finalist</text>
+  </g>
+
+  <!-- Milestone 6: NOW (Active Pulse) -->
+  <g class="m m6">
+    <circle class="ring" cx="910" cy="120" r="6" fill="none" stroke="#059669" stroke-width="2"/>
+    <circle class="pulse" cx="910" cy="120" r="5" fill="#059669"/>
+    <line x1="910" y1="125" x2="910" y2="154" stroke="#059669" stroke-width="1.5"/>
+    <text fill="#059669" class="mono" x="910" y="172" font-size="12" font-weight="900" letter-spacing="1.5" text-anchor="middle">NOW</text>
+    <text fill="#0F172A" class="mono" x="910" y="188" font-size="11" font-weight="800" text-anchor="middle">Available</text>
+    <text fill="#059669" class="mono" x="910" y="98" font-size="10" font-weight="700" text-anchor="middle">Open to Roles</text>
+  </g>
+</svg>

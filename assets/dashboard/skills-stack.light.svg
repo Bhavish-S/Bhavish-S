@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280" role="img" aria-labelledby="title">
+<title id="title">Technical Capabilities &amp; Arsenal Stack</title>
+<defs>
+  <linearGradient id="light-bar-emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#059669"/>
+    <stop offset="100%" stop-color="#0284C7"/>
+  </linearGradient>
+  <pattern id="mesh-grid-stack-light" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#F1F5F9" stroke-width="1"/>
+  </pattern>
+</defs>
+
+<rect width="920" height="280" rx="14" fill="#FFFFFF"/>
+<rect width="920" height="280" rx="14" fill="url(#mesh-grid-stack-light)"/>
+<rect x="1" y="1" width="918" height="278" rx="13" stroke="#E2E8F0" stroke-width="1.2" fill="none"/>
+
+  <!-- Left Column: Core Engineering Disciplines (440w) -->
+  <g transform="translate(16, 16)">
+    <rect width="436" height="248" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+    <text x="24" y="30" fill="#059669" font-family="Space Grotesk, Inter, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">📊 ENGINEERING CAPABILITIES &amp; PROFICIENCY</text>
+    <path d="M 24 38 L 412 38" stroke="#E2E8F0"/>
+    
+    <g transform="translate(24, 48)">
+      <text x="0" y="12" font-size="12">🛡️</text>
+      <text x="22" y="12" fill="#0F172A" font-family="Inter, sans-serif" font-size="11" font-weight="700">Cybersecurity, SIEM &amp; Pentest</text>
+      <rect x="200" y="2" width="170" height="10" rx="5" fill="#E2E8F0"/>
+      <rect x="200" y="2" width="162" height="10" rx="5" fill="url(#light-bar-emerald)"/>
+      <text x="380" y="11" fill="#059669" font-family="ui-monospace,monospace" font-size="11" font-weight="700">95%</text>
+    </g>
+
+    <g transform="translate(24, 80)">
+      <text x="0" y="12" font-size="12">⚡</text>
+      <text x="22" y="12" fill="#0F172A" font-family="Inter, sans-serif" font-size="11" font-weight="700">Full-Stack SaaS (Next.js/React/Go)</text>
+      <rect x="200" y="2" width="170" height="10" rx="5" fill="#E2E8F0"/>
+      <rect x="200" y="2" width="160" height="10" rx="5" fill="url(#light-bar-emerald)"/>
+      <text x="380" y="11" fill="#059669" font-family="ui-monospace,monospace" font-size="11" font-weight="700">94%</text>
+    </g>
+
+    <g transform="translate(24, 112)">
+      <text x="0" y="12" font-size="12">🔐</text>
+      <text x="22" y="12" fill="#0F172A" font-family="Inter, sans-serif" font-size="11" font-weight="700">Zero-Trust &amp; Multi-Role RBAC</text>
+      <rect x="200" y="2" width="170" height="10" rx="5" fill="#E2E8F0"/>
+      <rect x="200" y="2" width="156" height="10" rx="5" fill="url(#light-bar-emerald)"/>
+      <text x="380" y="11" fill="#059669" font-family="ui-monospace,monospace" font-size="11" font-weight="700">92%</text>
+    </g>
+
+    <g transform="translate(24, 144)">
+      <text x="0" y="12" font-size="12">🏛️</text>
+      <text x="22" y="12" fill="#0F172A" font-family="Inter, sans-serif" font-size="11" font-weight="700">Academic &amp; Enterprise ERPs</text>
+      <rect x="200" y="2" width="170" height="10" rx="5" fill="#E2E8F0"/>
+      <rect x="200" y="2" width="167" height="10" rx="5" fill="url(#light-bar-emerald)"/>
+      <text x="380" y="11" fill="#059669" font-family="ui-monospace,monospace" font-size="11" font-weight="700">98%</text>
+    </g>
+
+    <g transform="translate(24, 176)">
+      <text x="0" y="12" font-size="12">🛰️</text>
+      <text x="22" y="12" fill="#0F172A" font-family="Inter, sans-serif" font-size="11" font-weight="700">Geospatial &amp; Graph Analytics</text>
+      <rect x="200" y="2" width="170" height="10" rx="5" fill="#E2E8F0"/>
+      <rect x="200" y="2" width="150" height="10" rx="5" fill="url(#light-bar-emerald)"/>
+      <text x="380" y="11" fill="#059669" font-family="ui-monospace,monospace" font-size="11" font-weight="700">88%</text>
+    </g>
+
+    <g transform="translate(24, 208)">
+      <text x="0" y="12" font-size="12">📈</text>
+      <text x="22" y="12" fill="#0F172A" font-family="Inter, sans-serif" font-size="11" font-weight="700">Venture Finance &amp; Strategy (CFO)</text>
+      <rect x="200" y="2" width="170" height="10" rx="5" fill="#E2E8F0"/>
+      <rect x="200" y="2" width="155" height="10" rx="5" fill="url(#light-bar-emerald)"/>
+      <text x="380" y="11" fill="#059669" font-family="ui-monospace,monospace" font-size="11" font-weight="700">91%</text>
+    </g>
+  </g>
+
+  <!-- Right Column: Tooling & Methodologies (440w) -->
+  <g transform="translate(468, 16)">
+    <rect width="436" height="248" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+    <text x="24" y="30" fill="#0284C7" font-family="Space Grotesk, Inter, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">🛠️ PRODUCTION STACK // METHODOLOGY</text>
+    <path d="M 24 38 L 412 38" stroke="#E2E8F0"/>
+
+    <g transform="translate(24, 52)">
+      <text x="0" y="0" fill="#64748B" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">SECURITY SUITE</text>
+      <text x="0" y="18" fill="#0F172A" font-family="Inter, sans-serif" font-size="12.5" font-weight="600">Burp Suite · Metasploit · Wireshark · Splunk · Nmap · Kali</text>
+    </g>
+
+    <g transform="translate(24, 102)">
+      <text x="0" y="0" fill="#64748B" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">FULL-STACK &amp; RUNTIMES</text>
+      <text x="0" y="18" fill="#0F172A" font-family="Inter, sans-serif" font-size="12.5" font-weight="600">React 19 · Next.js 15 · TypeScript · Go · Python · Node.js</text>
+    </g>
+
+    <g transform="translate(24, 152)">
+      <text x="0" y="0" fill="#64748B" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">DATA &amp; INFRASTRUCTURE</text>
+      <text x="0" y="18" fill="#0F172A" font-family="Inter, sans-serif" font-size="12.5" font-weight="600">PostgreSQL · Supabase · Firebase · Docker · Vercel · CI/CD</text>
+    </g>
+
+    <g transform="translate(24, 202)">
+      <text x="0" y="0" fill="#64748B" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700">GEOSPATIAL &amp; AUTOMATION</text>
+      <text x="0" y="18" fill="#0F172A" font-family="Inter, sans-serif" font-size="12.5" font-weight="600">OSMnx · NetworkX · GeoPandas · Web Workers · WASM</text>
+    </g>
+  </g>
+</svg>

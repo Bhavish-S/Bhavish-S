@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+<title id="title">Bhavish S cybersecurity profile footer</title>
+<desc id="desc">Editorial white cybersecurity quotation banner.</desc>
+<defs>
+  <linearGradient id="line-light" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#059669" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#059669"/>
+    <stop offset="100%" stop-color="#0284C7" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="170" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<path d="M 30 24 H 1170" stroke="#E2E8F0" stroke-width="1"/>
+<path d="M 30 24 H 260" stroke="url(#line-light)" stroke-width="3"/>
+
+<g fill="none" stroke="#059669" stroke-opacity=".08">
+  <path d="M0 125Q180 70 360 125T720 125T1080 125T1440 125"/>
+  <path d="M0 137Q180 82 360 137T720 137T1080 137T1440 137"/>
+</g>
+
+<text x="600" y="78" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#0F172A" text-anchor="middle">Security is not a product, but a process.</text>
+<text x="600" y="106" font-family="Inter, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#059669" text-anchor="middle">— Bruce Schneier</text>
+<text x="600" y="148" font-family="ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="3" text-anchor="middle">BHAVISH S // HACK THE PLANET — LEGALLY</text>
+</svg>
