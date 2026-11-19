@@ -6,41 +6,42 @@
     .meta { font-size: 11px; letter-spacing: .5px; font-weight: 600; }
   </style>
 
+  <rect width="1000" height="595" rx="14" fill="#07131B" stroke="#13303D" stroke-width="1.2"/>
+
   <g class="mono">
     <g transform="translate(0 15)">
-      <text class="title" fill="#0F172A" x="48" y="24">01 / NODUE PORTAL</text>
-      <text class="copy" fill="#475569" x="48" y="48">Student NOC clearance and workflow automation system with multi-department sign-offs.</text>
-      <text class="copy" fill="#475569" x="48" y="68">Eliminates campus administrative delays with role-based authorization and cryptographic audit logs.</text>
-      <text class="meta" fill="#059669" x="48" y="88">REACT · TYPESCRIPT · NODE.JS · FIREBASE // DEPLOYED</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#CBD5E1" stroke-width="1" opacity=".6"/>
+      <text class="title" fill="#F1F5F9" x="48" y="24">01 / UNICONV [SAAS FILE CONVERTER]</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="48">Universal browser-based file conversion platform with client-side WebAssembly processing.</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="68">Eliminates cloud data leakage with zero server telemetry and 256-bit AES encryption.</text>
+      <text class="meta" fill="#00E5A8" x="48" y="88">NEXT.JS 14 · TYPESCRIPT · TAILWIND CSS · WASM // PRODUCTION</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
     </g>
     <g transform="translate(0 130)">
-      <text class="title" fill="#0F172A" x="48" y="24">02 / BUDGET ALLOCATOR</text>
-      <text class="copy" fill="#475569" x="48" y="48">Algorithmic expense distribution and intelligent financial planning engine.</text>
-      <text class="copy" fill="#475569" x="48" y="68">Provides predictive spending models, dynamic budget adjustments, and interactive telemetry dashboards.</text>
-      <text class="meta" fill="#059669" x="48" y="88">PYTHON · JAVASCRIPT · TAILWIND CSS · CHARTS // DEPLOYED</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#CBD5E1" stroke-width="1" opacity=".6"/>
+      <text class="title" fill="#F1F5F9" x="48" y="24">02 / NOC CLEARANCE PORTAL</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="48">Student NOC clearance and workflow automation system with multi-department sign-offs.</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="68">Eliminates campus administrative delays with role-based authorization and cryptographic audit logs.</text>
+      <text class="meta" fill="#00E5A8" x="48" y="88">REACT · NODE.JS · FIREBASE · RBAC // DEPLOYED CAMPUS-WIDE</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
     </g>
     <g transform="translate(0 245)">
-      <text class="title" fill="#0F172A" x="48" y="24">03 / ROUTE RESILIENCE</text>
-      <text class="copy" fill="#475569" x="48" y="48">Fault-tolerant network routing simulation modeling topology resilience under adversarial node failure.</text>
-      <text class="copy" fill="#475569" x="48" y="68">Evaluates packet delivery ratios, automated rerouting convergence, and vulnerability bottlenecks.</text>
-      <text class="meta" fill="#059669" x="48" y="88">PYTHON · NETWORKX · GRAPH SIMULATION // DEPLOYED</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#CBD5E1" stroke-width="1" opacity=".6"/>
+      <text class="title" fill="#F1F5F9" x="48" y="24">03 / ACADOPS ERP CLIENT</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="48">Governance-first academic management and examination control system.</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="68">Designed with a 10-role permission hierarchy, separation of duties, and audit logging.</text>
+      <text class="meta" fill="#00E5A8" x="48" y="88">REACT 18 · TAILWIND · VITE · SUPABASE // PRODUCTION</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
     </g>
     <g transform="translate(0 360)">
-      <text class="title" fill="#0F172A" x="48" y="24">04 / NOVIC EVENTS</text>
-      <text class="copy" fill="#475569" x="48" y="48">Campus event ticketing platform featuring cryptographic QR pass validation and live check-in telemetry.</text>
-      <text class="copy" fill="#475569" x="48" y="68">Prevents ticket tampering, tracks attendee flow in real time, and streamlines organizer operations.</text>
-      <text class="meta" fill="#059669" x="48" y="88">REACT · NODE.JS · EXPRESS · MONGODB // DEPLOYED</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#CBD5E1" stroke-width="1" opacity=".6"/>
+      <text class="title" fill="#F1F5F9" x="48" y="24">04 / MITM PLACEPRO</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="48">Autonomous campus placement management and recruitment workflow automation.</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="68">Automates company drives, student eligibility filtering, and real-time interview telemetry.</text>
+      <text class="meta" fill="#00E5A8" x="48" y="88">TYPESCRIPT · REACT · POSTGRESQL · TAILWIND // DEPLOYED</text>
+      <line x1="48" y1="104" x2="952" y2="104" stroke="#1E3A47" stroke-width="1" opacity=".6"/>
     </g>
     <g transform="translate(0 475)">
-      <text class="title" fill="#0F172A" x="48" y="24">05 / TACTICAL LAB MATRIX</text>
-      <text class="copy" fill="#475569" x="48" y="48">Interactive gamified cybersecurity training arena and simulation game with live cyber defense challenges.</text>
-      <text class="copy" fill="#475569" x="48" y="68">Tests defensive countermeasures, privilege awareness, and rapid incident response in a game loop.</text>
-      <text class="meta" fill="#059669" x="48" y="88">TYPESCRIPT · THREE.JS · BROWSER CANVAS · CYBERSEC // DEPLOYED</text>
-      <line x1="48" y1="104" x2="952" y2="104" stroke="#CBD5E1" stroke-width="1" opacity=".6"/>
+      <text class="title" fill="#F1F5F9" x="48" y="24">05 / ROUTE RESILIENCE [ISRO BAH 2026]</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="48">Critical infrastructure network resilience modeling using satellite &amp; geospatial data.</text>
+      <text class="copy" fill="#CBD5E1" x="48" y="68">Calculates road network vulnerability and suggests resilient routing during extreme weather disruptions.</text>
+      <text class="meta" fill="#00E5A8" x="48" y="88">PYTHON · OSMNX · NETWORKX · GEOPANDAS // COMPETITION FINALIST</text>
     </g>
   </g>
 </svg>

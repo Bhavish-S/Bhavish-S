@@ -25,12 +25,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s01.svg" />
-  <img src="./assets/editorial/s01.svg" width="100%" alt="01 — WHOAMI" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/whoami.dark.svg" />
-  <img src="./assets/editorial/whoami.light.svg" width="100%" alt="About Bhavish S" />
+  <img src="./assets/editorial/s01.svg" width="100%" alt="01 — WHOAMI // EXECUTIVE SUMMARY" />
 </picture>
 
 <div align="center">
@@ -40,30 +35,19 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     02 // VENTURE STUDIO (YVB&CO)
+     02 // VENTURE STUDIO & PRODUCTION SYSTEMS
      ══════════════════════════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s02.svg" />
+  <img src="./assets/editorial/s02.svg" width="100%" alt="02 — VENTURE STUDIO &amp; PRODUCTION SYSTEMS" />
+</picture>
 
 <div align="center">
   <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/dashboard/studio-yvb.svg" width="100%" alt="YVB&amp;Co Software Studio — Engineer Your Vision" />
   </a>
 </div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════
-     03 // VERIFIED PRODUCTION PROJECTS
-     ══════════════════════════════════════════════════════════════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s02.svg" />
-  <img src="./assets/editorial/s02.svg" width="100%" alt="02 — PROJECTS" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/projects.dark.svg" />
-  <img src="./assets/editorial/projects.light.svg" width="100%" alt="Featured Projects Manifest" />
-</picture>
 
 <br/>
 
@@ -218,24 +202,40 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     06 // ACHIEVEMENTS & CERTIFICATIONS
+     05 // ACHIEVEMENTS & CERTIFICATIONS
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s05.svg" />
-  <img src="./assets/editorial/s05.svg" width="100%" alt="05 — ACHIEVEMENTS" />
+  <img src="./assets/editorial/s05.svg" width="100%" alt="05 — VERIFIED CREDENTIALS &amp; ACHIEVEMENTS" />
 </picture>
 
 <div align="center">
-  <img src="./assets/dashboard/achievements.svg" width="100%" alt="GitHub Achievements: YOLO, Pair Extraordinaire x2, Pull Shark x2, Quickdraw, Galaxy Brain x2" />
+  <img src="./assets/dashboard/achievements.svg" width="100%" alt="GitHub Achievements: Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, Galaxy Brain" />
+  
   <br/><br/>
+
+  <p align="center">
+    <a href="https://github.com/Bhavish-S?achievement=quickdraw&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="72" alt="Achievement: Quickdraw" /></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Bhavish-S?achievement=yolo&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="72" alt="Achievement: YOLO" /></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" alt="Achievement: Pull Shark" /></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e96a4e32049e.png" width="72" alt="Achievement: Pair Extraordinaire" /></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/galaxy-brain-default-39f92471253a.png" width="72" alt="Achievement: Galaxy Brain" /></a>
+  </p>
+
+  <br/>
+
   <img src="./assets/dashboard/certifications.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     07 // CONNECT & FOOTER
+     06 // CONNECT & FOOTER
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
