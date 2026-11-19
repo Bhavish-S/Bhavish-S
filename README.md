@@ -2,18 +2,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/header.dark.svg" />
-  <img src="./assets/editorial/header.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist & Automation Engineer" />
+  <img src="./assets/editorial/header.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer &amp; CFO at YVB&amp;Co" />
 </picture>
 
 <br/>
 
-<a href="https://bhavish-s.github.io/Bhavish-S/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-07131B?style=flat-square&logo=safari&logoColor=00E5A8"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=safari&logoColor=059669" alt="Portfolio"/></picture></a>
-<a href="https://bhavish-s.github.io/Bhavish-S/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-ffffff?style=flat-square" alt="Resume"/></picture></a>
+<a href="https://iambhavishs.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-07131B?style=flat-square&logo=safari&logoColor=00E5A8"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=safari&logoColor=059669" alt="Live Portfolio"/></picture></a>
+<a href="https://iambhavishs.vercel.app/assets/Bhavish_S_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-ffffff?style=flat-square" alt="Download Resume"/></picture></a>
+<a href="https://yvb-co.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STUDIO-07131B?style=flat-square&logo=vercel&logoColor=F59E0B"/><img src="https://img.shields.io/badge/STUDIO-ffffff?style=flat-square&logo=vercel&logoColor=F59E0B" alt="YVB&amp;Co Studio"/></picture></a>
 <a href="https://www.linkedin.com/in/bhavish-s-/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-07131B?style=flat-square&logo=linkedin&logoColor=38BDF8"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=0284C7" alt="LinkedIn"/></picture></a>
-<a href="mailto:bhavishgowda2006@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-07131B?style=flat-square&logo=gmail&logoColor=00E5A8"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=059669" alt="Email"/></picture></a>
-<a href="https://www.instagram.com/bhavish.s_/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-07131B?style=flat-square&logo=instagram&logoColor=E1306C"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=E1306C" alt="Instagram"/></picture></a>
-<a href="https://discord.gg/QvrjjptH2a"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DISCORD-07131B?style=flat-square&logo=discord&logoColor=5865F2"/><img src="https://img.shields.io/badge/DISCORD-ffffff?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord"/></picture></a>
-<a href="https://bhavish-s.github.io/Bhavish-S/game/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8E%AE%20TACTICAL%20LAB-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20TACTICAL%20LAB-ffffff?style=flat-square" alt="Tactical Lab"/></picture></a>
+<a href="mailto:x.bhavish.s@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-07131B?style=flat-square&logo=gmail&logoColor=00E5A8"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=059669" alt="Email"/></picture></a>
+<a href="https://www.instagram.com/bhavish_s_/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-07131B?style=flat-square&logo=instagram&logoColor=E1306C"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=E1306C" alt="Instagram"/></picture></a>
 <a href="https://github.com/Bhavish-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=00E5A8&labelColor=07131B&label=PROFILE+VIEWS"/><img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="Profile Views"/></picture></a>
 
 </div>
@@ -21,7 +20,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     01 // WHOAMI
+     01 // WHOAMI & EXECUTIVE DOSSIER
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -35,13 +34,25 @@
 </picture>
 
 <div align="center">
-  <img src="./assets/dashboard/about-terminal.svg" width="100%" alt="Interactive Terminal Dossier: whoami, focus, role, and hacker silhouette" />
+  <img src="./assets/dashboard/about-terminal.svg" width="100%" alt="Interactive Terminal Dossier: whoami, focus, role, and verified credentials" />
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     02 // PROJECTS
+     02 // VENTURE STUDIO (YVB&CO)
+     ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/dashboard/studio-yvb.svg" width="100%" alt="YVB&amp;Co Software Studio — Engineer Your Vision" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     03 // VERIFIED PRODUCTION PROJECTS
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -59,43 +70,38 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Bhavish-S/noc"><img src="./assets/project-nodue-portal.svg" width="100%" alt="NoDue Portal — Student NOC Clearance System" /></a>
+  <a href="https://uniconv-psi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-uniconv.svg" width="100%" alt="UniConv — Browser-Based Universal File Converter" /></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Bhavish-S/budget-allocator"><img src="./assets/project-budget-allocator.svg" width="100%" alt="Budget Allocator — Intelligent Financial Planning" /></a>
+  <a href="https://noc-portal-self.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-nodue-portal.svg" width="100%" alt="NOC Portal — Student No-Due Clearance Management System" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Bhavish-S/Route_Resilience"><img src="./assets/project-route-resilience.svg" width="100%" alt="Route Resilience — Fault-Tolerant Routing Simulator" /></a>
+  <a href="https://erp-client-9lbk.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-erp-client.svg" width="100%" alt="AcadOps ERP Client — Academic Governance &amp; RBAC Operations" /></a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Bhavish-S/Novic-Events"><img src="./assets/project-novic-events.svg" width="100%" alt="Novic Events — Event & Ticketing Platform" /></a>
+  <a href="https://mitm-placepro.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-placepro.svg" width="100%" alt="MITM PlacePro — Campus Placement Management System" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://bhavish-s.github.io/Bhavish-S/game/"><img src="./assets/project-tactical-lab.svg" width="100%" alt="Tactical Lab — Gamified Cybersecurity Training Matrix" /></a>
+  <a href="https://mitm-rd.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/project-jnanashodha.svg" width="100%" alt="Jnanashodha — Research Admissions &amp; Ph.D Lifecycle Portal" /></a>
 </td>
-<td width="50%" valign="middle">
-
-<div align="center">
-
-### 🌱 More Repositories
-Offensive security scripts, penetration testing suites, workflow automation, and cloud defense pipelines.
-
-[**Browse all repositories →**](https://github.com/Bhavish-S?tab=repositories)
-
-</div>
-
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/Route_Resilience" target="_blank" rel="noopener noreferrer"><img src="./assets/project-route-resilience.svg" width="100%" alt="Route Resilience — ISRO BAH 2026 Satellite Road Network Resilience" /></a>
 </td>
 </tr>
 </table>
 
+<div align="center">
+<sub>All projects deployed in production or active institutional operation. Visit <a href="https://iambhavishs.vercel.app/">iambhavishs.vercel.app</a> for architecture breakdowns.</sub>
+</div>
+
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     03 // TELEMETRY (3D GRAPH AT THE TOP WITH CYBER THEME)
+     04 // TELEMETRY & LIVE ACTIVITY (3D CITY GRAPH AT TOP)
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -144,19 +150,19 @@ Offensive security scripts, penetration testing suites, workflow automation, and
 <br/><br/>
 
 <!-- SKILLS PROFICIENCY PROGRESS BARS -->
-<img src="./assets/dashboard/skills-stack.svg" width="100%" alt="Skills Proficiency & Technical Focus" />
+<img src="./assets/dashboard/skills-stack.svg" width="100%" alt="Skills Proficiency &amp; Technical Capabilities" />
 
 <br/><br/>
 
 <!-- SPECIALIZATION FOCUS PILLS -->
-<img src="./assets/dashboard/interests-bar.svg" width="100%" alt="Specialization Interests: Threat Detection, Automation, DevSecOps, IaC, Open Source, AI Security" />
+<img src="./assets/dashboard/interests-bar.svg" width="100%" alt="Specialization Interests: SIEM &amp; SOC Defense, Penetration Testing, Zero-Trust &amp; RBAC, Enterprise ERPs, Geospatial Analytics, YVB&amp;Co Studio" />
 
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     04 // STACK
+     05 // TECHNICAL ARSENAL
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -166,83 +172,43 @@ Offensive security scripts, penetration testing suites, workflow automation, and
 
 <div align="center">
 
+<!-- Row 1: Languages & Scripting -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/burp-suite.dark.svg" />
-    <img src="./assets/badges/burp-suite.light.svg" alt="Burp Suite" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/metasploit.dark.svg" />
-    <img src="./assets/badges/metasploit.light.svg" alt="Metasploit" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/wireshark.dark.svg" />
-    <img src="./assets/badges/wireshark.light.svg" alt="Wireshark" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/kalilinux.dark.svg" />
-    <img src="./assets/badges/kalilinux.light.svg" alt="Kali Linux" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/splunk.dark.svg" />
-    <img src="./assets/badges/splunk.light.svg" alt="Splunk" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linux.dark.svg" />
-    <img src="./assets/badges/linux.light.svg" alt="Linux" height="30" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/python.dark.svg" /><img src="./assets/badges/python.light.svg" alt="Python" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/go.dark.svg" /><img src="./assets/badges/go.light.svg" alt="Go" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/typescript.dark.svg" /><img src="./assets/badges/typescript.light.svg" alt="TypeScript" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/javascript.dark.svg" /><img src="./assets/badges/javascript.light.svg" alt="JavaScript" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/bash.dark.svg" /><img src="./assets/badges/bash.light.svg" alt="Bash" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linux.dark.svg" /><img src="./assets/badges/linux.light.svg" alt="Linux" height="30" /></picture>
 </p>
+
+<!-- Row 2: Offensive Security & SOC -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/python.dark.svg" />
-    <img src="./assets/badges/python.light.svg" alt="Python" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/bash.dark.svg" />
-    <img src="./assets/badges/bash.light.svg" alt="Bash" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/typescript.dark.svg" />
-    <img src="./assets/badges/typescript.light.svg" alt="TypeScript" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/javascript.dark.svg" />
-    <img src="./assets/badges/javascript.light.svg" alt="JavaScript" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/go.dark.svg" />
-    <img src="./assets/badges/go.light.svg" alt="Go" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/c.dark.svg" />
-    <img src="./assets/badges/c.light.svg" alt="C" height="30" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/burp-suite.dark.svg" /><img src="./assets/badges/burp-suite.light.svg" alt="Burp Suite" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/metasploit.dark.svg" /><img src="./assets/badges/metasploit.light.svg" alt="Metasploit" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/wireshark.dark.svg" /><img src="./assets/badges/wireshark.light.svg" alt="Wireshark" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/kalilinux.dark.svg" /><img src="./assets/badges/kalilinux.light.svg" alt="Kali Linux" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/splunk.dark.svg" /><img src="./assets/badges/splunk.light.svg" alt="Splunk" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/nmap.dark.svg" /><img src="./assets/badges/nmap.light.svg" alt="Nmap" height="30" /></picture>
 </p>
+
+<!-- Row 3: Modern Web & Frameworks -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/docker.dark.svg" />
-    <img src="./assets/badges/docker.light.svg" alt="Docker" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/kubernetes.dark.svg" />
-    <img src="./assets/badges/kubernetes.light.svg" alt="Kubernetes" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/git.dark.svg" />
-    <img src="./assets/badges/git.light.svg" alt="Git" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/github-actions.dark.svg" />
-    <img src="./assets/badges/github-actions.light.svg" alt="GitHub Actions" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/firebase.dark.svg" />
-    <img src="./assets/badges/firebase.light.svg" alt="Firebase" height="30" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/react.dark.svg" />
-    <img src="./assets/badges/react.light.svg" alt="React" height="30" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/react.dark.svg" /><img src="./assets/badges/react.light.svg" alt="React" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/next-js.dark.svg" /><img src="./assets/badges/next-js.light.svg" alt="Next.js" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/express.dark.svg" /><img src="./assets/badges/express.light.svg" alt="Express" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/tailwind.dark.svg" /><img src="./assets/badges/tailwind.light.svg" alt="Tailwind CSS" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/vite.dark.svg" /><img src="./assets/badges/vite.light.svg" alt="Vite" height="30" /></picture>
+</p>
+
+<!-- Row 4: Databases, Cloud & DevOps -->
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/postgresql.dark.svg" /><img src="./assets/badges/postgresql.light.svg" alt="PostgreSQL" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/supabase.dark.svg" /><img src="./assets/badges/supabase.light.svg" alt="Supabase" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/vercel.dark.svg" /><img src="./assets/badges/vercel.light.svg" alt="Vercel" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/docker.dark.svg" /><img src="./assets/badges/docker.light.svg" alt="Docker" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/git.dark.svg" /><img src="./assets/badges/git.light.svg" alt="Git" height="30" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/github-actions.dark.svg" /><img src="./assets/badges/github-actions.light.svg" alt="GitHub Actions" height="30" /></picture>
 </p>
 
 </div>
@@ -252,7 +218,7 @@ Offensive security scripts, penetration testing suites, workflow automation, and
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     05 // ACHIEVEMENTS & CERTIFICATIONS
+     06 // ACHIEVEMENTS & CERTIFICATIONS
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -261,15 +227,15 @@ Offensive security scripts, penetration testing suites, workflow automation, and
 </picture>
 
 <div align="center">
-  <img src="./assets/dashboard/achievements.svg" width="100%" alt="GitHub Achievements: YOLO, Pair Extraordinaire, Pull Shark, Quickdraw, Galaxy Brain" />
+  <img src="./assets/dashboard/achievements.svg" width="100%" alt="GitHub Achievements: YOLO, Pair Extraordinaire x2, Pull Shark x2, Quickdraw, Galaxy Brain x2" />
   <br/><br/>
-  <img src="./assets/dashboard/certifications.svg" width="100%" alt="Certifications & Credentials" />
+  <img src="./assets/dashboard/certifications.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
 </div>
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     06 // CONNECT & FOOTER
+     07 // CONNECT & FOOTER
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -280,11 +246,11 @@ Offensive security scripts, penetration testing suites, workflow automation, and
 <div align="center">
 
 <p>
-  <a href="https://www.instagram.com/bhavish.s_/"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish.s_" /></a>
-  <a href="https://www.linkedin.com/in/bhavish-s-/"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
-  <a href="https://bhavish-s.github.io/Bhavish-S/"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio" /></a>
-  <a href="mailto:bhavishgowda2006@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email" /></a>
-  <a href="https://discord.gg/QvrjjptH2a"><img src="./assets/social-discord.svg" height="44" alt="Discord" /></a>
+  <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio iambhavishs.vercel.app" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
+  <a href="mailto:x.bhavish.s@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email x.bhavish.s@gmail.com" /></a>
+  <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish_s_" /></a>
+  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-snake-ladder.svg" height="44" alt="YVB&amp;Co Studio" /></a>
 </p>
 
 <img src="./assets/profile-footer.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
@@ -298,21 +264,4 @@ Offensive security scripts, penetration testing suites, workflow automation, and
 
 ### ⚡ Portfolio Web Application
 
-This repository also houses the production source code for **Bhavish's Interactive Portfolio Web Application**, built with **React 19**, **Vite 8**, **Tailwind CSS v4**, **Three.js**, and **Framer Motion**.
-
-#### Quickstart & Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/Bhavish-S/Bhavish-S.git
-cd Bhavish-S
-
-# Install dependencies
-npm install
-
-# Start local development server
-npm run dev
-
-# Typecheck and build for production
-npm run build
-```
+This repository also houses the production source code for **Bhavish's Interactive Portfolio Web Application**, live at **[iambhavishs.vercel.app](https://iambhavishs.vercel.app/)**, built with **React 19**, **Vite 8**, **Tailwind CSS v4**, and **Framer Motion**.
