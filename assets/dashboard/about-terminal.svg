@@ -31,14 +31,14 @@
     <text x="24" y="68" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400">Google-certified cybersecurity engineer &amp; CS student at</text>
     <text x="24" y="86" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400">Maharaja Institute of Technology, Mysore. Specializing in</text>
     <text x="24" y="104" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400">SIEM log correlation, penetration testing, and enterprise SaaS.</text>
-    <text x="24" y="122" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400">Serving as CFO &amp; CRO at YVB&amp;Co, a 6-person tech studio.</text>
+    <text x="24" y="122" fill="#F1F5F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400">Serving as CFO, CRO &amp; Security Lead at Vovalyx (vovalyx.in).</text>
 
     <!-- Checklist -->
     <g transform="translate(24, 142)" font-family="Inter, Arial, sans-serif" font-size="11.5" fill="#94A3B8">
       <text x="0" y="14"><tspan fill="#00E5A8">☑</tspan>  <tspan fill="#F1F5F9" font-weight="600">Google Cybersecurity Pro</tspan> (Verified Feb 2026)</text>
       <text x="0" y="34"><tspan fill="#00E5A8">☑</tspan>  <tspan fill="#F1F5F9" font-weight="600">MIT Mysore Appreciation Letter</tspan> (Ref: MITM/2026/128)</text>
       <text x="0" y="54"><tspan fill="#00E5A8">☑</tspan>  <tspan fill="#F1F5F9" font-weight="600">ISRO BAH 2026</tspan> — Satellite Road Resilience Platform</text>
-      <text x="0" y="74"><tspan fill="#00E5A8">☑</tspan>  <tspan fill="#F1F5F9" font-weight="600">CFO &amp; CRO @ YVB&amp;Co</tspan> — Independent Studio &amp; Enterprise ERPs</text>
+      <text x="0" y="74"><tspan fill="#00E5A8">☑</tspan>  <tspan fill="#F1F5F9" font-weight="600">CFO, CRO &amp; Security Lead @ Vovalyx</tspan> — Custom Software Studio &amp; Enterprise ERPs</text>
       <text x="0" y="94"><tspan fill="#00E5A8">☑</tspan>  <tspan fill="#F1F5F9" font-weight="600">UniConv &amp; NOC Portal</tspan> — Digitizing Real Institutional Workflows</text>
     </g>
   </g>
@@ -65,11 +65,11 @@
       <text x="0" y="18" fill="#00E5A8">&gt; bhavish@mitm-node:~$ <tspan fill="#FFFFFF">cat dossier.json</tspan></text>
       <text x="0" y="42" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">identity</tspan>   : Bhavish S</text>
       <text x="0" y="64" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">education</tspan>  : B.E. CSE @ MIT Mysore (VTU)</text>
-      <text x="0" y="86" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">studio</tspan>     : CFO &amp; CRO @ YVB&amp;Co (yvb-co.vercel.app)</text>
+      <text x="0" y="86" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">studio</tspan>     : CFO, CRO &amp; Security Lead @ Vovalyx (vovalyx.in)</text>
       <text x="0" y="108" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">focus</tspan>      : SIEM, Pentest, SOC, Zero-Trust RBAC</text>
       <text x="0" y="130" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">portfolio</tspan>  : iambhavishs.vercel.app</text>
       <text x="0" y="152" fill="#94A3B8">&#x2022; <tspan fill="#F1F5F9" font-weight="600">status</tspan>     : <tspan fill="#00E5A8">Active // Building enterprise security</tspan> <tspan fill="#38BDF8">&#x2588;</tspan></text>
-      <text x="0" y="182" fill="#38BDF8">&#x250C;&#x2500; [ HARDENED NODE // VTU &amp; YVB-CO ] &#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;</text>
+      <text x="0" y="182" fill="#38BDF8">&#x250C;&#x2500; [ HARDENED NODE // VTU &amp; VOVALYX ] &#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2510;</text>
       <text x="0" y="202" fill="#64748B">&#x2514;&#x2500; Verified Certificate: Coursera I4I0BFTGQ6G2 &#x2500;&#x2500;&#x2518;</text>
     </g>
   </g>

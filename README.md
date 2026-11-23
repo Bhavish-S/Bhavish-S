@@ -6,14 +6,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/header.dark.svg" />
-  <img src="./assets/editorial/header.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer & CFO at YVB&Co" />
+  <img src="./assets/editorial/header.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer & CFO, CRO & Security Lead at Vovalyx" />
 </picture>
 
 <br/>
 
 <!-- DYNAMIC TYPING TAGLINE -->
 <a href="https://iambhavishs.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00E5A8&center=true&vCenter=true&width=840&height=50&lines=SECURITY+MINDED.+BUILDER+BY+DESIGN.;ETHICAL+HACKING+%7C+SOC+%7C+SIEM+%7C+ENTERPRISE+SaaS;BREAK+IT+TO+UNDERSTAND+IT.+THEN+SECURE+IT." alt="Animated Profile Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00E5A8&center=true&vCenter=true&width=840&height=50&lines=SECURITY+MINDED.+BUILDER+BY+DESIGN.;CFO%2C+CRO+%26+SECURITY+LEAD+%40+VOVALYX+(VOVALYX.IN);ETHICAL+HACKING+%7C+SOC+%7C+SIEM+%7C+ENTERPRISE+SaaS;BREAK+IT+TO+UNDERSTAND+IT.+THEN+SECURE+IT." alt="Animated Profile Tagline" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
   &nbsp;
   <a href="https://iambhavishs.vercel.app/assets/Bhavish_S_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-ffffff?style=flat-square" alt="Download Resume"/></picture></a>
   &nbsp;
-  <a href="https://yvb-co.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8F%A2%20STUDIO-07131B?style=flat-square&logo=vercel&logoColor=F59E0B"/><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20STUDIO-ffffff?style=flat-square&logo=vercel&logoColor=F59E0B" alt="YVB&Co Studio"/></picture></a>
+  <a href="https://vovalyx.in/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8F%A2%20VOVALYX.IN-07131B?style=flat-square&logo=vercel&logoColor=F59E0B"/><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20VOVALYX.IN-ffffff?style=flat-square&logo=vercel&logoColor=F59E0B" alt="Vovalyx Studio"/></picture></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/bhavish-s-/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-07131B?style=flat-square&logo=linkedin&logoColor=38BDF8"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=0284C7" alt="LinkedIn"/></picture></a>
   &nbsp;
@@ -48,11 +48,14 @@
   <img src="./assets/editorial/s01.light.svg" width="100%" alt="01 — WHOAMI // EXECUTIVE SUMMARY" />
 </picture>
 
-> **Bhavish S** is a Google-certified Cybersecurity Specialist, Full-Stack Systems Architect, and Computer Science & Engineering scholar at **Maharaja Institute of Technology, Mysore** (2023–2027). He serves as **CFO & CRO at YVB&Co**, an independent software engineering studio.
+> **Bhavish S** is a Google-certified Cybersecurity Specialist, Full-Stack Systems Architect, and Computer Science & Engineering scholar at **Maharaja Institute of Technology, Mysore** (2023–2027).
 > 
-> - 🛡️ **Defensive & Offensive Core**: SIEM log analytics, SOC incident triage, automated penetration testing, Zero-Trust RBAC.
+> He currently serves as **CFO, CRO & Security Lead at [Vovalyx](https://vovalyx.in/)** — a custom software development company in India building bespoke web apps, ERP systems, mobile apps, and automation around real business workflows.
+> 
+> - 🏛️ **Executive Leadership @ Vovalyx**: Directs financial architecture, risk governance, security posture, and strategic growth across enterprise client deliverables.
+> - 🛡️ **Defensive & Offensive Core**: SIEM log analytics, SOC incident triage, automated penetration testing, Zero-Trust RBAC, and threat hardening.
 > - 🚀 **Engineering Impact**: Architected and deployed campus-adopted ERP platforms recognized with an **Official Letter of Appreciation from the MITM Principal**, and placed as a finalist in the **ISRO Bharatiya Antariksh Hackathon 2026**.
-> - ⚡ **Production Deployments**: 10+ live platforms serving active institutional users across Mysore and Karnataka.
+> - ⚡ **Production Deployments**: 10+ live platforms serving active institutional and enterprise users worldwide.
 
 <div align="center">
   <picture>
@@ -81,25 +84,25 @@
 > - **2022 · First Commit**: Built core foundations in Linux systems programming, Python automation, and low-level networking.
 > - **2023 · B.E. CSE @ MIT Mysore**: Initiated formal computer science degree; began offensive cyber research and SIEM architecture.
 > - **2024 · SOC Operations & PenTesting**: Automated vulnerability assessments, security logging, and hands-on CTF reverse engineering.
-> - **2025 · Studio Leadership @ YVB&Co**: Co-founded software studio; built UniConv, MITM PlacePro, AcadOps ERP, and NOC Portal.
+> - **2025 · Executive Role @ Vovalyx**: Appointed CFO, CRO & Security Lead; co-developed UniConv, MITM PlacePro, AcadOps ERP, and NoDue Portal.
 > - **2026 · Institutional Honors**: Verified as Google Cybersecurity Professional, honored with MIT Mysore Principal's Letter of Appreciation, and named Finalist in ISRO Bharatiya Antariksh Hackathon.
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     03 // VENTURE STUDIO & FLAGSHIP SYSTEMS
+     03 // VOVALYX SOFTWARE STUDIO & PRODUCTION SYSTEMS
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s03.dark.svg" />
-  <img src="./assets/editorial/s03.light.svg" width="100%" alt="03 — VENTURE STUDIO &amp; PRODUCTION SYSTEMS" />
+  <img src="./assets/editorial/s03.light.svg" width="100%" alt="03 — VOVALYX &amp; PRODUCTION SYSTEMS" />
 </picture>
 
 <div align="center">
-  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/studio-yvb.dark.svg" />
-      <img src="./assets/dashboard/studio-yvb.light.svg" width="100%" alt="YVB&Co Software Studio — Engineer Your Vision" />
+      <img src="./assets/dashboard/studio-yvb.light.svg" width="100%" alt="Vovalyx — Custom Software Development Company" />
     </picture>
   </a>
 </div>
@@ -113,6 +116,8 @@
 
 <br/>
 
+### 🏢 Flagship Platforms Co-Engineered at [Vovalyx](https://vovalyx.in/)
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -123,8 +128,8 @@
     </picture>
   </a>
   <br/>
-  <b>⚡ <a href="https://uniconv-psi.vercel.app/">UniConv (SaaS)</a></b> · <code>Production</code><br/>
-  <sub>Universal client-side converter with 256-bit AES encryption & AI watermark removal.</sub>
+  <b>⚡ <a href="https://uniconv-psi.vercel.app/">UniConv (SaaS)</a></b> · <code>Production Live</code><br/>
+  <sub>Universal client-side converter with 256-bit AES encryption, AI watermark removal & zero server persistence.</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://noc-portal-self.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -134,8 +139,8 @@
     </picture>
   </a>
   <br/>
-  <b>🎓 <a href="https://noc-portal-self.vercel.app/">NOC Portal</a></b> · <code>Institutional</code><br/>
-  <sub>Campus-wide digital student clearance system replacing physical paper signatures at MITM.</sub>
+  <b>🎓 <a href="https://noc-portal-self.vercel.app/">NoDue Portal</a></b> · <code>Institutional Deployment</code><br/>
+  <sub>Campus-wide digital student clearance system replacing physical paper signatures across all MITM departments.</sub>
 </td>
 </tr>
 <tr>
@@ -147,8 +152,8 @@
     </picture>
   </a>
   <br/>
-  <b>🏛️ <a href="https://erp-client-9lbk.vercel.app/">AcadOps ERP</a></b> · <code>Enterprise</code><br/>
-  <sub>Academic governance suite with fine-grained RBAC, workload modeling & policy tracking.</sub>
+  <b>🏛️ <a href="https://erp-client-9lbk.vercel.app/">AcadOps ERP</a></b> · <code>Enterprise Production</code><br/>
+  <sub>Academic governance suite with fine-grained RBAC, faculty workload modeling & institutional policy tracking.</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://mitm-placepro.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -158,8 +163,8 @@
     </picture>
   </a>
   <br/>
-  <b>💼 <a href="https://mitm-placepro.vercel.app/">MITM PlacePro</a></b> · <code>Production</code><br/>
-  <sub>Automated campus placement drive management, student eligibility filtering & company metrics.</sub>
+  <b>💼 <a href="https://mitm-placepro.vercel.app/">MITM PlacePro</a></b> · <code>Campus Production</code><br/>
+  <sub>Automated campus placement drive management, student eligibility filtering & real-time hiring metrics.</sub>
 </td>
 </tr>
 <tr>
@@ -171,26 +176,49 @@
     </picture>
   </a>
   <br/>
-  <b>🔬 <a href="https://mitm-rd.vercel.app/">Jnanashodha</a></b> · <code>Institutional</code><br/>
-  <sub>VTU-affiliated research admissions, candidate tracking & doctoral lifecycle governance.</sub>
+  <b>🔬 <a href="https://mitm-rd.vercel.app/">MRF / Jnanashodha</a></b> · <code>Institutional Live</code><br/>
+  <sub>Maharaja Research Foundation doctoral admissions, candidate tracking & research thesis evaluation portal.</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Bhavish-S/Route_Resilience" target="_blank" rel="noopener noreferrer">
+  <a href="https://vovalyx.in/products.html" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-route-resilience.dark.svg" />
-      <img src="./assets/project-route-resilience.light.svg" width="100%" alt="Route Resilience — ISRO BAH 2026 Satellite Road Network Resilience" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-budget-allocator.svg" />
+      <img src="./assets/project-budget-allocator.svg" width="100%" alt="PetCommunity — Connect, Match &amp; Care" />
     </picture>
   </a>
   <br/>
-  <b>🛰️ <a href="https://github.com/Bhavish-S/Route_Resilience">Route Resilience</a></b> · <code>ISRO BAH Finalist</code><br/>
-  <sub>Satellite-derived road network flood resilience & emergency evacuation graph simulation.</sub>
+  <b>🐾 <a href="https://vovalyx.in/products.html">PetCommunity</a></b> · <code>Consumer Platform</code><br/>
+  <sub>Intelligent pet matchmaking platform, verified veterinary network, and Breed Lab genetics encyclopedia.</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>All systems running in active production or institutional deployment. Explore full architectures at <a href="https://iambhavishs.vercel.app/">iambhavishs.vercel.app</a>.</sub>
+<sub>Explore full client case studies and services at <a href="https://vovalyx.in/">vovalyx.in</a> and <a href="https://iambhavishs.vercel.app/">iambhavishs.vercel.app</a>.</sub>
 </div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     04 // ENGINEERED SYSTEMS & REPOSITORIES (ALL PROJECTS LINKED TO ACCOUNT)
+     ══════════════════════════════════════════════════════════════════════════════ -->
+
+### 🛠️ All Engineered Projects & Linked Repositories
+
+The following production repositories and software systems are built, contributed to, and maintained directly under [@Bhavish-S](https://github.com/Bhavish-S):
+
+| Project | Domain | Architecture & Technologies | Deployment / Status |
+| :--- | :--- | :--- | :--- |
+| **[Route Resilience](https://github.com/Bhavish-S/Route_Resilience)** | Satellite Analytics / GIS | Satellite road network flood vulnerability modeling, topological graph analysis & dynamic evacuation routing via `Python`, `GeoPandas`, `NetworkX`. | 🛰️ **ISRO BAH 2026 Finalist** |
+| **[Claim_Ai](https://github.com/Bhavish-S/Claim_Ai)** | InsurTech / AI Engine | Intelligent insurance claim triage, OCR document validation & automated policy anomaly detection using `TypeScript`, `Next.js`, `AI APIs`. | ⚡ **Active Repository** |
+| **[LeafCure](https://github.com/Bhavish-S/LeafCure)** | AgriTech / Computer Vision | Computer vision plant pathology diagnostic system identifying crop diseases with treatment recommendations via `JavaScript`, `Python`, `TensorFlow`. | 🌿 **Active Repository** |
+| **[Liltwise](https://github.com/Bhavish-S/Liltwise)** | AI Media Utility | Multi-modal text and audio synthesis engine designed for rapid content workflow automation via `TypeScript`, `React`, `AI APIs`. | 🎧 **Active Repository** |
+| **[Inklly](https://github.com/Bhavish-S/Inklly)** | Dev Publishing / CMS | High-speed technical blogging and markdown documentation platform built with `TypeScript`, `Tailwind CSS`, `Next.js`. | ✍️ **Active Repository** |
+| **[Budget Allocator](https://github.com/Bhavish-S/budget-allocator)** | FinTech / Analytics | Strategic financial modeling and resource allocation engine supporting zero-based budgeting simulations via `TypeScript`, `React`. | 💰 **Active Repository** |
+| **[Paws & Polish](https://github.com/Bhavish-S/paws-polish)** | Booking & Operations SaaS | Professional pet grooming management platform with automated booking, service schedules & notifications via `TypeScript`, `Tailwind CSS`. | 🐕 **Active Repository** |
+| **[SIEM Threat Defense](https://github.com/Bhavish-S)** | Offensive & SOC Security | Syslog correlation rules, alert threshold tuning, automated attack simulation, and incident triage using `Splunk`, `ELK`, `Python`, `Bash`. | 🛡️ **Security Core** |
+| **[Pentest Toolkit](https://github.com/Bhavish-S)** | Security Automation | Automated vulnerability scanning, network reconnaissance, port enumeration, and payload verification suite via `Python`, `Nmap`, `Burp Suite`. | ⚔️ **Security Core** |
+| **[Bhavish-S Portfolio](https://github.com/Bhavish-S/Bhavish-S)** | Web Architecture | Production codebase for the official interactive portfolio web app ([iambhavishs.vercel.app](https://iambhavishs.vercel.app/)) built with `React 19`, `Vite 8`, `Tailwind CSS v4`. | 🚀 **Live Production** |
 
 <br/>
 
@@ -363,7 +391,7 @@
   <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
   <a href="mailto:x.bhavish.s@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email x.bhavish.s@gmail.com" /></a>
   <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish_s_" /></a>
-  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-yvb.svg" height="44" alt="YVB&Co Studio" /></a>
+  <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-vovalyx.svg" height="44" alt="Vovalyx Studio vovalyx.in" /></a>
 </p>
 
 <picture>

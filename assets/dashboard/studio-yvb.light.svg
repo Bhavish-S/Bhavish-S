@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="150" viewBox="0 0 920 150" role="img" aria-labelledby="title">
-<title id="title">YVB&amp;Co Software Studio — Independent Technology Venture</title>
+<title id="title">Vovalyx — Custom Software Development Company</title>
 <defs>
   <pattern id="mesh-grid-studio-light" width="24" height="24" patternUnits="userSpaceOnUse">
     <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#F1F5F9" stroke-width="1"/>
@@ -19,7 +19,7 @@
   <text x="0" y="26" fill="#0F172A" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="22" font-weight="800">YVB&amp;Co Software Studio</text>
   <text x="0" y="52" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">Executive leadership as CFO &amp; Chief Revenue Officer. Engineering bespoke digital products,</text>
   <text x="0" y="72" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500">enterprise software systems, institutional ERPs, and resilient cloud architectures.</text>
-  <text x="0" y="96" fill="#0284C7" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700">STUDIO PORTFOLIO: https://yvb-co.vercel.app ↗</text>
+  <text x="0" y="96" fill="#0284C7" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700">STUDIO PORTFOLIO: https://vovalyx.in ↗</text>
 </g>
 
 <!-- Right Meta Box -->

@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bhavish S — Cybersecurity Specialist, Full-Stack Systems Architect &amp; CFO at YVB&amp;Co">
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bhavish S — Cybersecurity Specialist, Full-Stack Systems Architect &amp; CFO, CRO &amp; Security Lead at Vovalyx">
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
@@ -49,7 +49,7 @@
     <text fill="#0F172A" class="mono" x="46" y="162" font-size="78" font-weight="900" letter-spacing="-2.5">Bhavish S<tspan fill="#059669">.</tspan></text>
   </g>
   <g class="fade a3">
-    <text fill="#0284C7" class="mono" x="48" y="202" font-size="19" font-weight="700" letter-spacing="0.5">Cybersecurity Specialist · Full-Stack Systems Architect · CFO &amp; CRO @ YVB&amp;Co</text>
+    <text fill="#0284C7" class="mono" x="48" y="202" font-size="19" font-weight="700" letter-spacing="0.5">Cybersecurity Specialist · Full-Stack Systems Architect · CFO, CRO &amp; Security Lead @ Vovalyx</text>
   </g>
 
   <!-- Technical Value Proposition -->
@@ -63,7 +63,7 @@
   </g>
   <g class="fade a5">
     <text fill="#64748B" class="mono" x="48" y="314" font-size="12.5" font-weight="700" letter-spacing="1">Venture   ▸</text>
-    <text fill="#0F172A" class="mono" x="148" y="314" font-size="13" font-weight="600">Executive Leadership @ YVB&amp;Co Studio · Universal File Converter (UniConv SaaS) · Zero-Trust RBAC</text>
+    <text fill="#0F172A" class="mono" x="148" y="314" font-size="13" font-weight="600">Executive Leadership @ Vovalyx (vovalyx.in) · Universal File Converter (UniConv SaaS) · Zero-Trust RBAC</text>
   </g>
 
   <!-- Bottom Command Bar -->
@@ -73,7 +73,7 @@
     <text fill="#059669" class="mono" x="256" y="374" font-size="12" font-weight="700">·</text>
     <text fill="#475569" class="mono" x="278" y="374" font-size="11.5" font-weight="600" letter-spacing="2.5">ZERO-TRUST SAAS &amp; RBAC</text>
     <text fill="#059669" class="mono" x="526" y="374" font-size="12" font-weight="700">·</text>
-    <text fill="#475569" class="mono" x="548" y="374" font-size="11.5" font-weight="600" letter-spacing="2.5">YVB&amp;CO SOFTWARE STUDIO</text>
+    <text fill="#475569" class="mono" x="548" y="374" font-size="11.5" font-weight="600" letter-spacing="2.5">VOVALYX SOFTWARE STUDIO (VOVALYX.IN)</text>
     <text fill="#059669" class="mono" x="952" y="374" font-size="12" font-weight="800" letter-spacing="2" text-anchor="end">IAMBHAVISHS.VERCEL.APP ↗</text>
   </g>
 </svg>
