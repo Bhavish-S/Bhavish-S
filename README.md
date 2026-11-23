@@ -101,8 +101,8 @@
 <div align="center">
   <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/studio-yvb.dark.svg" />
-      <img src="./assets/dashboard/studio-yvb.light.svg" width="100%" alt="Vovalyx — Custom Software Development Company" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/studio-vovalyx.dark.svg" />
+      <img src="./assets/dashboard/studio-vovalyx.light.svg" width="100%" alt="Vovalyx — Custom Software Development Company" />
     </picture>
   </a>
 </div>

@@ -56,7 +56,7 @@
     <circle cx="610" cy="120" r="5" fill="#D97706"/>
     <line x1="610" y1="125" x2="610" y2="154" stroke="#D97706" stroke-width="1.5"/>
     <text fill="#D97706" class="mono" x="610" y="172" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="middle">2025</text>
-    <text fill="#0F172A" class="mono" x="610" y="188" font-size="11" font-weight="800" text-anchor="middle">YVB&amp;Co Studio</text>
+    <text fill="#0F172A" class="mono" x="610" y="188" font-size="11" font-weight="800" text-anchor="middle">Vovalyx</text>
     <text fill="#475569" class="mono" x="610" y="98" font-size="10" font-weight="600" text-anchor="middle">Principal Letter of Appreciation</text>
   </g>
 
