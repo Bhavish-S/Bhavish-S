@@ -24,13 +24,13 @@
   &nbsp;
   <a href="https://iambhavishs.vercel.app/assets/Bhavish_S_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-ffffff?style=flat-square" alt="Download Resume"/></picture></a>
   &nbsp;
-  <a href="https://bhavish-s.github.io/Bhavish-S/game/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8E%B2%20PLAY%20SNAKE%20%26%20LADDER-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%8E%B2%20PLAY%20SNAKE%20%26%20LADDER-ffffff?style=flat-square&logoColor=059669" alt="Play Snake and Ladder"/></picture></a>
-  &nbsp;
   <a href="https://yvb-co.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8F%A2%20STUDIO-07131B?style=flat-square&logo=vercel&logoColor=F59E0B"/><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20STUDIO-ffffff?style=flat-square&logo=vercel&logoColor=F59E0B" alt="YVB&Co Studio"/></picture></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/bhavish-s-/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-07131B?style=flat-square&logo=linkedin&logoColor=38BDF8"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=0284C7" alt="LinkedIn"/></picture></a>
   &nbsp;
   <a href="mailto:x.bhavish.s@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-07131B?style=flat-square&logo=gmail&logoColor=00E5A8"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=059669" alt="Email"/></picture></a>
+  &nbsp;
+  <a href="https://www.instagram.com/bhavish_s_/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-07131B?style=flat-square&logo=instagram&logoColor=E1306C"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=E1306C" alt="Instagram"/></picture></a>
   &nbsp;
   <a href="https://github.com/Bhavish-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=00E5A8&labelColor=07131B&label=PROFILE+VIEWS"/><img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="Profile Views"/></picture></a>
 </p>
@@ -64,49 +64,25 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     02 // THE DIGITAL LAB · ARCADE & CONTRIBUTION SNAKE
+     02 // THE ROUTE // ENGINEERING MILESTONES
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s02.dark.svg" />
-  <img src="./assets/editorial/s02.light.svg" width="100%" alt="02 — THE DIGITAL LAB // ARCADE &amp; CONTRIBUTION SNAKE" />
+  <img src="./assets/editorial/s02.light.svg" width="100%" alt="02 — THE ROUTE // ENGINEERING MILESTONES" />
 </picture>
 
-<div align="center">
-
-<!-- RETRO-MODERN SNAKE & LADDER GAME BANNER -->
-<a href="https://bhavish-s.github.io/Bhavish-S/game/" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/snake-ladder-banner.dark.svg" />
-    <img src="./assets/dashboard/snake-ladder-banner.light.svg" width="100%" alt="Play Snake & Ladder Game Live by Bhavish S" />
-  </picture>
-</a>
-
-<br/>
-
-<p align="center">
-  <a href="https://bhavish-s.github.io/Bhavish-S/game/" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20PLAY%20NOW-bhavish--s.github.io%2Fgame-00E5A8?style=for-the-badge&logoColor=07131B&labelColor=07131B" />
-      <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20PLAY%20NOW-bhavish--s.github.io%2Fgame-059669?style=for-the-badge&logoColor=ffffff&labelColor=0F172A" alt="Play Game Now" />
-    </picture>
-  </a>
-</p>
-
-<sub>🎲 <b>Snake & Ladder</b> is a handcrafted browser game living right in this repository. Play against the computer AI or pass-and-play with a friend on the same device!</sub>
-
-<br/><br/>
-
-<!-- ANIMATED CONTRIBUTION SNAKE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/timeline.dark.svg" />
+  <img src="./assets/editorial/timeline.light.svg" width="100%" alt="Engineering Milestones Timeline (2022 - Present)" />
 </picture>
 
-<sub>🐍 <b>Contribution Snake:</b> Eating commits in real-time across the GitHub activity matrix.</sub>
-
-</div>
+> **The Engineering Path at a Glance:**
+> - **2022 · First Commit**: Built core foundations in Linux systems programming, Python automation, and low-level networking.
+> - **2023 · B.E. CSE @ MIT Mysore**: Initiated formal computer science degree; began offensive cyber research and SIEM architecture.
+> - **2024 · SOC Operations & PenTesting**: Automated vulnerability assessments, security logging, and hands-on CTF reverse engineering.
+> - **2025 · Studio Leadership @ YVB&Co**: Co-founded software studio; built UniConv, MITM PlacePro, AcadOps ERP, and NOC Portal.
+> - **2026 · Institutional Honors**: Verified as Google Cybersecurity Professional, honored with MIT Mysore Principal's Letter of Appreciation, and named Finalist in ISRO Bharatiya Antariksh Hackathon.
 
 <br/>
 
@@ -219,35 +195,12 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     04 // THE ROUTE // VERIFIED MILESTONES
+     04 // TELEMETRY & LIVE PERFORMANCE MATRIX
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s04.dark.svg" />
-  <img src="./assets/editorial/s04.light.svg" width="100%" alt="04 — THE ROUTE // VERIFIED MILESTONES" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/timeline.dark.svg" />
-  <img src="./assets/editorial/timeline.light.svg" width="100%" alt="Engineering Milestones Timeline (2022 - Present)" />
-</picture>
-
-> **The Engineering Path at a Glance:**
-> - **2022 · First Commit**: Built core foundations in Linux systems programming, Python automation, and low-level networking.
-> - **2023 · B.E. CSE @ MIT Mysore**: Initiated formal computer science degree; began offensive cyber research and SIEM architecture.
-> - **2024 · SOC Operations & PenTesting**: Automated vulnerability assessments, security logging, and hands-on CTF reverse engineering.
-> - **2025 · Studio Leadership @ YVB&Co**: Co-founded software studio; built UniConv, MITM PlacePro, AcadOps ERP, and NOC Portal.
-> - **2026 · Institutional Honors**: Verified as Google Cybersecurity Professional, honored with MIT Mysore Principal's Letter of Appreciation, and named Finalist in ISRO Bharatiya Antariksh Hackathon.
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════
-     05 // TELEMETRY & LIVE PERFORMANCE MATRIX
-     ══════════════════════════════════════════════════════════════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s05.dark.svg" />
-  <img src="./assets/editorial/s05.light.svg" width="100%" alt="05 — TELEMETRY // LIVE ACTIVITY MATRIX" />
+  <img src="./assets/editorial/s04.light.svg" width="100%" alt="04 — TELEMETRY // LIVE ACTIVITY MATRIX" />
 </picture>
 
 <div align="center">
@@ -276,6 +229,15 @@
 
 <br/>
 
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub Contribution Snake" />
+</picture>
+
+<br/><br/>
+
 <!-- TELEMETRY METRICS BAR -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/stats-bar.dark.svg" />
@@ -287,12 +249,12 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     06 // TECHNICAL ARSENAL // PRODUCTION STACK
+     05 // TECHNICAL ARSENAL // PRODUCTION STACK
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s06.dark.svg" />
-  <img src="./assets/editorial/s06.light.svg" width="100%" alt="06 — TECHNICAL ARSENAL // PRODUCTION STACK" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s05.dark.svg" />
+  <img src="./assets/editorial/s05.light.svg" width="100%" alt="05 — TECHNICAL ARSENAL // PRODUCTION STACK" />
 </picture>
 
 <div align="center">
@@ -345,12 +307,12 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     07 // VERIFIED CREDENTIALS & SECURE CONNECT
+     06 // VERIFIED CREDENTIALS & ACHIEVEMENTS
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s07.dark.svg" />
-  <img src="./assets/editorial/s07.light.svg" width="100%" alt="07 — VERIFIED CREDENTIALS &amp; SECURE CONNECT" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s06.dark.svg" />
+  <img src="./assets/editorial/s06.light.svg" width="100%" alt="06 — VERIFIED CREDENTIALS &amp; ACHIEVEMENTS" />
 </picture>
 
 <div align="center">
@@ -381,26 +343,36 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/achievements.dark.svg" />
     <img src="./assets/dashboard/achievements.light.svg" width="100%" alt="GitHub Achievements Summary: Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, Galaxy Brain" />
   </picture>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <!-- SOCIAL LINK BUTTONS -->
-  <p>
-    <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio iambhavishs.vercel.app" /></a>
-    <a href="https://bhavish-s.github.io/Bhavish-S/game/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-snake-ladder.svg" height="44" alt="Play Snake & Ladder Game" /></a>
-    <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
-    <a href="mailto:x.bhavish.s@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email x.bhavish.s@gmail.com" /></a>
-    <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish_s_" /></a>
-    <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-yvb.svg" height="44" alt="YVB&Co Studio" /></a>
-  </p>
+<!-- ══════════════════════════════════════════════════════════════════════════════
+     07 // ESTABLISH SECURE LINK // CONNECT
+     ══════════════════════════════════════════════════════════════════════════════ -->
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-footer.dark.svg" />
-    <img src="./assets/profile-footer.light.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s07.dark.svg" />
+  <img src="./assets/editorial/s07.light.svg" width="100%" alt="07 — ESTABLISH SECURE LINK // CONNECT" />
+</picture>
 
-  <br/><br/>
-  ⭐️ From [@Bhavish-S](https://github.com/Bhavish-S) · **Building the future, one secure commit at a time** 🚀
+<div align="center">
+
+<p>
+  <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio iambhavishs.vercel.app" /></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
+  <a href="mailto:x.bhavish.s@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email x.bhavish.s@gmail.com" /></a>
+  <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish_s_" /></a>
+  <a href="https://yvb-co.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-yvb.svg" height="44" alt="YVB&Co Studio" /></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-footer.dark.svg" />
+  <img src="./assets/profile-footer.light.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
+</picture>
+
+<br/><br/>
+⭐️ From [@Bhavish-S](https://github.com/Bhavish-S) · **Building the future, one secure commit at a time** 🚀
 
 </div>
 
