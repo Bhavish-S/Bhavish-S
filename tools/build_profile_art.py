@@ -184,7 +184,7 @@ def write(name, theme, content):
 
 # ───────────────────────────── hero ─────────────────────────────
 
-def hero(c, theme, avatar):
+def hero(c, theme):
     W, H = 1000, 470
     b = shell(c, W, H, 22, glows=(('ge', 170, 190, 260), ('gc', 860, 140, 260), ('gv', 640, 470, 240)), comet=True)
     b += f'<g class="fo">' + mono(48, 46, 'BHAVISH S // CYBERSECURITY & AUTOMATION ARCHITECT', 10.5, c['muted'], 700, ls=2.6) + '</g>'
@@ -194,24 +194,30 @@ def hero(c, theme, avatar):
           + mono(756, 45, 'AVAILABLE // MYSORE, IN', 10.5, c['em'], 800, ls=1.6) + '</g>')
     b += f'<line x1="48" y1="66" x2="952" y2="66" stroke="{c["line"]}"/>'
 
-    # avatar with spinning gradient ring + orbit
+    # monogram emblem with spinning gradient ring + orbit
+    b += (f'<defs><linearGradient id="nm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c["name0"]}"/>'
+          f'<stop offset="1" stop-color="{c["name1"]}"/></linearGradient></defs>')
     cx, cy = 170, 196
-    b += (f'<clipPath id="av"><circle cx="{cx}" cy="{cy}" r="86"/></clipPath>'
+    b += (
           f'<circle cx="{cx}" cy="{cy}" r="112" fill="none" stroke="{c["line2"]}" stroke-dasharray="2 6"/>'
           f'<g class="spin" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy}" r="97" fill="none" stroke="url(#acc)" stroke-width="3" '
           f'stroke-dasharray="190 420" stroke-linecap="round"/><circle cx="{cx + 112}" cy="{cy}" r="4" fill="{c["cy"]}"/></g>'
           f'<g class="spinr" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy - 112}" r="3" fill="{c["em"]}"/>'
           f'<circle cx="{cx}" cy="{cy}" r="97" fill="none" stroke="{c["vi"]}" stroke-opacity=".7" stroke-width="2" stroke-dasharray="60 550" stroke-linecap="round"/></g>'
-          f'<circle cx="{cx}" cy="{cy}" r="89" fill="{c["panel2"]}"/>'
-          f'<image href="{avatar}" x="{cx - 86}" y="{cy - 86}" width="172" height="172" clip-path="url(#av)" preserveAspectRatio="xMidYMid slice"/>'
-          f'<circle cx="{cx}" cy="{cy}" r="86" fill="none" stroke="{c["bg0"]}" stroke-width="2"/>')
+          f'<circle cx="{cx}" cy="{cy}" r="86" fill="{c["panel2"]}" stroke="{c["line2"]}"/>'
+          f'<circle cx="{cx}" cy="{cy}" r="86" fill="url(#ge)"/>'
+          f'<circle cx="{cx}" cy="{cy}" r="70" fill="none" stroke="{c["line2"]}" stroke-dasharray="1 5"/>'
+          # shield emblem with monogram
+          f'<path d="M{cx} {cy - 58}l44 17v31c0 28-19 48-44 58-25-10-44-30-44-58v-31z" fill="{c["em"]}" fill-opacity=".08" '
+          f'stroke="url(#acc)" stroke-width="2.2" stroke-linejoin="round"/>'
+          f'<text x="{cx}" y="{cy + 14}" font-family="{SANS}" font-size="40" font-weight="900" letter-spacing="-1" '
+          f'text-anchor="middle" fill="url(#nm)">BS</text>'
+          f'<circle class="pulse" cx="{cx}" cy="{cy + 34}" r="3" fill="{c["em"]}"/>')
     # verified chip under avatar
     b += (f'<g class="fi" style="animation-delay:.9s"><rect x="{cx - 78}" y="{cy + 98}" width="156" height="26" rx="13" fill="{c["panel"]}" stroke="{c["em"]}" stroke-opacity=".5"/>'
           + icon('shield', cx - 66, cy + 103, 16, c['em'], 2) + mono(cx + 10, cy + 115.5, 'GOOGLE CERTIFIED', 9.5, c['em'], 800, 'middle', 1.2) + '</g>')
 
     # name + roles
-    b += (f'<defs><linearGradient id="nm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c["name0"]}"/>'
-          f'<stop offset="1" stop-color="{c["name1"]}"/></linearGradient></defs>')
     b += (f'<g class="fi" style="animation-delay:.15s"><text x="316" y="158" font-family="{SANS}" font-size="74" font-weight="800" '
           f'letter-spacing="-2.5" fill="url(#nm)">Bhavish S<tspan fill="{c["em"]}">.</tspan></text></g>')
     b += f'<g class="fi" style="animation-delay:.3s">' + t(318, 194, 'Cybersecurity Specialist · Full-Stack Systems Architect', 15.5, c['cy'], 700, MONO) + '</g>'
@@ -728,10 +734,9 @@ def footer(c, theme):
 # ───────────────────────────── main ─────────────────────────────
 
 def main():
-    avatar = jpeg_data(SHOTS / 'profile.png', (344, 344), quality=84)
     shots = {p[0]: jpeg_data(SHOTS / p[1], (1056, 520), crop_top=520 / 1056, quality=72) for p in PROJECTS}
     for theme, c in T.items():
-        write('hero', theme, hero(c, theme, avatar))
+        write('hero', theme, hero(c, theme))
         for s in SECTIONS:
             write(f's{s[0]}', theme, banner(c, theme, *s))
         write('about', theme, about(c, theme))
