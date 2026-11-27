@@ -736,7 +736,7 @@ def footer(c, theme):
 def main():
     shots = {p[0]: jpeg_data(SHOTS / p[1], (1056, 520), crop_top=520 / 1056, quality=72) for p in PROJECTS}
     for theme, c in T.items():
-        write('hero', theme, hero(c, theme))
+        write('header', theme, hero(c, theme))
         for s in SECTIONS:
             write(f's{s[0]}', theme, banner(c, theme, *s))
         write('about', theme, about(c, theme))
