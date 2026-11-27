@@ -4,34 +4,33 @@
      00 // HERO HEADER & DYNAMIC COMMAND CENTER
      ══════════════════════════════════════════════════════════════════════════════ -->
 
+<a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/header.dark.svg" />
-  <img src="./assets/editorial/header.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer & CFO, CRO & Security Lead at Vovalyx" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/hero.dark.svg" />
+  <img src="./assets/v2/hero.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer &amp; CFO, CRO &amp; Security Lead at Vovalyx" />
 </picture>
-
-<br/>
-
-<!-- DYNAMIC TYPING TAGLINE -->
-<a href="https://iambhavishs.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00E5A8&center=true&vCenter=true&width=840&height=50&lines=SECURITY+MINDED.+BUILDER+BY+DESIGN.;CFO%2C+CRO+%26+SECURITY+LEAD+%40+VOVALYX+(VOVALYX.IN);ETHICAL+HACKING+%7C+SOC+%7C+SIEM+%7C+ENTERPRISE+SaaS;BREAK+IT+TO+UNDERSTAND+IT.+THEN+SECURE+IT." alt="Animated Profile Tagline" />
 </a>
 
 <br/>
 
-<!-- TOP QUICK-ACTION PILLS -->
+<!-- DYNAMIC TYPING TAGLINE -->
+
+<a href="https://iambhavishs.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00E5A8&center=true&vCenter=true&width=840&height=50&lines=SECURITY+MINDED.+BUILDER+BY+DESIGN.;CFO%2C+CRO+%26+SECURITY+LEAD+%40+VOVALYX+(VOVALYX.IN);ETHICAL+HACKING+%7C+SOC+%7C+SIEM+%7C+ENTERPRISE+SaaS;BREAK+IT+TO+UNDERSTAND+IT.+THEN+SECURE+IT." alt="Animated Profile Tagline" />
+</a>
+
+<!-- QUICK-ACTION PILLS -->
+
 <p align="center">
-  <a href="https://iambhavishs.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-07131B?style=flat-square&logo=safari&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-ffffff?style=flat-square&logo=safari&logoColor=059669" alt="Live Portfolio"/></picture></a>
-  &nbsp;
-  <a href="https://iambhavishs.vercel.app/assets/Bhavish_S_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-07131B?style=flat-square&logoColor=00E5A8"/><img src="https://img.shields.io/badge/%F0%9F%93%84%20RESUME-ffffff?style=flat-square" alt="Download Resume"/></picture></a>
-  &nbsp;
-  <a href="https://vovalyx.in/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%8F%A2%20VOVALYX.IN-07131B?style=flat-square&logo=vercel&logoColor=F59E0B"/><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20VOVALYX.IN-ffffff?style=flat-square&logo=vercel&logoColor=F59E0B" alt="Vovalyx Studio"/></picture></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bhavish-s-/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-07131B?style=flat-square&logo=linkedin&logoColor=38BDF8"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=0284C7" alt="LinkedIn"/></picture></a>
-  &nbsp;
-  <a href="mailto:x.bhavish.s@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-07131B?style=flat-square&logo=gmail&logoColor=00E5A8"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=059669" alt="Email"/></picture></a>
-  &nbsp;
-  <a href="https://www.instagram.com/bhavish_s_/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-07131B?style=flat-square&logo=instagram&logoColor=E1306C"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=E1306C" alt="Instagram"/></picture></a>
-  &nbsp;
+  <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/pill-portfolio.dark.svg" /><img src="./assets/v2/pill-portfolio.light.svg" height="34" alt="Live Portfolio" /></picture></a>&nbsp;
+  <a href="https://iambhavishs.vercel.app/assets/Bhavish_S_Resume.pdf" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/pill-resume.dark.svg" /><img src="./assets/v2/pill-resume.light.svg" height="34" alt="Download Resume" /></picture></a>&nbsp;
+  <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/pill-vovalyx.dark.svg" /><img src="./assets/v2/pill-vovalyx.light.svg" height="34" alt="Vovalyx Studio" /></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/pill-linkedin.dark.svg" /><img src="./assets/v2/pill-linkedin.light.svg" height="34" alt="LinkedIn" /></picture></a>&nbsp;
+  <a href="mailto:x.bhavish.s@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/pill-email.dark.svg" /><img src="./assets/v2/pill-email.light.svg" height="34" alt="Email" /></picture></a>&nbsp;
+  <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/pill-instagram.dark.svg" /><img src="./assets/v2/pill-instagram.light.svg" height="34" alt="Instagram" /></picture></a>&nbsp;
+</p>
+
+<p align="center">
   <a href="https://github.com/Bhavish-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=00E5A8&labelColor=07131B&label=PROFILE+VIEWS"/><img src="https://komarev.com/ghpvc/?username=Bhavish-S&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="Profile Views"/></picture></a>
 </p>
 
@@ -44,8 +43,8 @@
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s01.dark.svg" />
-  <img src="./assets/editorial/s01.light.svg" width="100%" alt="01 — WHOAMI // EXECUTIVE SUMMARY" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s01.dark.svg" />
+  <img src="./assets/v2/s01.light.svg" width="100%" alt="01 — WHOAMI // EXECUTIVE SUMMARY" />
 </picture>
 
 > **Bhavish S** is a Google-certified Cybersecurity Specialist, Full-Stack Systems Architect, and Computer Science & Engineering scholar at **Maharaja Institute of Technology, Mysore** (2023–2027).
@@ -58,10 +57,12 @@
 > - ⚡ **Production Deployments**: 10+ live platforms serving active institutional and enterprise users worldwide.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/about-terminal.dark.svg" />
-    <img src="./assets/dashboard/about-terminal.light.svg" width="100%" alt="Interactive Terminal Dossier: whoami, focus, role, and verified credentials" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/about.dark.svg" />
+  <img src="./assets/v2/about.light.svg" width="100%" alt="Biography and terminal dossier: whoami, focus, role, and verified credentials" />
+</picture>
+
 </div>
 
 <br/>
@@ -71,13 +72,13 @@
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s02.dark.svg" />
-  <img src="./assets/editorial/s02.light.svg" width="100%" alt="02 — THE ROUTE // ENGINEERING MILESTONES" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s02.dark.svg" />
+  <img src="./assets/v2/s02.light.svg" width="100%" alt="02 — THE ROUTE // ENGINEERING MILESTONES" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/timeline.dark.svg" />
-  <img src="./assets/editorial/timeline.light.svg" width="100%" alt="Engineering Milestones Timeline (2022 - Present)" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/timeline.dark.svg" />
+  <img src="./assets/v2/timeline.light.svg" width="100%" alt="Engineering Milestones Timeline (2022 - Present)" />
 </picture>
 
 > **The Engineering Path at a Glance:**
@@ -94,25 +95,27 @@
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s03.dark.svg" />
-  <img src="./assets/editorial/s03.light.svg" width="100%" alt="03 — VOVALYX &amp; PRODUCTION SYSTEMS" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s03.dark.svg" />
+  <img src="./assets/v2/s03.light.svg" width="100%" alt="03 — VENTURE STUDIO &amp; PRODUCTION SYSTEMS" />
 </picture>
 
 <div align="center">
-  <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/studio-vovalyx.dark.svg" />
-      <img src="./assets/dashboard/studio-vovalyx.light.svg" width="100%" alt="Vovalyx — Custom Software Development Company" />
-    </picture>
-  </a>
-</div>
+
+<a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/studio.dark.svg" />
+  <img src="./assets/v2/studio.light.svg" width="100%" alt="Vovalyx — Custom Software Development Company" />
+</picture>
+</a>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/projects.dark.svg" />
-  <img src="./assets/editorial/projects.light.svg" width="100%" alt="Featured Projects Manifest" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/manifest.dark.svg" />
+  <img src="./assets/v2/manifest.light.svg" width="100%" alt="Featured Projects Manifest" />
 </picture>
+
+</div>
 
 <br/>
 
@@ -123,22 +126,28 @@
 <td width="50%" valign="top">
   <a href="https://uniconv-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-uniconv.dark.svg" />
-      <img src="./assets/project-uniconv.light.svg" width="100%" alt="UniConv — Browser-Based Universal File Converter" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/project-uniconv.dark.svg" />
+      <img src="./assets/v2/project-uniconv.light.svg" width="100%" alt="UniConv — Browser-Based Universal File Converter" />
     </picture>
+
   </a>
+
   <br/>
+
   <b>⚡ <a href="https://uniconv-psi.vercel.app/">UniConv (SaaS)</a></b> · <code>Production Live</code><br/>
-  <sub>Universal client-side converter with 256-bit AES encryption, AI watermark removal & zero server persistence.</sub>
+  <sub>Universal client-side converter with 256-bit AES encryption, AI watermark removal &amp; zero server persistence.</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://noc-portal-self.vercel.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-nodue-portal.dark.svg" />
-      <img src="./assets/project-nodue-portal.light.svg" width="100%" alt="NOC Portal — Student No-Due Clearance Management System" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/project-nodue-portal.dark.svg" />
+      <img src="./assets/v2/project-nodue-portal.light.svg" width="100%" alt="NOC Portal — Student No-Due Clearance Management System" />
     </picture>
+
   </a>
+
   <br/>
+
   <b>🎓 <a href="https://noc-portal-self.vercel.app/">NoDue Portal</a></b> · <code>Institutional Deployment</code><br/>
   <sub>Campus-wide digital student clearance system replacing physical paper signatures across all MITM departments.</sub>
 </td>
@@ -147,46 +156,58 @@
 <td width="50%" valign="top">
   <a href="https://erp-client-9lbk.vercel.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-erp-client.dark.svg" />
-      <img src="./assets/project-erp-client.light.svg" width="100%" alt="AcadOps ERP Client — Academic Governance &amp; RBAC Operations" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/project-erp-client.dark.svg" />
+      <img src="./assets/v2/project-erp-client.light.svg" width="100%" alt="AcadOps ERP Client — Academic Governance &amp; RBAC Operations" />
     </picture>
+
   </a>
+
   <br/>
+
   <b>🏛️ <a href="https://erp-client-9lbk.vercel.app/">AcadOps ERP</a></b> · <code>Enterprise Production</code><br/>
-  <sub>Academic governance suite with fine-grained RBAC, faculty workload modeling & institutional policy tracking.</sub>
+  <sub>Academic governance suite with fine-grained RBAC, faculty workload modeling &amp; institutional policy tracking.</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://mitm-placepro.vercel.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-placepro.dark.svg" />
-      <img src="./assets/project-placepro.light.svg" width="100%" alt="MITM PlacePro — Campus Placement Management System" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/project-placepro.dark.svg" />
+      <img src="./assets/v2/project-placepro.light.svg" width="100%" alt="MITM PlacePro — Campus Placement Management System" />
     </picture>
+
   </a>
+
   <br/>
+
   <b>💼 <a href="https://mitm-placepro.vercel.app/">MITM PlacePro</a></b> · <code>Campus Production</code><br/>
-  <sub>Automated campus placement drive management, student eligibility filtering & real-time hiring metrics.</sub>
+  <sub>Automated campus placement drive management, student eligibility filtering &amp; real-time hiring metrics.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://mitm-rd.vercel.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-jnanashodha.dark.svg" />
-      <img src="./assets/project-jnanashodha.light.svg" width="100%" alt="Jnanashodha — Research Admissions &amp; Ph.D Lifecycle Portal" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/project-jnanashodha.dark.svg" />
+      <img src="./assets/v2/project-jnanashodha.light.svg" width="100%" alt="Jnanashodha — Research Admissions &amp; Ph.D Lifecycle Portal" />
     </picture>
+
   </a>
+
   <br/>
+
   <b>🔬 <a href="https://mitm-rd.vercel.app/">MRF / Jnanashodha</a></b> · <code>Institutional Live</code><br/>
-  <sub>Maharaja Research Foundation doctoral admissions, candidate tracking & research thesis evaluation portal.</sub>
+  <sub>Maharaja Research Foundation doctoral admissions, candidate tracking &amp; research thesis evaluation portal.</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://vovalyx.in/products.html" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-petcommunity.dark.svg" />
-      <img src="./assets/project-petcommunity.light.svg" width="100%" alt="PetCommunity — Connect, Match &amp; Care" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/project-petcommunity.dark.svg" />
+      <img src="./assets/v2/project-petcommunity.light.svg" width="100%" alt="PetCommunity — Connect, Match &amp; Care" />
     </picture>
+
   </a>
+
   <br/>
+
   <b>🐾 <a href="https://vovalyx.in/products.html">PetCommunity</a></b> · <code>Consumer Platform</code><br/>
   <sub>Intelligent pet matchmaking platform, verified veterinary network, and Breed Lab genetics encyclopedia.</sub>
 </td>
@@ -194,18 +215,63 @@
 </table>
 
 <div align="center">
+
 <sub>Explore full client case studies and services at <a href="https://vovalyx.in/">vovalyx.in</a> and <a href="https://iambhavishs.vercel.app/">iambhavishs.vercel.app</a>.</sub>
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════
-     03b // ENGINEERED SYSTEMS & REPOSITORIES (ALL PROJECTS LINKED TO ACCOUNT)
-     ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 03b // ENGINEERED SYSTEMS & REPOSITORIES (ALL PROJECTS LINKED TO ACCOUNT) -->
 
 ### 🛠️ All Engineered Projects & Linked Repositories
 
 The following production repositories and software systems are built, contributed to, and maintained directly under [@Bhavish-S](https://github.com/Bhavish-S):
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/Route_Resilience" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-route-resilience.dark.svg" /><img src="./assets/v2/repo-route-resilience.light.svg" width="100%" alt="Route Resilience" /></picture></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/Claim_Ai" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-claim-ai.dark.svg" /><img src="./assets/v2/repo-claim-ai.light.svg" width="100%" alt="Claim_Ai" /></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/LeafCure" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-leafcure.dark.svg" /><img src="./assets/v2/repo-leafcure.light.svg" width="100%" alt="LeafCure" /></picture></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/Liltwise" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-liltwise.dark.svg" /><img src="./assets/v2/repo-liltwise.light.svg" width="100%" alt="Liltwise" /></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/Inklly" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-inklly.dark.svg" /><img src="./assets/v2/repo-inklly.light.svg" width="100%" alt="Inklly" /></picture></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/budget-allocator" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-budget-allocator.dark.svg" /><img src="./assets/v2/repo-budget-allocator.light.svg" width="100%" alt="Budget Allocator" /></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/paws-polish" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-paws-polish.dark.svg" /><img src="./assets/v2/repo-paws-polish.light.svg" width="100%" alt="Paws &amp; Polish" /></picture></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-siem-threat-defense.dark.svg" /><img src="./assets/v2/repo-siem-threat-defense.light.svg" width="100%" alt="SIEM Threat Defense" /></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-pentest-toolkit.dark.svg" /><img src="./assets/v2/repo-pentest-toolkit.light.svg" width="100%" alt="Pentest Toolkit" /></picture></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Bhavish-S/Bhavish-S" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/repo-bhavish-s-portfolio.dark.svg" /><img src="./assets/v2/repo-bhavish-s-portfolio.light.svg" width="100%" alt="Bhavish-S Portfolio" /></picture></a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>View as table</b></summary>
 
 | Project | Domain | Architecture & Technologies | Deployment / Status |
 | :--- | :--- | :--- | :--- |
@@ -220,6 +286,8 @@ The following production repositories and software systems are built, contribute
 | **[Pentest Toolkit](https://github.com/Bhavish-S)** | Security Automation | Automated vulnerability scanning, network reconnaissance, port enumeration, and payload verification suite via `Python`, `Nmap`, `Burp Suite`. | ⚔️ **Security Core** |
 | **[Bhavish-S Portfolio](https://github.com/Bhavish-S/Bhavish-S)** | Web Architecture | Production codebase for the official interactive portfolio web app ([iambhavishs.vercel.app](https://iambhavishs.vercel.app/)) built with `React 19`, `Vite 8`, `Tailwind CSS v4`. | 🚀 **Live Production** |
 
+</details>
+
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
@@ -227,21 +295,23 @@ The following production repositories and software systems are built, contribute
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s04.dark.svg" />
-  <img src="./assets/editorial/s04.light.svg" width="100%" alt="04 — TELEMETRY // LIVE ACTIVITY MATRIX" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s04.dark.svg" />
+  <img src="./assets/v2/s04.light.svg" width="100%" alt="04 — TELEMETRY // LIVE ACTIVITY MATRIX" />
 </picture>
 
 <div align="center">
 
 <!-- 3D ISOMETRIC CONTRIBUTION CITY -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/contributions.dark.svg" />
-  <img src="./assets/stats/contributions.light.svg" width="100%" alt="Live 3D GitHub contribution history and streaks" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" width="100%" alt="3D GitHub contribution history and streaks" />
 </picture>
 
 <br/>
 
-<!-- LIVE OVERVIEW METRICS -->
+<!-- LIVE OVERVIEW METRICS (auto-refreshed every 6 hours) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/overview.dark.svg" />
   <img src="./assets/stats/overview.light.svg" width="100%" alt="Live GitHub overview metrics" />
@@ -249,7 +319,8 @@ The following production repositories and software systems are built, contribute
 
 <br/>
 
-<!-- LANGUAGE TREEMAP BREAKDOWN -->
+<!-- LIVE LANGUAGE BREAKDOWN -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/languages.dark.svg" />
   <img src="./assets/stats/languages.light.svg" width="100%" alt="Live programming language breakdown" />
@@ -258,6 +329,7 @@ The following production repositories and software systems are built, contribute
 <br/>
 
 <!-- ANIMATED CONTRIBUTION SNAKE (regenerated every 6 hours, emerald palette) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
@@ -266,10 +338,12 @@ The following production repositories and software systems are built, contribute
 
 <br/><br/>
 
+<br/>
+
 <!-- TELEMETRY METRICS BAR -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/stats-bar.dark.svg" />
-  <img src="./assets/dashboard/stats-bar.light.svg" width="100%" alt="Quick Metrics Overview: 50+ Repositories, 10+ Projects, 15K+ Lines of Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/metrics.dark.svg" />
+  <img src="./assets/v2/metrics.light.svg" width="100%" alt="Quick Metrics Overview: 50+ Repositories, 10+ Projects, 15K+ Lines of Code" />
 </picture>
 
 </div>
@@ -281,54 +355,16 @@ The following production repositories and software systems are built, contribute
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s05.dark.svg" />
-  <img src="./assets/editorial/s05.light.svg" width="100%" alt="05 — TECHNICAL ARSENAL // PRODUCTION STACK" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s05.dark.svg" />
+  <img src="./assets/v2/s05.light.svg" width="100%" alt="05 — TECHNICAL ARSENAL // PRODUCTION STACK" />
 </picture>
 
 <div align="center">
 
-<!-- Row 1: Offensive Security & SOC -->
-<p align="center">
-  <b>🛡️ OFFENSIVE SECURITY &amp; SOC DEFENSE</b><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/burp-suite.dark.svg" /><img src="./assets/badges/burp-suite.light.svg" alt="Burp Suite" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/metasploit.dark.svg" /><img src="./assets/badges/metasploit.light.svg" alt="Metasploit" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/wireshark.dark.svg" /><img src="./assets/badges/wireshark.light.svg" alt="Wireshark" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/kalilinux.dark.svg" /><img src="./assets/badges/kalilinux.light.svg" alt="Kali Linux" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/splunk.dark.svg" /><img src="./assets/badges/splunk.light.svg" alt="Splunk" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/nmap.dark.svg" /><img src="./assets/badges/nmap.light.svg" alt="Nmap" height="30" /></picture>
-</p>
-
-<!-- Row 2: Modern Web & Full-Stack -->
-<p align="center">
-  <b>⚡ FULL-STACK SYSTEMS &amp; FRAMEWORKS</b><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/react.dark.svg" /><img src="./assets/badges/react.light.svg" alt="React" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/next-js.dark.svg" /><img src="./assets/badges/next-js.light.svg" alt="Next.js" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/express.dark.svg" /><img src="./assets/badges/express.light.svg" alt="Express" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/tailwind.dark.svg" /><img src="./assets/badges/tailwind.light.svg" alt="Tailwind CSS" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/vite.dark.svg" /><img src="./assets/badges/vite.light.svg" alt="Vite" height="30" /></picture>
-</p>
-
-<!-- Row 3: Languages & Scripting -->
-<p align="center">
-  <b>⚙️ CORE LANGUAGES &amp; SYSTEMS</b><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/python.dark.svg" /><img src="./assets/badges/python.light.svg" alt="Python" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/go.dark.svg" /><img src="./assets/badges/go.light.svg" alt="Go" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/typescript.dark.svg" /><img src="./assets/badges/typescript.light.svg" alt="TypeScript" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/javascript.dark.svg" /><img src="./assets/badges/javascript.light.svg" alt="JavaScript" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/bash.dark.svg" /><img src="./assets/badges/bash.light.svg" alt="Bash" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linux.dark.svg" /><img src="./assets/badges/linux.light.svg" alt="Linux" height="30" /></picture>
-</p>
-
-<!-- Row 4: Cloud, Databases & DevOps -->
-<p align="center">
-  <b>☁️ CLOUD, DATABASES &amp; DEVOPS</b><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/postgresql.dark.svg" /><img src="./assets/badges/postgresql.light.svg" alt="PostgreSQL" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/supabase.dark.svg" /><img src="./assets/badges/supabase.light.svg" alt="Supabase" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/vercel.dark.svg" /><img src="./assets/badges/vercel.light.svg" alt="Vercel" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/docker.dark.svg" /><img src="./assets/badges/docker.light.svg" alt="Docker" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/git.dark.svg" /><img src="./assets/badges/git.light.svg" alt="Git" height="30" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/github-actions.dark.svg" /><img src="./assets/badges/github-actions.light.svg" alt="GitHub Actions" height="30" /></picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/arsenal.dark.svg" />
+  <img src="./assets/v2/arsenal.light.svg" width="100%" alt="Technical arsenal: Burp Suite, Metasploit, Wireshark, Kali Linux, Splunk, Nmap, React, Next.js, Express, Tailwind CSS, Vite, Python, Go, TypeScript, JavaScript, Bash, Linux, PostgreSQL, Supabase, Vercel, Docker, Git, GitHub Actions" />
+</picture>
 
 </div>
 
@@ -339,25 +375,27 @@ The following production repositories and software systems are built, contribute
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s06.dark.svg" />
-  <img src="./assets/editorial/s06.light.svg" width="100%" alt="06 — VERIFIED CREDENTIALS &amp; ACHIEVEMENTS" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s06.dark.svg" />
+  <img src="./assets/v2/s06.light.svg" width="100%" alt="06 — VERIFIED CREDENTIALS &amp; ACHIEVEMENTS" />
 </picture>
 
 <div align="center">
-  <!-- INSTITUTIONAL CERTIFICATIONS CARD -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/certifications.dark.svg" />
-    <img src="./assets/dashboard/certifications.light.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
-  </picture>
 
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/credentials.dark.svg" />
+  <img src="./assets/v2/credentials.light.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
+</picture>
+
+<br/>
 
   <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/achievements.dark.svg" />
       <img src="./assets/dashboard/achievements.light.svg" width="100%" alt="GitHub Achievements: YOLO, Quickdraw, Pull Shark x2, Pair Extraordinaire x2, Galaxy Brain x2" />
     </picture>
+
   </a>
+
 </div>
 
 <br/>
@@ -367,26 +405,27 @@ The following production repositories and software systems are built, contribute
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial/s07.dark.svg" />
-  <img src="./assets/editorial/s07.light.svg" width="100%" alt="07 — ESTABLISH SECURE LINK // CONNECT" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/s07.dark.svg" />
+  <img src="./assets/v2/s07.light.svg" width="100%" alt="07 — ESTABLISH SECURE LINK // CONNECT" />
 </picture>
 
 <div align="center">
 
 <p>
-  <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-portfolio.svg" height="44" alt="Portfolio iambhavishs.vercel.app" /></a>
-  <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-linkedin.svg" height="44" alt="LinkedIn @bhavish-s-" /></a>
-  <a href="mailto:x.bhavish.s@gmail.com"><img src="./assets/social-email.svg" height="44" alt="Email x.bhavish.s@gmail.com" /></a>
-  <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-instagram.svg" height="44" alt="Instagram @bhavish_s_" /></a>
-  <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer"><img src="./assets/social-vovalyx.svg" height="44" alt="Vovalyx Studio vovalyx.in" /></a>
+  <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/connect-portfolio.dark.svg" /><img src="./assets/v2/connect-portfolio.light.svg" width="19%" alt="Portfolio iambhavishs.vercel.app" /></picture></a>
+  <a href="https://www.linkedin.com/in/bhavish-s-/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/connect-linkedin.dark.svg" /><img src="./assets/v2/connect-linkedin.light.svg" width="19%" alt="LinkedIn @bhavish-s-" /></picture></a>
+  <a href="mailto:x.bhavish.s@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/connect-email.dark.svg" /><img src="./assets/v2/connect-email.light.svg" width="19%" alt="Email x.bhavish.s@gmail.com" /></picture></a>
+  <a href="https://www.instagram.com/bhavish_s_/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/connect-instagram.dark.svg" /><img src="./assets/v2/connect-instagram.light.svg" width="19%" alt="Instagram @bhavish_s_" /></picture></a>
+  <a href="https://vovalyx.in/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v2/connect-vovalyx.dark.svg" /><img src="./assets/v2/connect-vovalyx.light.svg" width="19%" alt="Vovalyx Studio vovalyx.in" /></picture></a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-footer.dark.svg" />
-  <img src="./assets/profile-footer.light.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/footer.dark.svg" />
+  <img src="./assets/v2/footer.light.svg" width="100%" alt="Security is not a product, but a process. — Bruce Schneier" />
 </picture>
 
 <br/><br/>
+
 ⭐️ From [@Bhavish-S](https://github.com/Bhavish-S) · **Building the future, one secure commit at a time** 🚀
 
 </div>

@@ -27,16 +27,35 @@ SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,'Helvetica Neue
 # Obsidian-Emerald palette shared with the editorial section banners.
 THEMES = {
     'dark': dict(
-        bg='#07131B', bg2='#0B1A22', panel='#0F212B', line='#16323F', grid='#13303D',
-        ink='#F1F5F9', muted='#94A3B8', dim='#5B7083', accent='#00E5A8', cyan='#38BDF8', gold='#F59E0B',
+        bg='#05090E', bg2='#0A141C', panel='#0B1720', line='#173040', grid='#11283A',
+        ink='#F1F5F9', muted='#8EA3B5', dim='#5B7083', accent='#00E5A8', cyan='#38BDF8', gold='#F59E0B', violet='#A78BFA', glow=.20,
         levels=['#173240', '#0B4F3C', '#08805A', '#00B886', '#00E5A8'],
     ),
     'light': dict(
-        bg='#FFFFFF', bg2='#F8FAFC', panel='#F8FAFC', line='#E2E8F0', grid='#F1F5F9',
-        ink='#0F172A', muted='#64748B', dim='#94A3B8', accent='#059669', cyan='#0284C7', gold='#D97706',
+        bg='#FFFFFF', bg2='#F5F8FB', panel='#FFFFFF', line='#E2E8F0', grid='#EEF2F6',
+        ink='#0F172A', muted='#64748B', dim='#94A3B8', accent='#059669', cyan='#0284C7', gold='#D97706', violet='#7C3AED', glow=.10,
         levels=['#E8EEF3', '#A7F3D0', '#4ADE9B', '#10B981', '#047857'],
     ),
 }
+ICONS = {
+    'bolt': 'M13 3L5 14h6l-1 7 8-11h-6z',
+    'calendar': 'M4 6h16v14H4zM4 10h16M8 3v5M16 3v5',
+    'pulse': 'M3 12h4l3-7 4 14 3-7h4',
+    'merge': 'M7 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM7 16a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM17 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM7 8v8M7 8c0 4 4 6 10 6',
+    'issue': 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM12 8v5M12 16v.01',
+    'star': 'M12 3l2.8 5.7 6.2.9-4.5 4.4 1 6.2L12 17.3 6.5 20.2l1-6.2L3 9.6l6.2-.9z',
+    'users': 'M9 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM2 21c0-4 3-6 7-6s7 2 7 6M16 4a4 4 0 0 1 0 8M18 15c2.5.6 4 2.5 4 6',
+    'repo': 'M5 5a2 2 0 0 1 2-2h12v15H7a2 2 0 0 0-2 2zM5 20a2 2 0 0 0 2 1h12M9 7h6',
+    'git': 'M6 3v12M18 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM6 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM18 9a9 9 0 0 1-9 9',
+}
+
+
+def icon(name, x, y, size, color):
+    k = size / 24
+    return (f'<g transform="translate({x:.1f},{y:.1f}) scale({k:.4f})" fill="none" stroke="{color}" stroke-width="{1.9 / k:.2f}" '
+            f'stroke-linecap="round" stroke-linejoin="round"><path d="{ICONS[name]}"/></g>')
+
+
 LEVELS = ['NONE', 'FIRST_QUARTILE', 'SECOND_QUARTILE', 'THIRD_QUARTILE', 'FOURTH_QUARTILE']
 
 
@@ -172,7 +191,9 @@ def frame(c, height, label, meta, body, title, desc):
         '@keyframes draw{to{stroke-dashoffset:0}}'
         '.pulse{animation:pulse 2.4s ease-in-out infinite}'
         '@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}'
-        '@media (prefers-reduced-motion:reduce){.in,.pop,.draw{animation:none;opacity:1;stroke-dashoffset:0}.pulse{animation:none}}'
+        '.comet{animation:comet 8s linear infinite}@keyframes comet{to{stroke-dashoffset:-3600}}'
+        '.sweep{animation:sweep 6s ease-in-out infinite}@keyframes sweep{0%{transform:translateX(-420px)}60%,100%{transform:translateX(1400px)}}'
+        '@media (prefers-reduced-motion:reduce){.in,.pop,.draw{animation:none;opacity:1;stroke-dashoffset:0}.pulse,.comet,.sweep{animation:none}}'
         '</style>'
     )
     defs = (
@@ -181,12 +202,23 @@ def frame(c, height, label, meta, body, title, desc):
         f'<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c["bg2"]}"/>'
         f'<stop offset="1" stop-color="{c["bg"]}"/></linearGradient>'
         f'<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="{c["accent"]}"/>'
-        f'<stop offset="1" stop-color="{c["cyan"]}"/></linearGradient></defs>'
+        f'<stop offset=".55" stop-color="{c["cyan"]}"/><stop offset="1" stop-color="{c["violet"]}"/></linearGradient>'
+        f'<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c["accent"]}" stop-opacity=".55"/>'
+        f'<stop offset=".35" stop-color="{c["line"]}"/><stop offset=".7" stop-color="{c["line"]}"/><stop offset="1" stop-color="{c["cyan"]}" stop-opacity=".45"/></linearGradient>'
+        f'<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/>'
+        f'<stop offset=".5" stop-color="#fff" stop-opacity="{.05 if c["bg"] == "#05090E" else .5}"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>'
+        f'<radialGradient id="ge"><stop offset="0" stop-color="{c["accent"]}" stop-opacity="{c["glow"]}"/><stop offset="1" stop-color="{c["accent"]}" stop-opacity="0"/></radialGradient>'
+        f'<radialGradient id="gc"><stop offset="0" stop-color="{c["cyan"]}" stop-opacity="{c["glow"]}"/><stop offset="1" stop-color="{c["cyan"]}" stop-opacity="0"/></radialGradient>'
+        f'<clipPath id="cl"><rect width="{WIDTH}" height="{height}" rx="18"/></clipPath></defs>'
     )
     chrome = (
-        f'<rect x=".5" y=".5" width="{WIDTH - 1}" height="{height - 1}" rx="14" fill="url(#bg)" stroke="{c["line"]}"/>'
-        f'<rect x=".5" y=".5" width="{WIDTH - 1}" height="{height - 1}" rx="14" fill="url(#g)"/>'
-        f'<path d="M28 1.2H248" stroke="url(#acc)" stroke-width="2.4" stroke-linecap="round"/>'
+        f'<g clip-path="url(#cl)"><rect width="{WIDTH}" height="{height}" fill="url(#bg)"/>'
+        f'<rect width="{WIDTH}" height="{height}" fill="url(#g)"/>'
+        f'<circle cx="80" cy="0" r="300" fill="url(#ge)"/><circle cx="{WIDTH - 60}" cy="{height}" r="300" fill="url(#gc)"/>'
+        f'<rect class="sweep" width="300" height="{height}" fill="url(#shine)" transform="skewX(-18)"/></g>'
+        f'<rect x=".75" y=".75" width="{WIDTH - 1.5}" height="{height - 1.5}" rx="18" fill="none" stroke="url(#edge)" stroke-width="1.5"/>'
+        f'<rect class="comet" x=".75" y=".75" width="{WIDTH - 1.5}" height="{height - 1.5}" rx="18" fill="none" stroke="url(#acc)" '
+        f'stroke-width="2" stroke-linecap="round" stroke-dasharray="160 {2 * (WIDTH + height)}"/>'
         f'<circle class="pulse" cx="33" cy="33" r="4" fill="{c["accent"]}"/>'
         + t(46, 37.5, label, 11.5, c['accent'], 700, MONO, extra='letter-spacing="3"')
         + t(WIDTH - 28, 37.5, meta, 10.5, c['muted'], 600, MONO, 'end', 'letter-spacing="1.6"')
@@ -196,9 +228,14 @@ def frame(c, height, label, meta, body, title, desc):
             f'{style}{defs}{chrome}{body}</svg>\n')
 
 
-def tile(c, x, y, w, h, label, value, unit='', sub='', delay=0.0, value_size=30):
+def tile(c, x, y, w, h, label, value, unit='', sub='', delay=0.0, value_size=30, ic=None, col=None):
     out = f'<g class="in" style="animation-delay:{delay:.2f}s">'
-    out += f'<rect x="{x:.1f}" y="{y}" width="{w:.1f}" height="{h}" rx="10" fill="{c["panel"]}" stroke="{c["line"]}"/>'
+    out += f'<rect x="{x:.1f}" y="{y}" width="{w:.1f}" height="{h}" rx="12" fill="{c["panel"]}" fill-opacity=".9" stroke="{c["line"]}"/>'
+    if ic:
+        col = col or c['accent']
+        s = 26 if value_size >= 28 else 22
+        out += (f'<rect x="{x + w - s - 12:.1f}" y="{y + 12}" width="{s}" height="{s}" rx="7" fill="{col}" fill-opacity=".12" stroke="{col}" stroke-opacity=".4"/>'
+                + icon(ic, x + w - s - 12 + s * .2, y + 12 + s * .2, s * .6, col))
     out += t(x + 16, y + 24, label, 11.5, c['muted'], 600)
     out += t(x + 16, y + 24 + value_size + 6, value, value_size, c['ink'], 800)
     if unit:
@@ -375,60 +412,28 @@ def overview_card(data, c):
     ]
     for i, (label, value, unit, sub, fn, series) in enumerate(tops):
         x = 28 + i * (tw + 14)
-        body += tile(c, x, 58, tw, 128, label, value, unit, sub, .05 + i * .1)
+        body += tile(c, x, 58, tw, 128, label, value, unit, sub, .05 + i * .1, ic=('git', 'calendar', 'pulse')[i],
+                     col=(c['accent'], c['cyan'], c['violet'])[i])
         body += fn(x + 16, 118, tw - 32, 36, series, .2 + i * .1, f'sg{i}')
 
     stars = sum(r['stargazerCount'] for r in data['publicRepositories'])
     langs = {e['node']['name'] for r in data['publicRepositories'] for e in r['languages']['edges']}
     bottoms = [
-        ('PRs merged', data.get('pullRequests', {}).get('totalCount', 0), 'AUTHORED'),
-        ('Issues opened', data.get('issues', {}).get('totalCount', 0), 'ALL TIME'),
-        ('Stars earned', stars, 'FORKS EXCL.'),
-        ('Followers', data['followers']['totalCount'], 'GITHUB'),
-        ('Public repos', data['repositories']['totalCount'], f'{len(langs)} LANGUAGES'),
-        ('Contributed to', data.get('repositoriesContributedTo', {}).get('totalCount', 0), 'OTHER REPOS'),
+        ('PRs merged', data.get('pullRequests', {}).get('totalCount', 0), 'AUTHORED', 'merge', c['violet']),
+        ('Issues', data.get('issues', {}).get('totalCount', 0), 'ALL TIME', 'issue', c['gold']),
+        ('Stars', stars, 'FORKS EXCL.', 'star', c['gold']),
+        ('Followers', data['followers']['totalCount'], 'GITHUB', 'users', c['cyan']),
+        ('Public repos', data['repositories']['totalCount'], f'{len(langs)} LANGUAGES', 'repo', c['accent']),
+        ('Contributed', data.get('repositoriesContributedTo', {}).get('totalCount', 0), 'OTHER REPOS', 'bolt', c['accent']),
     ]
     bw = (WIDTH - 56 - 5 * 12) / 6
-    for i, (label, value, sub) in enumerate(bottoms):
-        body += tile(c, 28 + i * (bw + 12), 200, bw, 82, label, f'{value:,}', '', sub, .35 + i * .06, 24)
+    for i, (label, value, sub, ic, col) in enumerate(bottoms):
+        body += tile(c, 28 + i * (bw + 12), 200, bw, 82, label, f'{value:,}', '', sub, .35 + i * .06, 24, ic, col)
 
     desc = (f'GitHub overview for {data["login"]}: {all_time} contributions all time, {ytd} in {today.year}, '
             f'{stars} stars, {data["followers"]["totalCount"]} followers.')
     meta = f'@{data["login"]} · PUBLIC ACTIVITY'.upper()
     return frame(c, height, 'OVERVIEW', meta, body, 'Overview', desc)
-
-
-def squarify(items, x, y, w, h):
-    """Squarified treemap layout -> list of (item, x, y, w, h)."""
-    total = sum(v for _, v in items)
-    if not items or total <= 0:
-        return []
-    areas = [(it, it[1] * w * h / total) for it in items if it[1] > 0]
-    out = []
-
-    def worst(row, side):
-        s = sum(a for _, a in row)
-        return max(max(side * side * a / (s * s), (s * s) / (side * side * a)) for _, a in row)
-
-    while areas:
-        side = min(w, h)
-        row = [areas.pop(0)]
-        while areas and worst(row + [areas[0]], side) <= worst(row, side):
-            row.append(areas.pop(0))
-        s = sum(a for _, a in row)
-        if w >= h:
-            cw, cy = s / h, y
-            for it, a in row:
-                out.append((it, x, cy, cw, a / cw))
-                cy += a / cw
-            x, w = x + cw, w - cw
-        else:
-            ch, cx = s / w, x
-            for it, a in row:
-                out.append((it, cx, y, a / ch, ch))
-                cx += a / ch
-            y, h = y + ch, h - ch
-    return out
 
 
 def languages_card(data, c):
@@ -445,49 +450,67 @@ def languages_card(data, c):
     if len(ordered) > 8:
         visible.append(('Other', sum(n for _, n in ordered[8:])))
         colors['Other'] = c['dim']
-    height = 360
+    height = 340
     body = ''
 
-    if not total:
-        body += t(28, 98, 'No public repository language data available yet.', 14, c['muted'])
-    for i, (item, x, y, w, h) in enumerate(squarify(visible, 28, 58, 500, height - 58 - 48)):
-        name, value = item
+    # Donut.
+    cx, cy, r, sw = 168, 194, 92, 26
+    circ = 2 * math.pi * r
+    body += f'<circle cx="{cx}" cy="{cy}" r="{r + sw / 2 + 10}" fill="none" stroke="{c["line"]}" stroke-dasharray="2 5"/>'
+    body += f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{c["line"]}" stroke-width="{sw}"/>'
+    start = 0.0
+    for i, (name, value) in enumerate(visible if total else []):
+        frac = value / total
         col = colors.get(name, c['muted'])
-        ink = '#0F172A' if luminance(col) > .55 else '#FFFFFF'
-        body += (f'<g class="in" style="animation-delay:{.1 + i * .08:.2f}s">'
-                 f'<title>{escape(name)}: {fmt_bytes(value)} ({100 * value / total:.1f}%)</title>'
-                 f'<rect x="{x + 1.5:.1f}" y="{y + 1.5:.1f}" width="{max(0, w - 3):.1f}" height="{max(0, h - 3):.1f}" rx="6" fill="{col}"/>')
-        if w > 70 and h > 42:
-            body += t(x + 11, y + 22, name, 13 if w > 110 else 11.5, ink, 800)
-            body += t(x + 11, y + 38, f'{100 * value / total:.1f}%', 11, ink, 600, MONO, extra='fill-opacity=".85"')
-            if h > 64:
-                body += t(x + 11, y + 53, fmt_bytes(value), 10, ink, 500, MONO, extra='fill-opacity=".7"')
-        body += '</g>'
+        tip = f'<title>{escape(name)}: {100 * frac:.1f}%</title>'
+        anim = f'class="pop" style="animation-delay:{.2 + i * .1:.2f}s"'
+        if frac >= .999:
+            body += f'<circle {anim} cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{col}" stroke-width="{sw}">{tip}</circle>'
+        elif frac * circ > .8:
+            gap = min(.012, frac / 4)
+            a0 = 2 * math.pi * (start + gap / 2) - math.pi / 2
+            a1 = 2 * math.pi * (start + frac - gap / 2) - math.pi / 2
+            x0, y0 = cx + r * math.cos(a0), cy + r * math.sin(a0)
+            x1, y1 = cx + r * math.cos(a1), cy + r * math.sin(a1)
+            large = 1 if (a1 - a0) > math.pi else 0
+            body += (f'<path {anim} d="M{x0:.2f} {y0:.2f}A{r} {r} 0 {large} 1 {x1:.2f} {y1:.2f}" fill="none" '
+                     f'stroke="{col}" stroke-width="{sw}">{tip}</path>')
+        start += frac
+    body += f'<circle cx="{cx}" cy="{cy}" r="{r - sw / 2 - 8}" fill="{c["panel"]}" stroke="{c["line"]}"/>'
+    if total:
+        top, tv = visible[0]
+        body += t(cx, cy - 4, f'{100 * tv / total:.1f}%', 30, c['ink'], 900, anchor='middle')
+        body += t(cx, cy + 18, top, 13, colors.get(top, c['accent']), 800, anchor='middle')
+        body += t(cx, cy + 36, f'{len(ordered)} LANGUAGES', 9, c['dim'], 700, MONO, 'middle', 'letter-spacing="1.4"')
+    else:
+        body += t(cx, cy + 4, 'No data yet', 13, c['muted'], 600, anchor='middle')
 
-    lx, right = 556, WIDTH - 28
-    head = lambda x, s, a='start': t(x, 72, s, 9.5, c['dim'], 700, MONO, a, 'letter-spacing="1.4"')
-    body += head(lx, 'LANGUAGE') + head(lx + 186, 'REPOS', 'end') + head(lx + 252, 'SIZE', 'end') + head(right, 'SHARE', 'end')
+    # Ranked bars.
+    lx, right = 330, WIDTH - 28
+    head = lambda x, s_, a='start': t(x, 72, s_, 9.5, c['dim'], 700, MONO, a, 'letter-spacing="1.4"')
+    body += head(lx, 'LANGUAGE') + head(right - 196, 'REPOS', 'end') + head(right - 120, 'SIZE', 'end') + head(right, 'SHARE', 'end')
     body += f'<line x1="{lx}" y1="82" x2="{right}" y2="82" stroke="{c["line"]}"/>'
+    top_pct = 100 * visible[0][1] / total if total else 1
     for i, (name, value) in enumerate(visible):
-        y = 106 + i * 25
+        y = 108 + i * 25
         pct = 100 * value / total
+        col = colors.get(name, c['muted'])
         body += f'<g class="in" style="animation-delay:{.2 + i * .07:.2f}s">'
-        body += f'<rect x="{lx}" y="{y - 10}" width="10" height="10" rx="2.5" fill="{colors.get(name, c["muted"])}"/>'
-        body += t(lx + 18, y, name, 12.5, c['ink'], 600)
-        body += t(lx + 186, y, repos.get(name, '—'), 11.5, c['muted'], 600, MONO, 'end')
-        body += t(lx + 252, y, fmt_bytes(value), 11.5, c['muted'], 600, MONO, 'end')
-        bx, bwid = lx + 262, 18
-        body += f'<rect x="{bx}" y="{y - 6}" width="{bwid}" height="4" rx="2" fill="{c["line"]}"/>'
-        body += f'<rect x="{bx}" y="{y - 6}" width="{max(1.5, bwid * pct / 100):.1f}" height="4" rx="2" fill="{c["accent"]}"/>'
-        body += t(right, y, f'{pct:.1f}%', 11.5, c['ink'], 700, MONO, 'end')
+        body += f'<rect x="{lx}" y="{y - 10}" width="10" height="10" rx="2.5" fill="{col}"/>'
+        body += t(lx + 18, y, name, 12.5, c['ink'], 700)
+        bx, bw = lx + 130, right - 230 - (lx + 130)
+        body += f'<rect x="{bx}" y="{y - 7}" width="{bw}" height="6" rx="3" fill="{c["line"]}"/>'
+        body += f'<rect x="{bx}" y="{y - 7}" width="{max(3, bw * pct / top_pct):.1f}" height="6" rx="3" fill="{col}"/>'
+        body += t(right - 196, y, repos.get(name, '—'), 11.5, c['muted'], 600, MONO, 'end')
+        body += t(right - 120, y, fmt_bytes(value), 11.5, c['muted'], 600, MONO, 'end')
+        body += t(right, y, f'{pct:.1f}%', 12, c['ink'], 800, MONO, 'end')
         body += '</g>'
 
     n_repos = len(data['publicRepositories'])
-    body += t(28, height - 22, f'{len(ordered)} languages · {n_repos} source repositories · {fmt_bytes(total)} of code',
-              11, c['muted'], 600)
-    body += t(right, height - 22, 'BY BYTES · FORKS EXCLUDED', 10, c['dim'], 600, MONO, 'end', 'letter-spacing="1.2"')
+    body += t(28, height - 20, f'{len(ordered)} languages · {n_repos} source repositories · {fmt_bytes(total)} of code', 11, c['muted'], 600)
+    body += t(right, height - 20, 'BY BYTES · FORKS EXCLUDED', 10, c['dim'], 600, MONO, 'end', 'letter-spacing="1.2"')
     desc = ('Language breakdown: ' + ', '.join(f'{n} {100 * v / total:.1f}%' for n, v in visible)) if total else 'No language data.'
-    return frame(c, height, 'LANGUAGES', 'PUBLIC SOURCE REPOSITORIES · TREEMAP', body, 'Languages', desc)
+    return frame(c, height, 'LANGUAGES', 'PUBLIC SOURCE REPOSITORIES · LIVE', body, 'Languages', desc)
 
 
 def render(data):
