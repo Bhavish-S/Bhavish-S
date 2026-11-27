@@ -185,8 +185,8 @@ def write(name, theme, content):
 # ───────────────────────────── hero ─────────────────────────────
 
 def hero(c, theme):
-    W, H = 1000, 470
-    b = shell(c, W, H, 22, glows=(('ge', 170, 190, 260), ('gc', 860, 140, 260), ('gv', 640, 470, 240)), comet=True)
+    W, H = 1000, 440
+    b = shell(c, W, H, 22, glows=(('ge', 170, 190, 260), ('gc', 860, 140, 260), ('gv', 640, 440, 240)), comet=True)
     b += f'<g class="fo">' + mono(48, 46, 'BHAVISH S // CYBERSECURITY & AUTOMATION ARCHITECT', 10.5, c['muted'], 700, ls=2.6) + '</g>'
     # status pill
     b += (f'<g class="fo"><rect x="724" y="28" width="230" height="26" rx="13" fill="{c["em"]}" fill-opacity=".1" stroke="{c["em"]}" stroke-opacity=".45"/>'
@@ -194,38 +194,17 @@ def hero(c, theme):
           + mono(756, 45, 'AVAILABLE // MYSORE, IN', 10.5, c['em'], 800, ls=1.6) + '</g>')
     b += f'<line x1="48" y1="66" x2="952" y2="66" stroke="{c["line"]}"/>'
 
-    # monogram emblem with spinning gradient ring + orbit
     b += (f'<defs><linearGradient id="nm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c["name0"]}"/>'
           f'<stop offset="1" stop-color="{c["name1"]}"/></linearGradient></defs>')
-    cx, cy = 170, 196
-    b += (
-          f'<circle cx="{cx}" cy="{cy}" r="112" fill="none" stroke="{c["line2"]}" stroke-dasharray="2 6"/>'
-          f'<g class="spin" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy}" r="97" fill="none" stroke="url(#acc)" stroke-width="3" '
-          f'stroke-dasharray="190 420" stroke-linecap="round"/><circle cx="{cx + 112}" cy="{cy}" r="4" fill="{c["cy"]}"/></g>'
-          f'<g class="spinr" style="transform-origin:{cx}px {cy}px"><circle cx="{cx}" cy="{cy - 112}" r="3" fill="{c["em"]}"/>'
-          f'<circle cx="{cx}" cy="{cy}" r="97" fill="none" stroke="{c["vi"]}" stroke-opacity=".7" stroke-width="2" stroke-dasharray="60 550" stroke-linecap="round"/></g>'
-          f'<circle cx="{cx}" cy="{cy}" r="86" fill="{c["panel2"]}" stroke="{c["line2"]}"/>'
-          f'<circle cx="{cx}" cy="{cy}" r="86" fill="url(#ge)"/>'
-          f'<circle cx="{cx}" cy="{cy}" r="70" fill="none" stroke="{c["line2"]}" stroke-dasharray="1 5"/>'
-          # shield emblem with monogram
-          f'<path d="M{cx} {cy - 58}l44 17v31c0 28-19 48-44 58-25-10-44-30-44-58v-31z" fill="{c["em"]}" fill-opacity=".08" '
-          f'stroke="url(#acc)" stroke-width="2.2" stroke-linejoin="round"/>'
-          f'<text x="{cx}" y="{cy + 14}" font-family="{SANS}" font-size="40" font-weight="900" letter-spacing="-1" '
-          f'text-anchor="middle" fill="url(#nm)">BS</text>'
-          f'<circle class="pulse" cx="{cx}" cy="{cy + 34}" r="3" fill="{c["em"]}"/>')
-    # verified chip under avatar
-    b += (f'<g class="fi" style="animation-delay:.9s"><rect x="{cx - 78}" y="{cy + 98}" width="156" height="26" rx="13" fill="{c["panel"]}" stroke="{c["em"]}" stroke-opacity=".5"/>'
-          + icon('shield', cx - 66, cy + 103, 16, c['em'], 2) + mono(cx + 10, cy + 115.5, 'GOOGLE CERTIFIED', 9.5, c['em'], 800, 'middle', 1.2) + '</g>')
-
     # name + roles
-    b += (f'<g class="fi" style="animation-delay:.15s"><text x="316" y="158" font-family="{SANS}" font-size="74" font-weight="800" '
+    b += (f'<g class="fi" style="animation-delay:.15s"><text x="46" y="160" font-family="{SANS}" font-size="80" font-weight="800" '
           f'letter-spacing="-2.5" fill="url(#nm)">Bhavish S<tspan fill="{c["em"]}">.</tspan></text></g>')
-    b += f'<g class="fi" style="animation-delay:.3s">' + t(318, 194, 'Cybersecurity Specialist · Full-Stack Systems Architect', 15.5, c['cy'], 700, MONO) + '</g>'
-    b += (f'<g class="fi" style="animation-delay:.45s">' + f'<text x="318" y="222" font-family="{MONO}" font-size="15.5" font-weight="800" fill="{c["ink"]}">CFO, CRO &amp; Security Lead <tspan fill="{c["em"]}">@ Vovalyx</tspan></text></g>')
-    x = 318
+    b += f'<g class="fi" style="animation-delay:.3s">' + t(48, 198, 'Cybersecurity Specialist · Full-Stack Systems Architect', 15.5, c['cy'], 700, MONO) + '</g>'
+    b += (f'<g class="fi" style="animation-delay:.45s">' + f'<text x="48" y="226" font-family="{MONO}" font-size="15.5" font-weight="800" fill="{c["ink"]}">CFO, CRO &amp; Security Lead <tspan fill="{c["em"]}">@ Vovalyx</tspan></text></g>')
+    x = 48
     for i, (label, col) in enumerate((('ETHICAL HACKING & SIEM', c['em']), ('ZERO-TRUST SAAS & RBAC', c['cy']),
                                       ('VOVALYX SOFTWARE STUDIO', c['am']))):
-        g, w = chip(x, 244, label, col, c, 26, 10, 12)
+        g, w = chip(x, 250, label, col, c, 26, 10, 12)
         b += f'<g class="fi" style="animation-delay:{.6 + i * .1:.2f}s">{g}</g>'
         x += w + 10
 
@@ -243,17 +222,17 @@ def hero(c, theme):
     b += mono(rx, ry + 80, 'THREAT SURFACE // MONITORED', 8.5, c['dim'], 700, 'middle', 1.4)
 
     # identity rows
-    b += f'<line x1="48" y1="330" x2="952" y2="330" stroke="{c["line"]}"/>'
+    b += f'<line x1="48" y1="300" x2="952" y2="300" stroke="{c["line"]}"/>'
     rows = (('IDENTITY', 'Google-Certified Cybersecurity Student @ MIT Mysore (B.E. CSE) · SIEM & Threat Defense', c['ink']),
             ('IMPACT', "Built Campus-Adopted ERPs (Principal's Letter of Appreciation) · ISRO BAH 2026 Finalist", c['em']),
             ('VENTURE', 'Executive Leadership @ Vovalyx (vovalyx.in) · Universal File Converter (UniConv SaaS) · Zero-Trust RBAC', c['ink']))
     for i, (k, v, col) in enumerate(rows):
-        y = 360 + i * 27
+        y = 330 + i * 27
         b += (f'<g class="fi" style="animation-delay:{.9 + i * .12:.2f}s">' + mono(48, y, k, 10, c['dim'], 800, ls=2)
               + t(130, y, '▸', 11, c['em'], 700, MONO) + t(150, y, v, 12.5, col, 600, MONO) + '</g>')
-    b += f'<line x1="48" y1="432" x2="952" y2="432" stroke="{c["line"]}"/>'
-    b += (f'<g class="fo" style="animation-delay:1.3s">' + mono(48, 454, 'SECURITY MINDED. BUILDER BY DESIGN.', 10, c['muted'], 700, ls=2.2)
-          + mono(952, 454, 'IAMBHAVISHS.VERCEL.APP ↗', 10.5, c['em'], 800, 'end', 1.6) + '</g>')
+    b += f'<line x1="48" y1="402" x2="952" y2="402" stroke="{c["line"]}"/>'
+    b += (f'<g class="fo" style="animation-delay:1.3s">' + mono(48, 424, 'SECURITY MINDED. BUILDER BY DESIGN.', 10, c['muted'], 700, ls=2.2)
+          + mono(952, 424, 'IAMBHAVISHS.VERCEL.APP ↗', 10.5, c['em'], 800, 'end', 1.6) + '</g>')
     return svg(W, H, 'Bhavish S — Cybersecurity Specialist, Full-Stack Systems Architect, CFO, CRO & Security Lead @ Vovalyx', b)
 
 
@@ -736,7 +715,7 @@ def footer(c, theme):
 def main():
     shots = {p[0]: jpeg_data(SHOTS / p[1], (1056, 520), crop_top=520 / 1056, quality=72) for p in PROJECTS}
     for theme, c in T.items():
-        write('header', theme, hero(c, theme))
+        write('masthead', theme, hero(c, theme))
         for s in SECTIONS:
             write(f's{s[0]}', theme, banner(c, theme, *s))
         write('about', theme, about(c, theme))

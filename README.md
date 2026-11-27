@@ -6,8 +6,8 @@
 
 <a href="https://iambhavishs.vercel.app/" target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/header.dark.svg" />
-  <img src="./assets/v2/header.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer &amp; CFO, CRO &amp; Security Lead at Vovalyx" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/v2/masthead.dark.svg" />
+  <img src="./assets/v2/masthead.light.svg" width="100%" alt="Bhavish S — Cybersecurity Specialist, Full-Stack Developer &amp; CFO, CRO &amp; Security Lead at Vovalyx" />
 </picture>
 </a>
 
