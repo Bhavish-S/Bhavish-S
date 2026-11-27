@@ -2,7 +2,7 @@ name: Refresh profile cards
 
 on:
   schedule:
-    - cron: "13 0 * * *"
+    - cron: "13 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -30,6 +30,7 @@ jobs:
       - name: Render the cards displayed by the README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           PROFILE_USERNAME: ${{ github.repository_owner }}
         run: python tools/refresh_stats.py
       - name: Commit refreshed cards

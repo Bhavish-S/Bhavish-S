@@ -45,35 +45,35 @@
 </defs>
 <rect width="920" height="82" rx="12" fill="#07131B"/>
 
-  <g transform="translate(16, 12)">
+  <g transform="translate(18, 12)">
     <rect width="172" height="58" rx="10" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
     <text x="16" y="36" font-size="18" fill="#00E5A8" font-family="ui-monospace,Consolas,monospace">🐙</text>
     <text x="50" y="28" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="16" font-weight="800">50+</text>
     <text x="50" y="44" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="500">Repositories</text>
   </g>
 
-  <g transform="translate(200, 12)">
+  <g transform="translate(196, 12)">
     <rect width="172" height="58" rx="10" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
     <text x="16" y="36" font-size="18" fill="#38BDF8" font-family="ui-monospace,Consolas,monospace">🏆</text>
     <text x="50" y="28" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="16" font-weight="800">10+</text>
     <text x="50" y="44" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="500">Projects Built</text>
   </g>
 
-  <g transform="translate(384, 12)">
+  <g transform="translate(374, 12)">
     <rect width="172" height="58" rx="10" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
     <text x="16" y="36" font-size="18" fill="#00E5A8" font-family="ui-monospace,Consolas,monospace">&lt;/&gt;</text>
     <text x="50" y="28" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="16" font-weight="800">15K+</text>
     <text x="50" y="44" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="500">Lines of Code</text>
   </g>
 
-  <g transform="translate(568, 12)">
+  <g transform="translate(552, 12)">
     <rect width="172" height="58" rx="10" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
     <text x="16" y="36" font-size="18" fill="#38BDF8" font-family="ui-monospace,Consolas,monospace">⚡</text>
     <text x="50" y="28" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="16" font-weight="800">20+</text>
     <text x="50" y="44" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="500">Contributions (Recent)</text>
   </g>
 
-  <g transform="translate(752, 12)">
+  <g transform="translate(730, 12)">
     <rect width="172" height="58" rx="10" fill="#10232D" stroke="#13303D" stroke-width="1.2"/>
     <text x="16" y="36" font-size="18" fill="#00E5A8" font-family="ui-monospace,Consolas,monospace">⭐</text>
     <text x="50" y="28" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="16" font-weight="800">50+</text>

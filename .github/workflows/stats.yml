@@ -31,7 +31,7 @@ jobs:
           fi
       - name: Generate metrics
         if: steps.configuration.outputs.enabled == 'true'
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}

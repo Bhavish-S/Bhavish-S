@@ -182,8 +182,8 @@
 <td width="50%" valign="top">
   <a href="https://vovalyx.in/products.html" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-budget-allocator.svg" />
-      <img src="./assets/project-budget-allocator.svg" width="100%" alt="PetCommunity — Connect, Match &amp; Care" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-petcommunity.dark.svg" />
+      <img src="./assets/project-petcommunity.light.svg" width="100%" alt="PetCommunity — Connect, Match &amp; Care" />
     </picture>
   </a>
   <br/>
@@ -200,7 +200,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════
-     04 // ENGINEERED SYSTEMS & REPOSITORIES (ALL PROJECTS LINKED TO ACCOUNT)
+     03b // ENGINEERED SYSTEMS & REPOSITORIES (ALL PROJECTS LINKED TO ACCOUNT)
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 ### 🛠️ All Engineered Projects & Linked Repositories
@@ -235,33 +235,33 @@ The following production repositories and software systems are built, contribute
 
 <!-- 3D ISOMETRIC CONTRIBUTION CITY -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <img src="./assets/contributions.light.svg" width="100%" alt="Live 3D GitHub contribution history and streaks" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/contributions.dark.svg" />
+  <img src="./assets/stats/contributions.light.svg" width="100%" alt="Live 3D GitHub contribution history and streaks" />
 </picture>
 
 <br/>
 
 <!-- LIVE OVERVIEW METRICS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <img src="./assets/overview.light.svg" width="100%" alt="Live GitHub overview metrics" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/overview.dark.svg" />
+  <img src="./assets/stats/overview.light.svg" width="100%" alt="Live GitHub overview metrics" />
 </picture>
 
 <br/>
 
 <!-- LANGUAGE TREEMAP BREAKDOWN -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-  <img src="./assets/languages.light.svg" width="100%" alt="Live programming language breakdown" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/languages.dark.svg" />
+  <img src="./assets/stats/languages.light.svg" width="100%" alt="Live programming language breakdown" />
 </picture>
 
 <br/>
 
-<!-- ANIMATED CONTRIBUTION SNAKE -->
+<!-- ANIMATED CONTRIBUTION SNAKE (regenerated every 6 hours, emerald palette) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Bhavish-S/Bhavish-S/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating Bhavish's GitHub contribution graph" />
 </picture>
 
 <br/><br/>
@@ -349,28 +349,15 @@ The following production repositories and software systems are built, contribute
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/certifications.dark.svg" />
     <img src="./assets/dashboard/certifications.light.svg" width="100%" alt="Verified Credentials: Google Cybersecurity Professional, MIT Mysore Principal Letter, ISRO BAH 2026" />
   </picture>
-  
-  <br/><br/>
-
-  <!-- OFFICIAL GITHUB BADGES -->
-  <p align="center">
-    <a href="https://github.com/Bhavish-S?achievement=quickdraw&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="76" alt="Achievement: Quickdraw" /></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?achievement=yolo&amp;tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="76" alt="Achievement: YOLO" /></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="76" alt="Achievement: Pull Shark" /></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e96a4e32049e.png" width="76" alt="Achievement: Pair Extraordinaire" /></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/assets/galaxy-brain-default-39f92471253a.png" width="76" alt="Achievement: Galaxy Brain" /></a>
-  </p>
 
   <br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/achievements.dark.svg" />
-    <img src="./assets/dashboard/achievements.light.svg" width="100%" alt="GitHub Achievements Summary: Quickdraw, YOLO, Pull Shark, Pair Extraordinaire, Galaxy Brain" />
-  </picture>
+  <a href="https://github.com/Bhavish-S?tab=achievements" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/dashboard/achievements.dark.svg" />
+      <img src="./assets/dashboard/achievements.light.svg" width="100%" alt="GitHub Achievements: YOLO, Quickdraw, Pull Shark x2, Pair Extraordinaire x2, Galaxy Brain x2" />
+    </picture>
+  </a>
 </div>
 
 <br/>
